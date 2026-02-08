@@ -21630,7 +21630,8 @@
     "op_prev": 11.28,
     "op_diff": -11.99,
     "detail": "20260206_143A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548632.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548632.pdf",
+    "pbr": 1.4
   },
   {
     "date": "2026/02/06",
@@ -21674,7 +21675,8 @@
     "op_prev": 7.73,
     "op_diff": -0.01,
     "detail": "20260206_151A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547593.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547593.pdf",
+    "pbr": 2.61
   },
   {
     "date": "2026/02/06",
@@ -22750,7 +22752,9 @@
     "op_prev": 54.7,
     "op_diff": -1.16,
     "detail": "20260206_368A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550058.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550058.pdf",
+    "pbr": 3.16,
+    "div_yield": 5.34
   },
   {
     "date": "2026/02/06",
@@ -23073,7 +23077,9 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_416A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550091.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550091.pdf",
+    "pbr": 0.89,
+    "div_yield": 6.95
   },
   {
     "date": "2026/02/06",
