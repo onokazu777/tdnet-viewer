@@ -10,7 +10,10 @@
     "op_prev": 4.2,
     "op_diff": -0.67,
     "detail": "20260206_1301.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548742.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548742.pdf",
+    "pbr": 0.83,
+    "forward_pe": 18.0,
+    "div_yield": 2.9
   },
   {
     "date": "2026/02/06",
@@ -23,7 +26,10 @@
     "op_prev": 3.74,
     "op_diff": 0.81,
     "detail": "20260206_1332.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547927.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547927.pdf",
+    "pbr": 1.52,
+    "forward_pe": 16.0,
+    "div_yield": 2.53
   },
   {
     "date": "2026/02/06",
@@ -36,7 +42,10 @@
     "op_prev": 2.75,
     "op_diff": -3.31,
     "detail": "20260206_1382.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120251229527991.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120251229527991.pdf",
+    "pbr": 1.96,
+    "forward_pe": null,
+    "div_yield": 2.74
   },
   {
     "date": "2026/02/06",
@@ -49,7 +58,10 @@
     "op_prev": -1.46,
     "op_diff": 0.75,
     "detail": "20260206_1420.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549630.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549630.pdf",
+    "pbr": 0.55,
+    "forward_pe": null,
+    "div_yield": 3.45
   },
   {
     "date": "2026/02/06",
@@ -62,7 +74,10 @@
     "op_prev": 11.28,
     "op_diff": -11.99,
     "detail": "20260206_143A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548632.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548632.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -75,7 +90,10 @@
     "op_prev": 19.64,
     "op_diff": -5.36,
     "detail": "20260206_1450.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550097.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550097.pdf",
+    "pbr": 1.45,
+    "forward_pe": 5.7,
+    "div_yield": 3.73
   },
   {
     "date": "2026/02/06",
@@ -88,7 +106,10 @@
     "op_prev": 6.04,
     "op_diff": 2.89,
     "detail": "20260206_1515.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549815.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549815.pdf",
+    "pbr": 2.06,
+    "forward_pe": null,
+    "div_yield": 1.52
   },
   {
     "date": "2026/02/06",
@@ -101,7 +122,10 @@
     "op_prev": 7.73,
     "op_diff": -0.01,
     "detail": "20260206_151A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547593.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547593.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -114,7 +138,10 @@
     "op_prev": 22.73,
     "op_diff": -0.62,
     "detail": "20260206_1717.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550164.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550164.pdf",
+    "pbr": 2.22,
+    "forward_pe": 13.6,
+    "div_yield": 3.86
   },
   {
     "date": "2026/02/06",
@@ -127,7 +154,10 @@
     "op_prev": 1.61,
     "op_diff": 2.7,
     "detail": "20260206_1720.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547510.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547510.pdf",
+    "pbr": 1.36,
+    "forward_pe": 22.5,
+    "div_yield": 2.98
   },
   {
     "date": "2026/02/06",
@@ -140,7 +170,10 @@
     "op_prev": 7.01,
     "op_diff": 0.56,
     "detail": "20260206_1721.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548895.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548895.pdf",
+    "pbr": 1.56,
+    "forward_pe": 20.3,
+    "div_yield": 2.34
   },
   {
     "date": "2026/02/06",
@@ -153,7 +186,10 @@
     "op_prev": 2.85,
     "op_diff": 5.43,
     "detail": "20260206_1768.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260123537914.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260123537914.pdf",
+    "pbr": 1.16,
+    "forward_pe": null,
+    "div_yield": 3.18
   },
   {
     "date": "2026/02/06",
@@ -166,7 +202,10 @@
     "op_prev": 5.23,
     "op_diff": 3.34,
     "detail": "20260206_1801.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547161.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547161.pdf",
+    "pbr": 3.36,
+    "forward_pe": 37.3,
+    "div_yield": 1.41
   },
   {
     "date": "2026/02/06",
@@ -179,7 +218,10 @@
     "op_prev": 4.69,
     "op_diff": 3.72,
     "detail": "20260206_1813.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549632.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549632.pdf",
+    "pbr": 1.56,
+    "forward_pe": 18.1,
+    "div_yield": 2.36
   },
   {
     "date": "2026/02/06",
@@ -192,7 +234,10 @@
     "op_prev": 2.97,
     "op_diff": 3.06,
     "detail": "20260206_1814.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548068.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548068.pdf",
+    "pbr": 1.76,
+    "forward_pe": null,
+    "div_yield": 4.23
   },
   {
     "date": "2026/02/06",
@@ -205,7 +250,10 @@
     "op_prev": 2.85,
     "op_diff": 0.93,
     "detail": "20260206_1826.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546953.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546953.pdf",
+    "pbr": 1.33,
+    "forward_pe": null,
+    "div_yield": 4.94
   },
   {
     "date": "2026/02/06",
@@ -218,7 +266,10 @@
     "op_prev": 4.97,
     "op_diff": 0.57,
     "detail": "20260206_1867.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549590.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549590.pdf",
+    "pbr": 0.66,
+    "forward_pe": null,
+    "div_yield": 2.91
   },
   {
     "date": "2026/02/06",
@@ -231,7 +282,10 @@
     "op_prev": 10.62,
     "op_diff": 0.19,
     "detail": "20260206_1871.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548854.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548854.pdf",
+    "pbr": 2.38,
+    "forward_pe": 36.5,
+    "div_yield": 3.19
   },
   {
     "date": "2026/02/06",
@@ -244,7 +298,10 @@
     "op_prev": 3.32,
     "op_diff": 0.03,
     "detail": "20260206_1882.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549085.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549085.pdf",
+    "pbr": 1.65,
+    "forward_pe": null,
+    "div_yield": 4.9
   },
   {
     "date": "2026/02/06",
@@ -257,7 +314,10 @@
     "op_prev": 6.84,
     "op_diff": 0.87,
     "detail": "20260206_1885.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549467.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549467.pdf",
+    "pbr": 2.65,
+    "forward_pe": 28.0,
+    "div_yield": 2.06
   },
   {
     "date": "2026/02/06",
@@ -270,7 +330,10 @@
     "op_prev": 2.8,
     "op_diff": -1.68,
     "detail": "20260206_1897.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549246.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549246.pdf",
+    "pbr": 0.36,
+    "forward_pe": null,
+    "div_yield": 1.5
   },
   {
     "date": "2026/02/06",
@@ -283,7 +346,10 @@
     "op_prev": 5.48,
     "op_diff": 1.84,
     "detail": "20260206_1905.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548354.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548354.pdf",
+    "pbr": 0.74,
+    "forward_pe": null,
+    "div_yield": 3.44
   },
   {
     "date": "2026/02/06",
@@ -296,7 +362,10 @@
     "op_prev": -0.03,
     "op_diff": 4.09,
     "detail": "20260206_1945.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548734.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548734.pdf",
+    "pbr": 0.89,
+    "forward_pe": 29.2,
+    "div_yield": 3.09
   },
   {
     "date": "2026/02/06",
@@ -309,7 +378,10 @@
     "op_prev": 6.33,
     "op_diff": null,
     "detail": "20260206_1951.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548839.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548839.pdf",
+    "pbr": 1.69,
+    "forward_pe": 22.8,
+    "div_yield": 2.44
   },
   {
     "date": "2026/02/06",
@@ -322,7 +394,10 @@
     "op_prev": 9.19,
     "op_diff": 6.97,
     "detail": "20260206_1965.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547251.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547251.pdf",
+    "pbr": 2.99,
+    "forward_pe": null,
+    "div_yield": 1.35
   },
   {
     "date": "2026/02/06",
@@ -335,7 +410,10 @@
     "op_prev": 4.37,
     "op_diff": -3.48,
     "detail": "20260206_1966.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549600.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549600.pdf",
+    "pbr": 0.65,
+    "forward_pe": 6.9,
+    "div_yield": 3.9
   },
   {
     "date": "2026/02/06",
@@ -348,7 +426,10 @@
     "op_prev": 10.75,
     "op_diff": -0.25,
     "detail": "20260206_1968.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545179.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545179.pdf",
+    "pbr": 1.24,
+    "forward_pe": 4.7,
+    "div_yield": 2.88
   },
   {
     "date": "2026/02/06",
@@ -361,7 +442,10 @@
     "op_prev": 8.77,
     "op_diff": null,
     "detail": "20260206_1980.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549112.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549112.pdf",
+    "pbr": 3.62,
+    "forward_pe": 10.2,
+    "div_yield": 2.99
   },
   {
     "date": "2026/02/06",
@@ -374,7 +458,10 @@
     "op_prev": 6.1,
     "op_diff": -0.36,
     "detail": "20260206_2002.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548620.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548620.pdf",
+    "pbr": 1.19,
+    "forward_pe": 16.6,
+    "div_yield": 2.84
   },
   {
     "date": "2026/02/06",
@@ -387,7 +474,10 @@
     "op_prev": 3.81,
     "op_diff": 0.12,
     "detail": "20260206_2004.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548334.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548334.pdf",
+    "pbr": 0.73,
+    "forward_pe": 10.6,
+    "div_yield": 3.05
   },
   {
     "date": "2026/02/06",
@@ -400,7 +490,10 @@
     "op_prev": 9.59,
     "op_diff": -0.04,
     "detail": "20260206_2112.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550119.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550119.pdf",
+    "pbr": 0.77,
+    "forward_pe": null,
+    "div_yield": 7.35
   },
   {
     "date": "2026/02/06",
@@ -413,7 +506,10 @@
     "op_prev": 1.79,
     "op_diff": -0.28,
     "detail": "20260206_2139.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545241.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545241.pdf",
+    "pbr": 1.52,
+    "forward_pe": null,
+    "div_yield": 2.64
   },
   {
     "date": "2026/02/06",
@@ -426,7 +522,10 @@
     "op_prev": 23.29,
     "op_diff": -4.1,
     "detail": "20260206_2148.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549286.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549286.pdf",
+    "pbr": 4.05,
+    "forward_pe": 20.8,
+    "div_yield": 5.83
   },
   {
     "date": "2026/02/06",
@@ -439,7 +538,10 @@
     "op_prev": 8.88,
     "op_diff": 1.96,
     "detail": "20260206_2154.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550134.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550134.pdf",
+    "pbr": 2.05,
+    "forward_pe": 12.2,
+    "div_yield": 4.55
   },
   {
     "date": "2026/02/06",
@@ -452,7 +554,10 @@
     "op_prev": 7.6,
     "op_diff": 0.64,
     "detail": "20260206_2179.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545391.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545391.pdf",
+    "pbr": 1.05,
+    "forward_pe": null,
+    "div_yield": 2.7
   },
   {
     "date": "2026/02/06",
@@ -465,7 +570,10 @@
     "op_prev": 11.45,
     "op_diff": -6.51,
     "detail": "20260206_2193.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549442.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549442.pdf",
+    "pbr": 0.82,
+    "forward_pe": -4.6,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -478,7 +586,10 @@
     "op_prev": 0.33,
     "op_diff": 0.11,
     "detail": "20260206_2204.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546805.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546805.pdf",
+    "pbr": 0.71,
+    "forward_pe": null,
+    "div_yield": 2.26
   },
   {
     "date": "2026/02/06",
@@ -491,7 +602,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_2282.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546641.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546641.pdf",
+    "pbr": 1.21,
+    "forward_pe": 19.8,
+    "div_yield": 2.35
   },
   {
     "date": "2026/02/06",
@@ -504,7 +618,10 @@
     "op_prev": 13.22,
     "op_diff": -1.08,
     "detail": "20260206_2349.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546886.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546886.pdf",
+    "pbr": 1.14,
+    "forward_pe": null,
+    "div_yield": 1.19
   },
   {
     "date": "2026/02/06",
@@ -517,7 +634,10 @@
     "op_prev": 0.52,
     "op_diff": -1.44,
     "detail": "20260206_2376.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547661.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547661.pdf",
+    "pbr": 0.57,
+    "forward_pe": null,
+    "div_yield": 1.86
   },
   {
     "date": "2026/02/06",
@@ -530,7 +650,10 @@
     "op_prev": 8.51,
     "op_diff": -3.67,
     "detail": "20260206_2395.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548105.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548105.pdf",
+    "pbr": 1.31,
+    "forward_pe": 18.0,
+    "div_yield": 3.01
   },
   {
     "date": "2026/02/06",
@@ -543,7 +666,10 @@
     "op_prev": 10.51,
     "op_diff": -1.19,
     "detail": "20260206_2475.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549545.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549545.pdf",
+    "pbr": 0.98,
+    "forward_pe": 9.1,
+    "div_yield": 3.84
   },
   {
     "date": "2026/02/06",
@@ -556,7 +682,10 @@
     "op_prev": 32.93,
     "op_diff": 3.92,
     "detail": "20260206_2480.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549517.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549517.pdf",
+    "pbr": 1.49,
+    "forward_pe": null,
+    "div_yield": 2.21
   },
   {
     "date": "2026/02/06",
@@ -569,7 +698,10 @@
     "op_prev": 3.88,
     "op_diff": 0.57,
     "detail": "20260206_2573.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548773.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548773.pdf",
+    "pbr": 1.24,
+    "forward_pe": null,
+    "div_yield": 0.76
   },
   {
     "date": "2026/02/06",
@@ -582,7 +714,10 @@
     "op_prev": 4.43,
     "op_diff": -2.32,
     "detail": "20260206_2613.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129542194.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129542194.pdf",
+    "pbr": 0.63,
+    "forward_pe": 15.2,
+    "div_yield": 3.43
   },
   {
     "date": "2026/02/06",
@@ -595,7 +730,10 @@
     "op_prev": 11.84,
     "op_diff": 0.94,
     "detail": "20260206_2702.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548971.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548971.pdf",
+    "pbr": 3.3,
+    "forward_pe": 29.2,
+    "div_yield": 1.84
   },
   {
     "date": "2026/02/06",
@@ -608,7 +746,10 @@
     "op_prev": 3.12,
     "op_diff": -0.06,
     "detail": "20260206_2730.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538592.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538592.pdf",
+    "pbr": 0.98,
+    "forward_pe": 17.3,
+    "div_yield": 2.24
   },
   {
     "date": "2026/02/06",
@@ -621,7 +762,10 @@
     "op_prev": 1.57,
     "op_diff": 0.63,
     "detail": "20260206_2790.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546704.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546704.pdf",
+    "pbr": 0.36,
+    "forward_pe": null,
+    "div_yield": 2.59
   },
   {
     "date": "2026/02/06",
@@ -634,7 +778,10 @@
     "op_prev": 10.62,
     "op_diff": 0.24,
     "detail": "20260206_2814.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547418.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547418.pdf",
+    "pbr": 0.27,
+    "forward_pe": null,
+    "div_yield": 1.37
   },
   {
     "date": "2026/02/06",
@@ -647,7 +794,10 @@
     "op_prev": 16.72,
     "op_diff": 0.83,
     "detail": "20260206_2815.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549064.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549064.pdf",
+    "pbr": 1.42,
+    "forward_pe": 20.6,
+    "div_yield": 3.12
   },
   {
     "date": "2026/02/06",
@@ -660,7 +810,10 @@
     "op_prev": 6.93,
     "op_diff": 0.62,
     "detail": "20260206_2819.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549059.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549059.pdf",
+    "pbr": 0.73,
+    "forward_pe": 14.0,
+    "div_yield": 1.66
   },
   {
     "date": "2026/02/06",
@@ -673,7 +826,10 @@
     "op_prev": 2.83,
     "op_diff": 1.51,
     "detail": "20260206_2894.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549402.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549402.pdf",
+    "pbr": 1.35,
+    "forward_pe": null,
+    "div_yield": 1.18
   },
   {
     "date": "2026/02/06",
@@ -686,7 +842,10 @@
     "op_prev": 2.97,
     "op_diff": -0.86,
     "detail": "20260206_2911.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548712.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548712.pdf",
+    "pbr": 0.52,
+    "forward_pe": null,
+    "div_yield": 1.5
   },
   {
     "date": "2026/02/06",
@@ -699,7 +858,10 @@
     "op_prev": 3.72,
     "op_diff": -1.0,
     "detail": "20260206_3028.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547895.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547895.pdf",
+    "pbr": 0.73,
+    "forward_pe": 17.3,
+    "div_yield": 2.26
   },
   {
     "date": "2026/02/06",
@@ -712,7 +874,10 @@
     "op_prev": 1.24,
     "op_diff": -0.5,
     "detail": "20260206_3055.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549832.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549832.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -725,7 +890,10 @@
     "op_prev": 14.36,
     "op_diff": -0.07,
     "detail": "20260206_3099.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549077.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549077.pdf",
+    "pbr": 1.8,
+    "forward_pe": 18.7,
+    "div_yield": 2.65
   },
   {
     "date": "2026/02/06",
@@ -738,7 +906,10 @@
     "op_prev": 4.59,
     "op_diff": 4.85,
     "detail": "20260206_3103.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548281.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548281.pdf",
+    "pbr": 0.98,
+    "forward_pe": 23.3,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -751,7 +922,10 @@
     "op_prev": 2.72,
     "op_diff": 0.55,
     "detail": "20260206_3107.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549105.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549105.pdf",
+    "pbr": 1.73,
+    "forward_pe": 10.6,
+    "div_yield": 3.48
   },
   {
     "date": "2026/02/06",
@@ -764,7 +938,10 @@
     "op_prev": 4.36,
     "op_diff": -5.08,
     "detail": "20260206_3111.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550279.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550279.pdf",
+    "pbr": 1.14,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -777,7 +954,10 @@
     "op_prev": 5.68,
     "op_diff": -0.11,
     "detail": "20260206_3176.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548031.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548031.pdf",
+    "pbr": 0.97,
+    "forward_pe": 8.5,
+    "div_yield": 3.26
   },
   {
     "date": "2026/02/06",
@@ -790,7 +970,10 @@
     "op_prev": 6.7,
     "op_diff": -1.98,
     "detail": "20260206_3179.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549116.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549116.pdf",
+    "pbr": 2.63,
+    "forward_pe": 8.6,
+    "div_yield": 3.89
   },
   {
     "date": "2026/02/06",
@@ -803,7 +986,10 @@
     "op_prev": 11.06,
     "op_diff": 1.17,
     "detail": "20260206_3221.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550414.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550414.pdf",
+    "pbr": 2.51,
+    "forward_pe": 14.6,
+    "div_yield": 0.88
   },
   {
     "date": "2026/02/06",
@@ -816,7 +1002,10 @@
     "op_prev": 8.25,
     "op_diff": -22.83,
     "detail": "20260206_3245.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550023.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550023.pdf",
+    "pbr": 1.59,
+    "forward_pe": null,
+    "div_yield": 5.73
   },
   {
     "date": "2026/02/06",
@@ -829,7 +1018,10 @@
     "op_prev": 8.47,
     "op_diff": 1.82,
     "detail": "20260206_3271.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550586.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550586.pdf",
+    "pbr": 2.64,
+    "forward_pe": null,
+    "div_yield": 3.39
   },
   {
     "date": "2026/02/06",
@@ -842,7 +1034,10 @@
     "op_prev": 11.51,
     "op_diff": 1.0,
     "detail": "20260206_3289.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549358.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549358.pdf",
+    "pbr": 1.28,
+    "forward_pe": 13.9,
+    "div_yield": 2.94
   },
   {
     "date": "2026/02/06",
@@ -855,7 +1050,10 @@
     "op_prev": -5.6,
     "op_diff": 7.47,
     "detail": "20260206_3315.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545181.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545181.pdf",
+    "pbr": 0.97,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -868,7 +1066,10 @@
     "op_prev": 3.07,
     "op_diff": -0.31,
     "detail": "20260206_3360.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550549.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550549.pdf",
+    "pbr": 1.65,
+    "forward_pe": 14.4,
+    "div_yield": 2.27
   },
   {
     "date": "2026/02/06",
@@ -881,7 +1082,10 @@
     "op_prev": 4.28,
     "op_diff": 1.58,
     "detail": "20260206_3375.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549857.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549857.pdf",
+    "pbr": 0.76,
+    "forward_pe": null,
+    "div_yield": 7.87
   },
   {
     "date": "2026/02/06",
@@ -894,7 +1098,10 @@
     "op_prev": 4.1,
     "op_diff": -0.72,
     "detail": "20260206_3420.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549825.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549825.pdf",
+    "pbr": 0.54,
+    "forward_pe": null,
+    "div_yield": 3.77
   },
   {
     "date": "2026/02/06",
@@ -907,7 +1114,10 @@
     "op_prev": -1.52,
     "op_diff": 4.63,
     "detail": "20260206_3422.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545924.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545924.pdf",
+    "pbr": 0.32,
+    "forward_pe": 2.8,
+    "div_yield": 0.81
   },
   {
     "date": "2026/02/06",
@@ -920,7 +1130,10 @@
     "op_prev": 8.03,
     "op_diff": 1.34,
     "detail": "20260206_3442.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127538946.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127538946.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -933,7 +1146,10 @@
     "op_prev": 2.82,
     "op_diff": 1.44,
     "detail": "20260206_3461.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540574.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540574.pdf",
+    "pbr": 1.68,
+    "forward_pe": null,
+    "div_yield": 2.35
   },
   {
     "date": "2026/02/06",
@@ -946,7 +1162,10 @@
     "op_prev": 2.63,
     "op_diff": -0.7,
     "detail": "20260206_3537.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130542703.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130542703.pdf",
+    "pbr": 0.58,
+    "forward_pe": null,
+    "div_yield": 2.47
   },
   {
     "date": "2026/02/06",
@@ -959,7 +1178,10 @@
     "op_prev": 4.12,
     "op_diff": -2.59,
     "detail": "20260206_3553.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550079.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550079.pdf",
+    "pbr": 0.75,
+    "forward_pe": null,
+    "div_yield": 4.59
   },
   {
     "date": "2026/02/06",
@@ -972,7 +1194,10 @@
     "op_prev": 9.66,
     "op_diff": 1.31,
     "detail": "20260206_3563.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548159.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548159.pdf",
+    "pbr": 10.24,
+    "forward_pe": 56.7,
+    "div_yield": 0.37
   },
   {
     "date": "2026/02/06",
@@ -985,7 +1210,10 @@
     "op_prev": 15.32,
     "op_diff": -4.59,
     "detail": "20260206_3583.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549167.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549167.pdf",
+    "pbr": 0.51,
+    "forward_pe": null,
+    "div_yield": 2.64
   },
   {
     "date": "2026/02/06",
@@ -998,7 +1226,10 @@
     "op_prev": -14.13,
     "op_diff": 17.77,
     "detail": "20260206_3634.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120251216520964.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120251216520964.pdf",
+    "pbr": 2.36,
+    "forward_pe": null,
+    "div_yield": 1.29
   },
   {
     "date": "2026/02/06",
@@ -1011,7 +1242,10 @@
     "op_prev": 54.7,
     "op_diff": -1.16,
     "detail": "20260206_368A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550058.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550058.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1024,7 +1258,10 @@
     "op_prev": 3.97,
     "op_diff": 1.26,
     "detail": "20260206_3766.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549312.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549312.pdf",
+    "pbr": 1.0,
+    "forward_pe": null,
+    "div_yield": 3.6
   },
   {
     "date": "2026/02/06",
@@ -1037,7 +1274,10 @@
     "op_prev": 20.16,
     "op_diff": -1.52,
     "detail": "20260206_3773.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546415.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546415.pdf",
+    "pbr": 1.36,
+    "forward_pe": 13.0,
+    "div_yield": 2.35
   },
   {
     "date": "2026/02/06",
@@ -1050,7 +1290,10 @@
     "op_prev": 9.03,
     "op_diff": 0.76,
     "detail": "20260206_3774.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541668.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541668.pdf",
+    "pbr": 2.55,
+    "forward_pe": 15.3,
+    "div_yield": 1.78
   },
   {
     "date": "2026/02/06",
@@ -1063,7 +1306,10 @@
     "op_prev": 4.98,
     "op_diff": 0.33,
     "detail": "20260206_3776.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549542.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549542.pdf",
+    "pbr": 1.37,
+    "forward_pe": 81.2,
+    "div_yield": 1.03
   },
   {
     "date": "2026/02/06",
@@ -1076,7 +1322,10 @@
     "op_prev": 6.69,
     "op_diff": 2.0,
     "detail": "20260206_3842.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545386.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545386.pdf",
+    "pbr": 1.34,
+    "forward_pe": null,
+    "div_yield": 1.99
   },
   {
     "date": "2026/02/06",
@@ -1089,7 +1338,10 @@
     "op_prev": 12.05,
     "op_diff": -0.76,
     "detail": "20260206_3844.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549945.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549945.pdf",
+    "pbr": 2.52,
+    "forward_pe": 13.1,
+    "div_yield": 3.25
   },
   {
     "date": "2026/02/06",
@@ -1102,7 +1354,10 @@
     "op_prev": 4.12,
     "op_diff": -2.21,
     "detail": "20260206_3861.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549755.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549755.pdf",
+    "pbr": 0.78,
+    "forward_pe": 12.0,
+    "div_yield": 3.94
   },
   {
     "date": "2026/02/06",
@@ -1115,7 +1370,10 @@
     "op_prev": 1.25,
     "op_diff": 0.44,
     "detail": "20260206_3863.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549282.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549282.pdf",
+    "pbr": 0.27,
+    "forward_pe": 9.4,
+    "div_yield": 1.32
   },
   {
     "date": "2026/02/06",
@@ -1128,7 +1386,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_3895.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550124.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550124.pdf",
+    "pbr": 0.46,
+    "forward_pe": null,
+    "div_yield": 3.76
   },
   {
     "date": "2026/02/06",
@@ -1141,7 +1402,10 @@
     "op_prev": -3.02,
     "op_diff": -2.07,
     "detail": "20260206_3926.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549698.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549698.pdf",
+    "pbr": 2.83,
+    "forward_pe": 52.5,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1154,7 +1418,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_3940.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545164.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545164.pdf",
+    "pbr": 1.79,
+    "forward_pe": 2.5,
+    "div_yield": 5.3
   },
   {
     "date": "2026/02/06",
@@ -1167,7 +1434,10 @@
     "op_prev": 4.45,
     "op_diff": -1.02,
     "detail": "20260206_3943.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547319.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547319.pdf",
+    "pbr": 0.59,
+    "forward_pe": null,
+    "div_yield": 3.67
   },
   {
     "date": "2026/02/06",
@@ -1180,7 +1450,10 @@
     "op_prev": 3.79,
     "op_diff": -0.7,
     "detail": "20260206_3945.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260109531905.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260109531905.pdf",
+    "pbr": 0.81,
+    "forward_pe": null,
+    "div_yield": 3.92
   },
   {
     "date": "2026/02/06",
@@ -1193,7 +1466,10 @@
     "op_prev": 10.84,
     "op_diff": -7.47,
     "detail": "20260206_3998.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549213.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549213.pdf",
+    "pbr": 1.07,
+    "forward_pe": 6.2,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1206,7 +1482,10 @@
     "op_prev": 7.04,
     "op_diff": -3.56,
     "detail": "20260206_4027.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547569.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547569.pdf",
+    "pbr": 0.56,
+    "forward_pe": 7.0,
+    "div_yield": 3.99
   },
   {
     "date": "2026/02/06",
@@ -1219,7 +1498,10 @@
     "op_prev": 3.92,
     "op_diff": 2.34,
     "detail": "20260206_4061.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548045.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548045.pdf",
+    "pbr": 0.91,
+    "forward_pe": 17.0,
+    "div_yield": 3.21
   },
   {
     "date": "2026/02/06",
@@ -1232,7 +1514,10 @@
     "op_prev": 6.97,
     "op_diff": 1.61,
     "detail": "20260206_4064.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549399.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549399.pdf",
+    "pbr": 0.73,
+    "forward_pe": 12.4,
+    "div_yield": 3.55
   },
   {
     "date": "2026/02/06",
@@ -1245,7 +1530,10 @@
     "op_prev": 0.5,
     "op_diff": 0.1,
     "detail": "20260206_4102.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549065.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549065.pdf",
+    "pbr": 0.32,
+    "forward_pe": null,
+    "div_yield": 2.02
   },
   {
     "date": "2026/02/06",
@@ -1258,7 +1546,10 @@
     "op_prev": 10.27,
     "op_diff": -6.78,
     "detail": "20260206_4120.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544233.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544233.pdf",
+    "pbr": 0.42,
+    "forward_pe": null,
+    "div_yield": 2.8
   },
   {
     "date": "2026/02/06",
@@ -1271,7 +1562,10 @@
     "op_prev": -50.79,
     "op_diff": 62.19,
     "detail": "20260206_4169.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547532.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547532.pdf",
+    "pbr": 2.71,
+    "forward_pe": 9.8,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1284,7 +1578,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_416A.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550091.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550091.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1297,7 +1594,10 @@
     "op_prev": 10.18,
     "op_diff": -0.41,
     "detail": "20260206_4189.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260119535780.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260119535780.pdf",
+    "pbr": 1.38,
+    "forward_pe": 10.8,
+    "div_yield": 4.01
   },
   {
     "date": "2026/02/06",
@@ -1310,7 +1610,10 @@
     "op_prev": 4.19,
     "op_diff": 1.89,
     "detail": "20260206_4224.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549439.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549439.pdf",
+    "pbr": 0.47,
+    "forward_pe": null,
+    "div_yield": 3.5
   },
   {
     "date": "2026/02/06",
@@ -1323,7 +1626,10 @@
     "op_prev": 0.8,
     "op_diff": null,
     "detail": "20260206_4286.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539669.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539669.pdf",
+    "pbr": 1.57,
+    "forward_pe": 15.9,
+    "div_yield": 1.46
   },
   {
     "date": "2026/02/06",
@@ -1336,7 +1642,10 @@
     "op_prev": 10.27,
     "op_diff": 2.68,
     "detail": "20260206_4320.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547585.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547585.pdf",
+    "pbr": 2.57,
+    "forward_pe": null,
+    "div_yield": 1.99
   },
   {
     "date": "2026/02/06",
@@ -1349,7 +1658,10 @@
     "op_prev": 8.45,
     "op_diff": 2.18,
     "detail": "20260206_4335.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550251.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550251.pdf",
+    "pbr": 1.63,
+    "forward_pe": null,
+    "div_yield": 3.13
   },
   {
     "date": "2026/02/06",
@@ -1362,7 +1674,10 @@
     "op_prev": -1.88,
     "op_diff": 3.3,
     "detail": "20260206_4341.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547761.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547761.pdf",
+    "pbr": 0.5,
+    "forward_pe": null,
+    "div_yield": 2.78
   },
   {
     "date": "2026/02/06",
@@ -1375,7 +1690,10 @@
     "op_prev": 2.8,
     "op_diff": -0.4,
     "detail": "20260206_4350.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547273.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547273.pdf",
+    "pbr": 0.9,
+    "forward_pe": 5.9,
+    "div_yield": 2.29
   },
   {
     "date": "2026/02/06",
@@ -1388,7 +1706,10 @@
     "op_prev": 1.57,
     "op_diff": 1.67,
     "detail": "20260206_4351.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546156.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546156.pdf",
+    "pbr": 1.06,
+    "forward_pe": null,
+    "div_yield": 1.2
   },
   {
     "date": "2026/02/06",
@@ -1401,7 +1722,10 @@
     "op_prev": 24.03,
     "op_diff": 1.11,
     "detail": "20260206_4368.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550192.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550192.pdf",
+    "pbr": 2.41,
+    "forward_pe": 26.9,
+    "div_yield": 1.06
   },
   {
     "date": "2026/02/06",
@@ -1414,7 +1738,10 @@
     "op_prev": 28.6,
     "op_diff": 2.91,
     "detail": "20260206_4390.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549146.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549146.pdf",
+    "pbr": 2.44,
+    "forward_pe": 12.7,
+    "div_yield": 1.34
   },
   {
     "date": "2026/02/06",
@@ -1427,7 +1754,10 @@
     "op_prev": 33.45,
     "op_diff": -32.49,
     "detail": "20260206_4521.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538211.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538211.pdf",
+    "pbr": 1.07,
+    "forward_pe": 42.8,
+    "div_yield": 4.61
   },
   {
     "date": "2026/02/06",
@@ -1440,7 +1770,10 @@
     "op_prev": 8.97,
     "op_diff": -0.37,
     "detail": "20260206_4534.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544602.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544602.pdf",
+    "pbr": 0.94,
+    "forward_pe": 19.5,
+    "div_yield": 2.19
   },
   {
     "date": "2026/02/06",
@@ -1453,7 +1786,10 @@
     "op_prev": 23.67,
     "op_diff": -3.79,
     "detail": "20260206_4540.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549785.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549785.pdf",
+    "pbr": 1.02,
+    "forward_pe": 10.0,
+    "div_yield": 3.43
   },
   {
     "date": "2026/02/06",
@@ -1466,7 +1802,10 @@
     "op_prev": 10.04,
     "op_diff": -12.4,
     "detail": "20260206_4548.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550275.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550275.pdf",
+    "pbr": 0.52,
+    "forward_pe": 14.1,
+    "div_yield": 4.3
   },
   {
     "date": "2026/02/06",
@@ -1479,7 +1818,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_4556.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550631.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550631.pdf",
+    "pbr": 2.16,
+    "forward_pe": null,
+    "div_yield": 2.45
   },
   {
     "date": "2026/02/06",
@@ -1492,7 +1834,10 @@
     "op_prev": -123.98,
     "op_diff": 7.73,
     "detail": "20260206_4564.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548356.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548356.pdf",
+    "pbr": 3.22,
+    "forward_pe": -1.0,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1505,7 +1850,10 @@
     "op_prev": -5422.58,
     "op_diff": -1805.99,
     "detail": "20260206_4588.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550286.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550286.pdf",
+    "pbr": 27.34,
+    "forward_pe": -25.0,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1518,7 +1866,10 @@
     "op_prev": 5.91,
     "op_diff": -0.98,
     "detail": "20260206_4623.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260120536154.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260120536154.pdf",
+    "pbr": 0.45,
+    "forward_pe": null,
+    "div_yield": 3.45
   },
   {
     "date": "2026/02/06",
@@ -1531,7 +1882,10 @@
     "op_prev": 9.12,
     "op_diff": 2.41,
     "detail": "20260206_4624.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536713.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536713.pdf",
+    "pbr": 0.44,
+    "forward_pe": null,
+    "div_yield": 1.22
   },
   {
     "date": "2026/02/06",
@@ -1544,7 +1898,10 @@
     "op_prev": 4.97,
     "op_diff": 0.19,
     "detail": "20260206_4665.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550117.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550117.pdf",
+    "pbr": 1.32,
+    "forward_pe": 21.0,
+    "div_yield": 3.01
   },
   {
     "date": "2026/02/06",
@@ -1557,7 +1914,10 @@
     "op_prev": 9.64,
     "op_diff": 0.15,
     "detail": "20260206_4674.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549010.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549010.pdf",
+    "pbr": 1.95,
+    "forward_pe": 8.1,
+    "div_yield": 3.72
   },
   {
     "date": "2026/02/06",
@@ -1570,7 +1930,10 @@
     "op_prev": 42.82,
     "op_diff": 2.64,
     "detail": "20260206_4686.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260122537261.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260122537261.pdf",
+    "pbr": 2.39,
+    "forward_pe": null,
+    "div_yield": 0.56
   },
   {
     "date": "2026/02/06",
@@ -1583,7 +1946,10 @@
     "op_prev": 7.5,
     "op_diff": 0.54,
     "detail": "20260206_4694.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549618.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549618.pdf",
+    "pbr": 1.21,
+    "forward_pe": 27.2,
+    "div_yield": 2.97
   },
   {
     "date": "2026/02/06",
@@ -1596,7 +1962,10 @@
     "op_prev": 4.07,
     "op_diff": 6.0,
     "detail": "20260206_4751.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550062.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550062.pdf",
+    "pbr": 3.4,
+    "forward_pe": 24.4,
+    "div_yield": 1.52
   },
   {
     "date": "2026/02/06",
@@ -1609,7 +1978,10 @@
     "op_prev": 8.11,
     "op_diff": 2.19,
     "detail": "20260206_4769.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549257.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549257.pdf",
+    "pbr": 1.2,
+    "forward_pe": null,
+    "div_yield": 3.84
   },
   {
     "date": "2026/02/06",
@@ -1622,7 +1994,10 @@
     "op_prev": 9.81,
     "op_diff": -1.95,
     "detail": "20260206_4783.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545903.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545903.pdf",
+    "pbr": 3.3,
+    "forward_pe": null,
+    "div_yield": 1.84
   },
   {
     "date": "2026/02/06",
@@ -1635,7 +2010,10 @@
     "op_prev": 19.39,
     "op_diff": -0.69,
     "detail": "20260206_4809.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538625.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538625.pdf",
+    "pbr": 1.0,
+    "forward_pe": null,
+    "div_yield": 3.41
   },
   {
     "date": "2026/02/06",
@@ -1648,7 +2026,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_4828.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549243.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549243.pdf",
+    "pbr": 5.87,
+    "forward_pe": 5.2,
+    "div_yield": 3.17
   },
   {
     "date": "2026/02/06",
@@ -1661,7 +2042,10 @@
     "op_prev": 17.32,
     "op_diff": null,
     "detail": "20260206_4890.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549553.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549553.pdf",
+    "pbr": 6.37,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1674,7 +2058,10 @@
     "op_prev": 2.34,
     "op_diff": 2.55,
     "detail": "20260206_4917.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548135.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548135.pdf",
+    "pbr": 2.0,
+    "forward_pe": 112.9,
+    "div_yield": 1.28
   },
   {
     "date": "2026/02/06",
@@ -1687,7 +2074,10 @@
     "op_prev": 10.77,
     "op_diff": -1.96,
     "detail": "20260206_4958.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548683.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548683.pdf",
+    "pbr": 0.91,
+    "forward_pe": 14.9,
+    "div_yield": 3.49
   },
   {
     "date": "2026/02/06",
@@ -1700,7 +2090,10 @@
     "op_prev": 10.55,
     "op_diff": -3.74,
     "detail": "20260206_4970.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550327.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550327.pdf",
+    "pbr": 11.53,
+    "forward_pe": 23.1,
+    "div_yield": 0.47
   },
   {
     "date": "2026/02/06",
@@ -1713,7 +2106,10 @@
     "op_prev": 9.67,
     "op_diff": 0.19,
     "detail": "20260206_5013.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130543238.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130543238.pdf",
+    "pbr": 0.86,
+    "forward_pe": null,
+    "div_yield": 4.51
   },
   {
     "date": "2026/02/06",
@@ -1726,7 +2122,10 @@
     "op_prev": 4.32,
     "op_diff": 0.05,
     "detail": "20260206_5021.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549151.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549151.pdf",
+    "pbr": 1.31,
+    "forward_pe": 4.3,
+    "div_yield": 3.5
   },
   {
     "date": "2026/02/06",
@@ -1739,7 +2138,10 @@
     "op_prev": 6.16,
     "op_diff": 0.18,
     "detail": "20260206_5186.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546888.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546888.pdf",
+    "pbr": 0.71,
+    "forward_pe": 10.8,
+    "div_yield": 3.53
   },
   {
     "date": "2026/02/06",
@@ -1752,7 +2154,10 @@
     "op_prev": 6.09,
     "op_diff": 0.11,
     "detail": "20260206_5201.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549320.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549320.pdf",
+    "pbr": 0.87,
+    "forward_pe": 14.8,
+    "div_yield": 3.44
   },
   {
     "date": "2026/02/06",
@@ -1765,7 +2170,10 @@
     "op_prev": 1.72,
     "op_diff": 1.17,
     "detail": "20260206_5202.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549241.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549241.pdf",
+    "pbr": 0.5,
+    "forward_pe": 11.3,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1778,7 +2186,10 @@
     "op_prev": 2.05,
     "op_diff": 8.92,
     "detail": "20260206_5214.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548852.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548852.pdf",
+    "pbr": 1.07,
+    "forward_pe": 37.0,
+    "div_yield": 2.28
   },
   {
     "date": "2026/02/06",
@@ -1791,7 +2202,10 @@
     "op_prev": 8.75,
     "op_diff": 0.69,
     "detail": "20260206_5237.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544871.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544871.pdf",
+    "pbr": 0.59,
+    "forward_pe": null,
+    "div_yield": 3.68
   },
   {
     "date": "2026/02/06",
@@ -1804,7 +2218,10 @@
     "op_prev": 7.06,
     "op_diff": -0.29,
     "detail": "20260206_5262.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547711.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547711.pdf",
+    "pbr": 1.8,
+    "forward_pe": 19.5,
+    "div_yield": 1.27
   },
   {
     "date": "2026/02/06",
@@ -1817,7 +2234,10 @@
     "op_prev": 10.81,
     "op_diff": -4.8,
     "detail": "20260206_5268.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540084.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540084.pdf",
+    "pbr": 0.98,
+    "forward_pe": null,
+    "div_yield": 1.4
   },
   {
     "date": "2026/02/06",
@@ -1830,7 +2250,10 @@
     "op_prev": 4.1,
     "op_diff": 1.24,
     "detail": "20260206_5282.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545522.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545522.pdf",
+    "pbr": 0.55,
+    "forward_pe": 12.8,
+    "div_yield": 2.33
   },
   {
     "date": "2026/02/06",
@@ -1843,7 +2266,10 @@
     "op_prev": 2.43,
     "op_diff": -0.54,
     "detail": "20260206_5283.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129540879.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129540879.pdf",
+    "pbr": 0.38,
+    "forward_pe": null,
+    "div_yield": 1.98
   },
   {
     "date": "2026/02/06",
@@ -1856,7 +2282,10 @@
     "op_prev": 15.06,
     "op_diff": -1.04,
     "detail": "20260206_5284.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549250.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549250.pdf",
+    "pbr": 1.15,
+    "forward_pe": null,
+    "div_yield": 4.16
   },
   {
     "date": "2026/02/06",
@@ -1869,7 +2298,10 @@
     "op_prev": 5.32,
     "op_diff": 2.83,
     "detail": "20260206_5287.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544433.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544433.pdf",
+    "pbr": 1.27,
+    "forward_pe": null,
+    "div_yield": 3.07
   },
   {
     "date": "2026/02/06",
@@ -1882,7 +2314,10 @@
     "op_prev": 11.77,
     "op_diff": -0.04,
     "detail": "20260206_5357.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549211.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549211.pdf",
+    "pbr": 1.0,
+    "forward_pe": 12.5,
+    "div_yield": 4.95
   },
   {
     "date": "2026/02/06",
@@ -1895,7 +2330,10 @@
     "op_prev": 7.37,
     "op_diff": 0.76,
     "detail": "20260206_5388.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548217.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548217.pdf",
+    "pbr": 0.74,
+    "forward_pe": null,
+    "div_yield": 3.04
   },
   {
     "date": "2026/02/06",
@@ -1908,7 +2346,10 @@
     "op_prev": 6.61,
     "op_diff": -1.3,
     "detail": "20260206_5406.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547218.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547218.pdf",
+    "pbr": 0.76,
+    "forward_pe": 8.4,
+    "div_yield": 3.45
   },
   {
     "date": "2026/02/06",
@@ -1921,7 +2362,10 @@
     "op_prev": 7.09,
     "op_diff": -0.71,
     "detail": "20260206_5451.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549899.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549899.pdf",
+    "pbr": 1.05,
+    "forward_pe": null,
+    "div_yield": 4.19
   },
   {
     "date": "2026/02/06",
@@ -1934,7 +2378,10 @@
     "op_prev": -59.02,
     "op_diff": -18.11,
     "detail": "20260206_5541.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546072.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546072.pdf",
+    "pbr": 0.86,
+    "forward_pe": -72.3,
+    "div_yield": 4.05
   },
   {
     "date": "2026/02/06",
@@ -1947,7 +2394,10 @@
     "op_prev": 6.36,
     "op_diff": -0.31,
     "detail": "20260206_5602.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549428.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549428.pdf",
+    "pbr": 1.13,
+    "forward_pe": null,
+    "div_yield": 3.45
   },
   {
     "date": "2026/02/06",
@@ -1960,7 +2410,10 @@
     "op_prev": 2.43,
     "op_diff": 2.71,
     "detail": "20260206_5607.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548628.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548628.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -1973,7 +2426,10 @@
     "op_prev": 4.04,
     "op_diff": -1.93,
     "detail": "20260206_5660.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548873.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548873.pdf",
+    "pbr": 0.36,
+    "forward_pe": null,
+    "div_yield": 3.01
   },
   {
     "date": "2026/02/06",
@@ -1986,7 +2442,10 @@
     "op_prev": 7.32,
     "op_diff": -2.55,
     "detail": "20260206_5727.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549844.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549844.pdf",
+    "pbr": 2.16,
+    "forward_pe": 18.3,
+    "div_yield": 1.01
   },
   {
     "date": "2026/02/06",
@@ -1999,7 +2458,10 @@
     "op_prev": 6.47,
     "op_diff": -1.18,
     "detail": "20260206_5902.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549859.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549859.pdf",
+    "pbr": 0.5,
+    "forward_pe": 6.4,
+    "div_yield": 3.85
   },
   {
     "date": "2026/02/06",
@@ -2012,7 +2474,10 @@
     "op_prev": 15.39,
     "op_diff": -4.48,
     "detail": "20260206_5903.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546676.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546676.pdf",
+    "pbr": 0.97,
+    "forward_pe": 11.6,
+    "div_yield": 6.81
   },
   {
     "date": "2026/02/06",
@@ -2025,7 +2490,10 @@
     "op_prev": 5.11,
     "op_diff": -0.14,
     "detail": "20260206_5930.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539575.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539575.pdf",
+    "pbr": 1.28,
+    "forward_pe": 26.8,
+    "div_yield": 3.65
   },
   {
     "date": "2026/02/06",
@@ -2038,7 +2506,10 @@
     "op_prev": 2.49,
     "op_diff": 0.18,
     "detail": "20260206_5938.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548009.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548009.pdf",
+    "pbr": 0.81,
+    "forward_pe": 23.5,
+    "div_yield": 4.76
   },
   {
     "date": "2026/02/06",
@@ -2051,7 +2522,10 @@
     "op_prev": -0.13,
     "op_diff": 1.39,
     "detail": "20260206_5940.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538605.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538605.pdf",
+    "pbr": 0.53,
+    "forward_pe": null,
+    "div_yield": 2.68
   },
   {
     "date": "2026/02/06",
@@ -2064,7 +2538,10 @@
     "op_prev": 4.36,
     "op_diff": -2.18,
     "detail": "20260206_5941.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549658.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549658.pdf",
+    "pbr": 2.42,
+    "forward_pe": null,
+    "div_yield": 2.64
   },
   {
     "date": "2026/02/06",
@@ -2077,7 +2554,10 @@
     "op_prev": 6.62,
     "op_diff": -0.65,
     "detail": "20260206_5958.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541902.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541902.pdf",
+    "pbr": 0.61,
+    "forward_pe": null,
+    "div_yield": 4.75
   },
   {
     "date": "2026/02/06",
@@ -2090,7 +2570,10 @@
     "op_prev": 2.57,
     "op_diff": 0.08,
     "detail": "20260206_5976.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549709.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549709.pdf",
+    "pbr": 0.8,
+    "forward_pe": 17.5,
+    "div_yield": 4.97
   },
   {
     "date": "2026/02/06",
@@ -2103,7 +2586,10 @@
     "op_prev": 11.11,
     "op_diff": -4.22,
     "detail": "20260206_6073.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260122537159.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260122537159.pdf",
+    "pbr": 1.61,
+    "forward_pe": 18.5,
+    "div_yield": 3.87
   },
   {
     "date": "2026/02/06",
@@ -2116,7 +2602,10 @@
     "op_prev": 1.06,
     "op_diff": 2.9,
     "detail": "20260206_6138.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548630.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548630.pdf",
+    "pbr": 0.36,
+    "forward_pe": null,
+    "div_yield": 3.83
   },
   {
     "date": "2026/02/06",
@@ -2129,7 +2618,10 @@
     "op_prev": -2.98,
     "op_diff": 0.38,
     "detail": "20260206_6155.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547907.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547907.pdf",
+    "pbr": 0.33,
+    "forward_pe": null,
+    "div_yield": 2.07
   },
   {
     "date": "2026/02/06",
@@ -2142,7 +2634,10 @@
     "op_prev": -2.14,
     "op_diff": 1.26,
     "detail": "20260206_6181.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549928.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549928.pdf",
+    "pbr": 23.46,
+    "forward_pe": 7.3,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -2155,7 +2650,10 @@
     "op_prev": 16.27,
     "op_diff": 1.75,
     "detail": "20260206_6246.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546458.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546458.pdf",
+    "pbr": 1.16,
+    "forward_pe": null,
+    "div_yield": 4.19
   },
   {
     "date": "2026/02/06",
@@ -2168,7 +2666,10 @@
     "op_prev": 20.19,
     "op_diff": -49.01,
     "detail": "20260206_6257.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548627.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548627.pdf",
+    "pbr": 0.52,
+    "forward_pe": 10.0,
+    "div_yield": 4.67
   },
   {
     "date": "2026/02/06",
@@ -2181,7 +2682,10 @@
     "op_prev": 7.95,
     "op_diff": -4.03,
     "detail": "20260206_6277.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547334.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547334.pdf",
+    "pbr": 1.41,
+    "forward_pe": 14.4,
+    "div_yield": 1.95
   },
   {
     "date": "2026/02/06",
@@ -2194,7 +2698,10 @@
     "op_prev": 2.96,
     "op_diff": 9.87,
     "detail": "20260206_6307.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549322.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549322.pdf",
+    "pbr": 1.01,
+    "forward_pe": null,
+    "div_yield": 2.34
   },
   {
     "date": "2026/02/06",
@@ -2207,7 +2714,10 @@
     "op_prev": 16.61,
     "op_diff": -6.63,
     "detail": "20260206_6315.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539637.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539637.pdf",
+    "pbr": 3.33,
+    "forward_pe": 15.5,
+    "div_yield": 0.67
   },
   {
     "date": "2026/02/06",
@@ -2220,7 +2730,10 @@
     "op_prev": 14.66,
     "op_diff": 3.96,
     "detail": "20260206_6327.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549532.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549532.pdf",
+    "pbr": 1.54,
+    "forward_pe": 13.8,
+    "div_yield": 1.37
   },
   {
     "date": "2026/02/06",
@@ -2233,7 +2746,10 @@
     "op_prev": 3.41,
     "op_diff": 1.4,
     "detail": "20260206_6332.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548918.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548918.pdf",
+    "pbr": 1.36,
+    "forward_pe": 27.7,
+    "div_yield": 2.52
   },
   {
     "date": "2026/02/06",
@@ -2246,7 +2762,10 @@
     "op_prev": 1.56,
     "op_diff": 0.24,
     "detail": "20260206_6339.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536805.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536805.pdf",
+    "pbr": 0.51,
+    "forward_pe": null,
+    "div_yield": 3.67
   },
   {
     "date": "2026/02/06",
@@ -2259,7 +2778,10 @@
     "op_prev": 13.11,
     "op_diff": -11.95,
     "detail": "20260206_6360.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548833.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548833.pdf",
+    "pbr": 2.33,
+    "forward_pe": null,
+    "div_yield": 2.51
   },
   {
     "date": "2026/02/06",
@@ -2272,7 +2794,10 @@
     "op_prev": 5.73,
     "op_diff": 14.29,
     "detail": "20260206_6366.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546535.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546535.pdf",
+    "pbr": 3.32,
+    "forward_pe": 23.5,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -2285,7 +2810,10 @@
     "op_prev": 7.68,
     "op_diff": -0.64,
     "detail": "20260206_6371.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549076.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549076.pdf",
+    "pbr": 0.91,
+    "forward_pe": 12.6,
+    "div_yield": 3.23
   },
   {
     "date": "2026/02/06",
@@ -2298,7 +2826,10 @@
     "op_prev": 11.32,
     "op_diff": -2.13,
     "detail": "20260206_6378.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545556.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545556.pdf",
+    "pbr": 1.35,
+    "forward_pe": null,
+    "div_yield": 3.1
   },
   {
     "date": "2026/02/06",
@@ -2311,7 +2842,10 @@
     "op_prev": 8.35,
     "op_diff": 2.34,
     "detail": "20260206_6402.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547219.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547219.pdf",
+    "pbr": 3.83,
+    "forward_pe": 13.6,
+    "div_yield": 0.7
   },
   {
     "date": "2026/02/06",
@@ -2324,7 +2858,10 @@
     "op_prev": 7.76,
     "op_diff": 2.81,
     "detail": "20260206_6406.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548510.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548510.pdf",
+    "pbr": 2.76,
+    "forward_pe": 25.8,
+    "div_yield": 2.91
   },
   {
     "date": "2026/02/06",
@@ -2337,7 +2874,10 @@
     "op_prev": 15.83,
     "op_diff": -6.08,
     "detail": "20260206_6418.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549379.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549379.pdf",
+    "pbr": 0.8,
+    "forward_pe": 33.9,
+    "div_yield": 3.88
   },
   {
     "date": "2026/02/06",
@@ -2350,7 +2890,10 @@
     "op_prev": 5.24,
     "op_diff": -1.44,
     "detail": "20260206_6445.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548869.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548869.pdf",
+    "pbr": 0.62,
+    "forward_pe": null,
+    "div_yield": 4.46
   },
   {
     "date": "2026/02/06",
@@ -2363,7 +2906,10 @@
     "op_prev": 9.78,
     "op_diff": -0.29,
     "detail": "20260206_6448.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548657.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548657.pdf",
+    "pbr": 1.11,
+    "forward_pe": 13.8,
+    "div_yield": 3.06
   },
   {
     "date": "2026/02/06",
@@ -2376,7 +2922,10 @@
     "op_prev": 10.81,
     "op_diff": -4.88,
     "detail": "20260206_6457.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548574.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548574.pdf",
+    "pbr": 0.97,
+    "forward_pe": 21.6,
+    "div_yield": 2.71
   },
   {
     "date": "2026/02/06",
@@ -2389,7 +2938,10 @@
     "op_prev": 12.0,
     "op_diff": 13.64,
     "detail": "20260206_6492.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260116535137.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260116535137.pdf",
+    "pbr": 0.97,
+    "forward_pe": null,
+    "div_yield": 0.67
   },
   {
     "date": "2026/02/06",
@@ -2402,7 +2954,10 @@
     "op_prev": 11.08,
     "op_diff": 0.23,
     "detail": "20260206_6507.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545426.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545426.pdf",
+    "pbr": 3.52,
+    "forward_pe": 29.9,
+    "div_yield": 1.11
   },
   {
     "date": "2026/02/06",
@@ -2415,7 +2970,10 @@
     "op_prev": 3.83,
     "op_diff": 3.26,
     "detail": "20260206_6647.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549186.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549186.pdf",
+    "pbr": 0.59,
+    "forward_pe": null,
+    "div_yield": 1.98
   },
   {
     "date": "2026/02/06",
@@ -2428,7 +2986,10 @@
     "op_prev": 4.65,
     "op_diff": 3.61,
     "detail": "20260206_6652.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130543107.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130543107.pdf",
+    "pbr": 1.29,
+    "forward_pe": 14.9,
+    "div_yield": 4.35
   },
   {
     "date": "2026/02/06",
@@ -2441,7 +3002,10 @@
     "op_prev": 2.26,
     "op_diff": 0.3,
     "detail": "20260206_6655.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549890.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549890.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -2454,7 +3018,10 @@
     "op_prev": -22.9,
     "op_diff": 27.61,
     "detail": "20260206_6662.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550310.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550310.pdf",
+    "pbr": 2.45,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -2467,7 +3034,10 @@
     "op_prev": 10.94,
     "op_diff": 2.47,
     "detail": "20260206_6730.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549821.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549821.pdf",
+    "pbr": 1.0,
+    "forward_pe": null,
+    "div_yield": 3.84
   },
   {
     "date": "2026/02/06",
@@ -2480,7 +3050,10 @@
     "op_prev": 6.38,
     "op_diff": 1.77,
     "detail": "20260206_6743.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545636.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545636.pdf",
+    "pbr": 0.57,
+    "forward_pe": null,
+    "div_yield": 2.61
   },
   {
     "date": "2026/02/06",
@@ -2493,7 +3066,10 @@
     "op_prev": 3.84,
     "op_diff": 0.39,
     "detail": "20260206_6768.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548202.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548202.pdf",
+    "pbr": 0.81,
+    "forward_pe": 15.1,
+    "div_yield": 2.58
   },
   {
     "date": "2026/02/06",
@@ -2506,7 +3082,10 @@
     "op_prev": 9.65,
     "op_diff": 0.52,
     "detail": "20260206_6787.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549560.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549560.pdf",
+    "pbr": 2.64,
+    "forward_pe": 20.8,
+    "div_yield": 0.88
   },
   {
     "date": "2026/02/06",
@@ -2519,7 +3098,10 @@
     "op_prev": -0.77,
     "op_diff": 1.49,
     "detail": "20260206_6803.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545096.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545096.pdf",
+    "pbr": 0.84,
+    "forward_pe": null,
+    "div_yield": 0.9
   },
   {
     "date": "2026/02/06",
@@ -2532,7 +3114,10 @@
     "op_prev": 6.07,
     "op_diff": -1.6,
     "detail": "20260206_6804.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549272.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549272.pdf",
+    "pbr": 0.89,
+    "forward_pe": 10.5,
+    "div_yield": 1.91
   },
   {
     "date": "2026/02/06",
@@ -2545,7 +3130,10 @@
     "op_prev": 3.13,
     "op_diff": 1.92,
     "detail": "20260206_6817.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549050.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549050.pdf",
+    "pbr": 0.65,
+    "forward_pe": 8.2,
+    "div_yield": 4.32
   },
   {
     "date": "2026/02/06",
@@ -2558,7 +3146,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_6836.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547332.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547332.pdf",
+    "pbr": 10.04,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -2571,7 +3162,10 @@
     "op_prev": 12.3,
     "op_diff": 1.75,
     "detail": "20260206_6845.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548171.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548171.pdf",
+    "pbr": 2.99,
+    "forward_pe": 23.4,
+    "div_yield": 1.87
   },
   {
     "date": "2026/02/06",
@@ -2584,7 +3178,10 @@
     "op_prev": 19.22,
     "op_diff": 5.1,
     "detail": "20260206_6855.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544753.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202544753.pdf",
+    "pbr": 2.09,
+    "forward_pe": 16.3,
+    "div_yield": 1.99
   },
   {
     "date": "2026/02/06",
@@ -2597,7 +3194,10 @@
     "op_prev": 5.71,
     "op_diff": -1.77,
     "detail": "20260206_6875.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549914.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549914.pdf",
+    "pbr": 0.74,
+    "forward_pe": 32.3,
+    "div_yield": 2.82
   },
   {
     "date": "2026/02/06",
@@ -2610,7 +3210,10 @@
     "op_prev": 9.41,
     "op_diff": 2.91,
     "detail": "20260206_6894.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550009.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550009.pdf",
+    "pbr": 0.81,
+    "forward_pe": null,
+    "div_yield": 3.48
   },
   {
     "date": "2026/02/06",
@@ -2623,7 +3226,10 @@
     "op_prev": 7.76,
     "op_diff": -1.06,
     "detail": "20260206_6907.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549554.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549554.pdf",
+    "pbr": 0.95,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -2636,7 +3242,10 @@
     "op_prev": 5.32,
     "op_diff": -2.9,
     "detail": "20260206_6919.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549705.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549705.pdf",
+    "pbr": 0.72,
+    "forward_pe": null,
+    "div_yield": 5.32
   },
   {
     "date": "2026/02/06",
@@ -2649,7 +3258,10 @@
     "op_prev": 5.77,
     "op_diff": 0.32,
     "detail": "20260206_6925.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120251226527535.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120251226527535.pdf",
+    "pbr": 1.21,
+    "forward_pe": 26.7,
+    "div_yield": 2.41
   },
   {
     "date": "2026/02/06",
@@ -2662,7 +3274,10 @@
     "op_prev": 7.54,
     "op_diff": 8.49,
     "detail": "20260206_6927.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546937.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546937.pdf",
+    "pbr": 1.09,
+    "forward_pe": null,
+    "div_yield": 13.78
   },
   {
     "date": "2026/02/06",
@@ -2675,7 +3290,10 @@
     "op_prev": 3.02,
     "op_diff": 2.75,
     "detail": "20260206_6928.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549352.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549352.pdf",
+    "pbr": 0.86,
+    "forward_pe": 17.7,
+    "div_yield": 2.73
   },
   {
     "date": "2026/02/06",
@@ -2688,7 +3306,10 @@
     "op_prev": 19.81,
     "op_diff": 2.98,
     "detail": "20260206_6929.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548369.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548369.pdf",
+    "pbr": 1.67,
+    "forward_pe": 21.1,
+    "div_yield": 4.42
   },
   {
     "date": "2026/02/06",
@@ -2701,7 +3322,10 @@
     "op_prev": 3.99,
     "op_diff": -2.2,
     "detail": "20260206_6958.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538329.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538329.pdf",
+    "pbr": 0.53,
+    "forward_pe": 8.0,
+    "div_yield": 3.48
   },
   {
     "date": "2026/02/06",
@@ -2714,7 +3338,10 @@
     "op_prev": 3.8,
     "op_diff": 0.11,
     "detail": "20260206_6964.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130543345.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260130543345.pdf",
+    "pbr": 0.38,
+    "forward_pe": null,
+    "div_yield": 2.87
   },
   {
     "date": "2026/02/06",
@@ -2727,7 +3354,10 @@
     "op_prev": 3.3,
     "op_diff": 2.91,
     "detail": "20260206_6976.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538126.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538126.pdf",
+    "pbr": 1.3,
+    "forward_pe": 18.9,
+    "div_yield": 2.55
   },
   {
     "date": "2026/02/06",
@@ -2740,7 +3370,10 @@
     "op_prev": 2.83,
     "op_diff": 0.27,
     "detail": "20260206_6996.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541432.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541432.pdf",
+    "pbr": 0.98,
+    "forward_pe": 18.7,
+    "div_yield": 2.14
   },
   {
     "date": "2026/02/06",
@@ -2753,7 +3386,10 @@
     "op_prev": -2.07,
     "op_diff": null,
     "detail": "20260206_7043.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548964.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548964.pdf",
+    "pbr": 1.76,
+    "forward_pe": 10.2,
+    "div_yield": 0.78
   },
   {
     "date": "2026/02/06",
@@ -2766,7 +3402,10 @@
     "op_prev": 25.86,
     "op_diff": -7.72,
     "detail": "20260206_7079.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549734.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549734.pdf",
+    "pbr": 1.48,
+    "forward_pe": 6.7,
+    "div_yield": 3.39
   },
   {
     "date": "2026/02/06",
@@ -2779,7 +3418,10 @@
     "op_prev": 7.38,
     "op_diff": -0.27,
     "detail": "20260206_7134.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549289.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549289.pdf",
+    "pbr": 1.81,
+    "forward_pe": 11.3,
+    "div_yield": 3.29
   },
   {
     "date": "2026/02/06",
@@ -2792,7 +3434,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_7167.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546361.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546361.pdf",
+    "pbr": 1.13,
+    "forward_pe": 32.5,
+    "div_yield": 2.2
   },
   {
     "date": "2026/02/06",
@@ -2805,7 +3450,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_7184.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545382.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545382.pdf",
+    "pbr": 0.89,
+    "forward_pe": null,
+    "div_yield": 3.65
   },
   {
     "date": "2026/02/06",
@@ -2818,7 +3466,10 @@
     "op_prev": 18.86,
     "op_diff": 1.99,
     "detail": "20260206_7192.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549445.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549445.pdf",
+    "pbr": 0.99,
+    "forward_pe": null,
+    "div_yield": 4.81
   },
   {
     "date": "2026/02/06",
@@ -2831,7 +3482,10 @@
     "op_prev": 10.31,
     "op_diff": -1.92,
     "detail": "20260206_7203.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545049.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545049.pdf",
+    "pbr": 1.26,
+    "forward_pe": 11.7,
+    "div_yield": 2.51
   },
   {
     "date": "2026/02/06",
@@ -2844,7 +3498,10 @@
     "op_prev": 4.7,
     "op_diff": 0.31,
     "detail": "20260206_7220.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549206.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549206.pdf",
+    "pbr": 1.62,
+    "forward_pe": 16.6,
+    "div_yield": 1.02
   },
   {
     "date": "2026/02/06",
@@ -2857,7 +3514,10 @@
     "op_prev": 2.9,
     "op_diff": -0.25,
     "detail": "20260206_7229.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548857.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548857.pdf",
+    "pbr": 0.42,
+    "forward_pe": null,
+    "div_yield": 2.33
   },
   {
     "date": "2026/02/06",
@@ -2870,7 +3530,10 @@
     "op_prev": 1.33,
     "op_diff": 1.36,
     "detail": "20260206_7231.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548716.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548716.pdf",
+    "pbr": 0.53,
+    "forward_pe": 10.5,
+    "div_yield": 3.85
   },
   {
     "date": "2026/02/06",
@@ -2883,7 +3546,10 @@
     "op_prev": -0.66,
     "op_diff": 2.68,
     "detail": "20260206_7266.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260120535998.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260120535998.pdf",
+    "pbr": 0.37,
+    "forward_pe": null,
+    "div_yield": 3.24
   },
   {
     "date": "2026/02/06",
@@ -2896,7 +3562,10 @@
     "op_prev": 10.44,
     "op_diff": -8.56,
     "detail": "20260206_7270.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547715.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547715.pdf",
+    "pbr": 0.87,
+    "forward_pe": 7.5,
+    "div_yield": 3.44
   },
   {
     "date": "2026/02/06",
@@ -2909,7 +3578,10 @@
     "op_prev": 2.47,
     "op_diff": 1.19,
     "detail": "20260206_7287.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548805.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548805.pdf",
+    "pbr": 0.67,
+    "forward_pe": 13.8,
+    "div_yield": 3.01
   },
   {
     "date": "2026/02/06",
@@ -2922,7 +3594,10 @@
     "op_prev": 3.55,
     "op_diff": 1.44,
     "detail": "20260206_7297.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548889.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548889.pdf",
+    "pbr": 0.43,
+    "forward_pe": null,
+    "div_yield": 3.31
   },
   {
     "date": "2026/02/06",
@@ -2935,7 +3610,10 @@
     "op_prev": 3.34,
     "op_diff": -1.52,
     "detail": "20260206_7313.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549434.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549434.pdf",
+    "pbr": 0.75,
+    "forward_pe": 19.1,
+    "div_yield": 4.55
   },
   {
     "date": "2026/02/06",
@@ -2948,7 +3626,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_7322.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260114533922.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260114533922.pdf",
+    "pbr": 0.64,
+    "forward_pe": null,
+    "div_yield": 2.29
   },
   {
     "date": "2026/02/06",
@@ -2961,7 +3642,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_7384.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547918.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547918.pdf",
+    "pbr": 0.5,
+    "forward_pe": null,
+    "div_yield": 1.72
   },
   {
     "date": "2026/02/06",
@@ -2974,7 +3658,10 @@
     "op_prev": -0.4,
     "op_diff": 2.2,
     "detail": "20260206_7399.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549254.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549254.pdf",
+    "pbr": 0.35,
+    "forward_pe": null,
+    "div_yield": 3.19
   },
   {
     "date": "2026/02/06",
@@ -2987,7 +3674,10 @@
     "op_prev": 8.14,
     "op_diff": -0.6,
     "detail": "20260206_7417.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260115534635.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260115534635.pdf",
+    "pbr": 0.71,
+    "forward_pe": null,
+    "div_yield": 3.82
   },
   {
     "date": "2026/02/06",
@@ -3000,7 +3690,10 @@
     "op_prev": 5.02,
     "op_diff": -0.03,
     "detail": "20260206_7472.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546149.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546149.pdf",
+    "pbr": 0.74,
+    "forward_pe": null,
+    "div_yield": 3.24
   },
   {
     "date": "2026/02/06",
@@ -3013,7 +3706,10 @@
     "op_prev": 1.15,
     "op_diff": -0.54,
     "detail": "20260206_7486.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547926.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205547926.pdf",
+    "pbr": 0.43,
+    "forward_pe": null,
+    "div_yield": 3.17
   },
   {
     "date": "2026/02/06",
@@ -3026,7 +3722,10 @@
     "op_prev": 5.19,
     "op_diff": -0.02,
     "detail": "20260206_7509.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549192.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549192.pdf",
+    "pbr": 0.37,
+    "forward_pe": null,
+    "div_yield": 3.55
   },
   {
     "date": "2026/02/06",
@@ -3039,7 +3738,10 @@
     "op_prev": 6.63,
     "op_diff": 0.17,
     "detail": "20260206_7609.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550670.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550670.pdf",
+    "pbr": 1.64,
+    "forward_pe": 6.5,
+    "div_yield": 4.26
   },
   {
     "date": "2026/02/06",
@@ -3052,7 +3754,10 @@
     "op_prev": 1.56,
     "op_diff": -1.17,
     "detail": "20260206_7702.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260119535756.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260119535756.pdf",
+    "pbr": 0.25,
+    "forward_pe": null,
+    "div_yield": 3.92
   },
   {
     "date": "2026/02/06",
@@ -3065,7 +3770,10 @@
     "op_prev": 4.01,
     "op_diff": -6.06,
     "detail": "20260206_7709.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540730.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540730.pdf",
+    "pbr": 13.84,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -3078,7 +3786,10 @@
     "op_prev": 3.08,
     "op_diff": 2.05,
     "detail": "20260206_7721.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550237.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550237.pdf",
+    "pbr": 2.82,
+    "forward_pe": 35.3,
+    "div_yield": 0.56
   },
   {
     "date": "2026/02/06",
@@ -3091,7 +3802,10 @@
     "op_prev": 18.49,
     "op_diff": 0.03,
     "detail": "20260206_7729.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549334.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549334.pdf",
+    "pbr": 3.12,
+    "forward_pe": 22.7,
+    "div_yield": 1.6
   },
   {
     "date": "2026/02/06",
@@ -3104,7 +3818,10 @@
     "op_prev": 21.7,
     "op_diff": -2.14,
     "detail": "20260206_7740.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547704.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547704.pdf",
+    "pbr": 1.93,
+    "forward_pe": 3.1,
+    "div_yield": 3.6
   },
   {
     "date": "2026/02/06",
@@ -3117,7 +3834,10 @@
     "op_prev": 12.58,
     "op_diff": -0.97,
     "detail": "20260206_7745.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546991.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546991.pdf",
+    "pbr": 1.44,
+    "forward_pe": 9.4,
+    "div_yield": 2.04
   },
   {
     "date": "2026/02/06",
@@ -3130,7 +3850,10 @@
     "op_prev": 32.88,
     "op_diff": -8.38,
     "detail": "20260206_7792.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548073.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548073.pdf",
+    "pbr": 2.64,
+    "forward_pe": null,
+    "div_yield": 2.91
   },
   {
     "date": "2026/02/06",
@@ -3143,7 +3866,10 @@
     "op_prev": 21.87,
     "op_diff": -4.92,
     "detail": "20260206_7826.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546192.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546192.pdf",
+    "pbr": 1.57,
+    "forward_pe": 10.8,
+    "div_yield": 2.79
   },
   {
     "date": "2026/02/06",
@@ -3156,7 +3882,10 @@
     "op_prev": 7.4,
     "op_diff": -0.51,
     "detail": "20260206_7840.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546441.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203546441.pdf",
+    "pbr": 1.13,
+    "forward_pe": null,
+    "div_yield": 3.61
   },
   {
     "date": "2026/02/06",
@@ -3169,7 +3898,10 @@
     "op_prev": 0.54,
     "op_diff": -2.88,
     "detail": "20260206_7857.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540421.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540421.pdf",
+    "pbr": 0.35,
+    "forward_pe": null,
+    "div_yield": 1.95
   },
   {
     "date": "2026/02/06",
@@ -3182,7 +3914,10 @@
     "op_prev": -1.49,
     "op_diff": 2.0,
     "detail": "20260206_7885.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548802.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548802.pdf",
+    "pbr": 0.41,
+    "forward_pe": 26.1,
+    "div_yield": 2.33
   },
   {
     "date": "2026/02/06",
@@ -3195,7 +3930,10 @@
     "op_prev": 2.29,
     "op_diff": -0.33,
     "detail": "20260206_7914.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549345.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549345.pdf",
+    "pbr": 0.71,
+    "forward_pe": null,
+    "div_yield": 2.32
   },
   {
     "date": "2026/02/06",
@@ -3208,7 +3946,10 @@
     "op_prev": 9.67,
     "op_diff": 3.1,
     "detail": "20260206_7937.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536391.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536391.pdf",
+    "pbr": 0.66,
+    "forward_pe": null,
+    "div_yield": 3.1
   },
   {
     "date": "2026/02/06",
@@ -3221,7 +3962,10 @@
     "op_prev": 2.0,
     "op_diff": 1.7,
     "detail": "20260206_7987.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550357.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550357.pdf",
+    "pbr": 0.56,
+    "forward_pe": 8.0,
+    "div_yield": 3.66
   },
   {
     "date": "2026/02/06",
@@ -3234,7 +3978,10 @@
     "op_prev": 4.85,
     "op_diff": 0.03,
     "detail": "20260206_7994.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549378.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549378.pdf",
+    "pbr": 1.2,
+    "forward_pe": 10.9,
+    "div_yield": 3.98
   },
   {
     "date": "2026/02/06",
@@ -3247,7 +3994,10 @@
     "op_prev": 4.87,
     "op_diff": -0.08,
     "detail": "20260206_8001.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549677.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549677.pdf",
+    "pbr": 2.59,
+    "forward_pe": 3.2,
+    "div_yield": 2.13
   },
   {
     "date": "2026/02/06",
@@ -3260,7 +4010,10 @@
     "op_prev": 9.66,
     "op_diff": -3.4,
     "detail": "20260206_8018.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546722.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546722.pdf",
+    "pbr": 0.56,
+    "forward_pe": null,
+    "div_yield": 3.33
   },
   {
     "date": "2026/02/06",
@@ -3273,7 +4026,10 @@
     "op_prev": 28.91,
     "op_diff": -4.7,
     "detail": "20260206_8035.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120251225526910.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120251225526910.pdf",
+    "pbr": 9.38,
+    "forward_pe": 32.0,
+    "div_yield": 1.46
   },
   {
     "date": "2026/02/06",
@@ -3286,7 +4042,10 @@
     "op_prev": 2.25,
     "op_diff": -0.31,
     "detail": "20260206_8075.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548950.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548950.pdf",
+    "pbr": 0.78,
+    "forward_pe": null,
+    "div_yield": 3.78
   },
   {
     "date": "2026/02/06",
@@ -3299,7 +4058,10 @@
     "op_prev": 2.47,
     "op_diff": -0.36,
     "detail": "20260206_8078.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546899.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546899.pdf",
+    "pbr": 0.8,
+    "forward_pe": 19.6,
+    "div_yield": 3.07
   },
   {
     "date": "2026/02/06",
@@ -3312,7 +4074,10 @@
     "op_prev": 2.64,
     "op_diff": 0.21,
     "detail": "20260206_8091.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547406.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547406.pdf",
+    "pbr": 0.64,
+    "forward_pe": 3.9,
+    "div_yield": 3.87
   },
   {
     "date": "2026/02/06",
@@ -3325,7 +4090,10 @@
     "op_prev": 2.45,
     "op_diff": -0.91,
     "detail": "20260206_8104.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550225.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550225.pdf",
+    "pbr": 0.57,
+    "forward_pe": null,
+    "div_yield": 2.79
   },
   {
     "date": "2026/02/06",
@@ -3338,7 +4106,10 @@
     "op_prev": 14.0,
     "op_diff": null,
     "detail": "20260206_8113.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546623.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546623.pdf",
+    "pbr": 2.27,
+    "forward_pe": 5.7,
+    "div_yield": 1.8
   },
   {
     "date": "2026/02/06",
@@ -3351,7 +4122,10 @@
     "op_prev": 6.2,
     "op_diff": -2.81,
     "detail": "20260206_8119.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549265.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549265.pdf",
+    "pbr": 0.57,
+    "forward_pe": null,
+    "div_yield": 3.62
   },
   {
     "date": "2026/02/06",
@@ -3364,7 +4138,10 @@
     "op_prev": 1.66,
     "op_diff": 0.24,
     "detail": "20260206_8138.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549589.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549589.pdf",
+    "pbr": 0.48,
+    "forward_pe": null,
+    "div_yield": 2.05
   },
   {
     "date": "2026/02/06",
@@ -3377,7 +4154,10 @@
     "op_prev": 5.81,
     "op_diff": -0.4,
     "detail": "20260206_8214.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548658.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548658.pdf",
+    "pbr": 1.09,
+    "forward_pe": null,
+    "div_yield": 4.43
   },
   {
     "date": "2026/02/06",
@@ -3390,7 +4170,10 @@
     "op_prev": 2.91,
     "op_diff": 0.03,
     "detail": "20260206_8282.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548164.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548164.pdf",
+    "pbr": 1.0,
+    "forward_pe": 16.3,
+    "div_yield": 3.0
   },
   {
     "date": "2026/02/06",
@@ -3403,7 +4186,10 @@
     "op_prev": 2.46,
     "op_diff": -0.15,
     "detail": "20260206_8283.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120251211517830.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120251211517830.pdf",
+    "pbr": 1.03,
+    "forward_pe": null,
+    "div_yield": 2.53
   },
   {
     "date": "2026/02/06",
@@ -3416,7 +4202,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8359.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548204.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548204.pdf",
+    "pbr": 0.9,
+    "forward_pe": 39.6,
+    "div_yield": 2.15
   },
   {
     "date": "2026/02/06",
@@ -3429,7 +4218,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8398.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548696.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548696.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -3442,7 +4234,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8410.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548939.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548939.pdf",
+    "pbr": 1.29,
+    "forward_pe": 17.6,
+    "div_yield": 3.56
   },
   {
     "date": "2026/02/06",
@@ -3455,7 +4250,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8418.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549118.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549118.pdf",
+    "pbr": 0.83,
+    "forward_pe": 24.5,
+    "div_yield": 2.4
   },
   {
     "date": "2026/02/06",
@@ -3468,7 +4266,10 @@
     "op_prev": 9.32,
     "op_diff": -5.74,
     "detail": "20260206_8424.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547572.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547572.pdf",
+    "pbr": 0.84,
+    "forward_pe": 5.8,
+    "div_yield": 3.54
   },
   {
     "date": "2026/02/06",
@@ -3481,7 +4282,10 @@
     "op_prev": 8.94,
     "op_diff": 0.81,
     "detail": "20260206_8439.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548715.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548715.pdf",
+    "pbr": 1.02,
+    "forward_pe": 12.0,
+    "div_yield": 3.27
   },
   {
     "date": "2026/02/06",
@@ -3494,7 +4298,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8522.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548884.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548884.pdf",
+    "pbr": 0.88,
+    "forward_pe": null,
+    "div_yield": 1.79
   },
   {
     "date": "2026/02/06",
@@ -3507,7 +4314,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8559.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548933.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548933.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -3520,7 +4330,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8562.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260114533726.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260114533726.pdf",
+    "pbr": 0.6,
+    "forward_pe": null,
+    "div_yield": 1.2
   },
   {
     "date": "2026/02/06",
@@ -3533,7 +4346,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8563.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541408.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260129541408.pdf",
+    "pbr": 0.44,
+    "forward_pe": null,
+    "div_yield": 2.98
   },
   {
     "date": "2026/02/06",
@@ -3546,7 +4362,10 @@
     "op_prev": 7.45,
     "op_diff": -0.98,
     "detail": "20260206_8566.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545234.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545234.pdf",
+    "pbr": 0.76,
+    "forward_pe": 13.1,
+    "div_yield": 3.21
   },
   {
     "date": "2026/02/06",
@@ -3559,7 +4378,10 @@
     "op_prev": 14.79,
     "op_diff": 3.59,
     "detail": "20260206_8596.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549675.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549675.pdf",
+    "pbr": 0.76,
+    "forward_pe": null,
+    "div_yield": 4.01
   },
   {
     "date": "2026/02/06",
@@ -3572,7 +4394,10 @@
     "op_prev": 16.55,
     "op_diff": 2.09,
     "detail": "20260206_8609.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548349.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548349.pdf",
+    "pbr": 0.85,
+    "forward_pe": null,
+    "div_yield": 3.22
   },
   {
     "date": "2026/02/06",
@@ -3585,7 +4410,10 @@
     "op_prev": 34.54,
     "op_diff": 4.76,
     "detail": "20260206_8707.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549232.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549232.pdf",
+    "pbr": 1.2,
+    "forward_pe": null,
+    "div_yield": 5.11
   },
   {
     "date": "2026/02/06",
@@ -3598,7 +4426,10 @@
     "op_prev": null,
     "op_diff": null,
     "detail": "20260206_8715.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548210.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548210.pdf",
+    "pbr": 2.71,
+    "forward_pe": 23.0,
+    "div_yield": 0.86
   },
   {
     "date": "2026/02/06",
@@ -3611,7 +4442,10 @@
     "op_prev": 5.87,
     "op_diff": -2.23,
     "detail": "20260206_8742.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548238.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548238.pdf",
+    "pbr": 0.59,
+    "forward_pe": null,
+    "div_yield": 1.04
   },
   {
     "date": "2026/02/06",
@@ -3624,7 +4458,10 @@
     "op_prev": 28.36,
     "op_diff": 21.89,
     "detail": "20260206_8747.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548175.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548175.pdf",
+    "pbr": 1.05,
+    "forward_pe": null,
+    "div_yield": 2.77
   },
   {
     "date": "2026/02/06",
@@ -3637,7 +4474,10 @@
     "op_prev": 13.16,
     "op_diff": 2.11,
     "detail": "20260206_8801.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545030.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260202545030.pdf",
+    "pbr": 1.62,
+    "forward_pe": 19.9,
+    "div_yield": 1.79
   },
   {
     "date": "2026/02/06",
@@ -3650,7 +4490,10 @@
     "op_prev": 27.57,
     "op_diff": 3.03,
     "detail": "20260206_8830.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549460.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549460.pdf",
+    "pbr": 1.78,
+    "forward_pe": 11.0,
+    "div_yield": 0.93
   },
   {
     "date": "2026/02/06",
@@ -3663,7 +4506,10 @@
     "op_prev": 1.94,
     "op_diff": 5.32,
     "detail": "20260206_8881.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548999.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548999.pdf",
+    "pbr": 0.55,
+    "forward_pe": null,
+    "div_yield": 4.28
   },
   {
     "date": "2026/02/06",
@@ -3676,7 +4522,10 @@
     "op_prev": 11.24,
     "op_diff": 1.43,
     "detail": "20260206_8919.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550087.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550087.pdf",
+    "pbr": 4.85,
+    "forward_pe": 22.9,
+    "div_yield": 2.51
   },
   {
     "date": "2026/02/06",
@@ -3689,7 +4538,10 @@
     "op_prev": 7.69,
     "op_diff": 1.55,
     "detail": "20260206_8929.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550384.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550384.pdf",
+    "pbr": 3.06,
+    "forward_pe": 12.9,
+    "div_yield": 4.7
   },
   {
     "date": "2026/02/06",
@@ -3702,7 +4554,10 @@
     "op_prev": 7.37,
     "op_diff": 0.83,
     "detail": "20260206_8935.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548782.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548782.pdf",
+    "pbr": 0.73,
+    "forward_pe": null,
+    "div_yield": 3.28
   },
   {
     "date": "2026/02/06",
@@ -3715,7 +4570,10 @@
     "op_prev": 13.42,
     "op_diff": -0.45,
     "detail": "20260206_9034.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549228.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549228.pdf",
+    "pbr": 0.68,
+    "forward_pe": null,
+    "div_yield": 4.88
   },
   {
     "date": "2026/02/06",
@@ -3728,7 +4586,10 @@
     "op_prev": 15.62,
     "op_diff": 0.43,
     "detail": "20260206_9045.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549094.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549094.pdf",
+    "pbr": 1.07,
+    "forward_pe": 14.7,
+    "div_yield": 2.78
   },
   {
     "date": "2026/02/06",
@@ -3741,7 +4602,10 @@
     "op_prev": 19.24,
     "op_diff": 0.71,
     "detail": "20260206_9049.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260123537923.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260123537923.pdf",
+    "pbr": 1.04,
+    "forward_pe": null,
+    "div_yield": 0.27
   },
   {
     "date": "2026/02/06",
@@ -3754,7 +4618,10 @@
     "op_prev": 6.93,
     "op_diff": 0.64,
     "detail": "20260206_9059.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547589.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547589.pdf",
+    "pbr": 0.72,
+    "forward_pe": 9.1,
+    "div_yield": 2.48
   },
   {
     "date": "2026/02/06",
@@ -3767,7 +4634,10 @@
     "op_prev": 2.73,
     "op_diff": 0.45,
     "detail": "20260206_9063.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545651.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545651.pdf",
+    "pbr": 0.35,
+    "forward_pe": null,
+    "div_yield": 1.56
   },
   {
     "date": "2026/02/06",
@@ -3780,7 +4650,10 @@
     "op_prev": 9.91,
     "op_diff": -1.27,
     "detail": "20260206_9072.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549686.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549686.pdf",
+    "pbr": 1.83,
+    "forward_pe": 23.7,
+    "div_yield": 2.02
   },
   {
     "date": "2026/02/06",
@@ -3793,7 +4666,10 @@
     "op_prev": 3.37,
     "op_diff": 1.21,
     "detail": "20260206_9074.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547800.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547800.pdf",
+    "pbr": 0.65,
+    "forward_pe": null,
+    "div_yield": 2.54
   },
   {
     "date": "2026/02/06",
@@ -3806,7 +4682,10 @@
     "op_prev": 3.59,
     "op_diff": 1.58,
     "detail": "20260206_9083.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550385.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550385.pdf",
+    "pbr": 0.47,
+    "forward_pe": null,
+    "div_yield": 1.99
   },
   {
     "date": "2026/02/06",
@@ -3819,7 +4698,10 @@
     "op_prev": 6.84,
     "op_diff": -0.94,
     "detail": "20260206_9143.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550409.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550409.pdf",
+    "pbr": 1.74,
+    "forward_pe": 13.8,
+    "div_yield": 3.51
   },
   {
     "date": "2026/02/06",
@@ -3832,7 +4714,10 @@
     "op_prev": 9.58,
     "op_diff": -0.64,
     "detail": "20260206_9170.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549756.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549756.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -3845,7 +4730,10 @@
     "op_prev": 6.4,
     "op_diff": -1.29,
     "detail": "20260206_9171.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549027.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549027.pdf",
+    "pbr": 0.66,
+    "forward_pe": null,
+    "div_yield": 1.37
   },
   {
     "date": "2026/02/06",
@@ -3858,7 +4746,10 @@
     "op_prev": 2.07,
     "op_diff": -1.52,
     "detail": "20260206_9204.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545575.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545575.pdf",
+    "pbr": 0.82,
+    "forward_pe": 3.2,
+    "div_yield": 0.77
   },
   {
     "date": "2026/02/06",
@@ -3871,7 +4762,10 @@
     "op_prev": -3.54,
     "op_diff": null,
     "detail": "20260206_9246.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549366.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549366.pdf",
+    "pbr": 2.86,
+    "forward_pe": 21.2,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -3884,7 +4778,10 @@
     "op_prev": 7.04,
     "op_diff": 0.92,
     "detail": "20260206_9302.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547574.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547574.pdf",
+    "pbr": 2.07,
+    "forward_pe": 8.2,
+    "div_yield": 1.37
   },
   {
     "date": "2026/02/06",
@@ -3897,7 +4794,10 @@
     "op_prev": 4.67,
     "op_diff": 2.84,
     "detail": "20260206_9305.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550059.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550059.pdf",
+    "pbr": 0.83,
+    "forward_pe": null,
+    "div_yield": 3.5
   },
   {
     "date": "2026/02/06",
@@ -3910,7 +4810,10 @@
     "op_prev": 4.25,
     "op_diff": null,
     "detail": "20260206_9339.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550154.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550154.pdf",
+    "pbr": 0.92,
+    "forward_pe": null,
+    "div_yield": 1.65
   },
   {
     "date": "2026/02/06",
@@ -3923,7 +4826,10 @@
     "op_prev": 3.74,
     "op_diff": 0.23,
     "detail": "20260206_9355.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550031.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206550031.pdf",
+    "pbr": 0.3,
+    "forward_pe": null,
+    "div_yield": 2.09
   },
   {
     "date": "2026/02/06",
@@ -3936,7 +4842,10 @@
     "op_prev": 9.98,
     "op_diff": 2.84,
     "detail": "20260206_9509.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545751.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545751.pdf",
+    "pbr": 0.52,
+    "forward_pe": 8.2,
+    "div_yield": 2.69
   },
   {
     "date": "2026/02/06",
@@ -3949,7 +4858,10 @@
     "op_prev": 5.2,
     "op_diff": 6.92,
     "detail": "20260206_9519.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549032.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549032.pdf",
+    "pbr": 0.55,
+    "forward_pe": 23.4,
+    "div_yield": null
   },
   {
     "date": "2026/02/06",
@@ -3962,7 +4874,10 @@
     "op_prev": 17.47,
     "op_diff": -2.52,
     "detail": "20260206_9629.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549692.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260206549692.pdf",
+    "pbr": 2.08,
+    "forward_pe": null,
+    "div_yield": 4.91
   },
   {
     "date": "2026/02/06",
@@ -3975,7 +4890,10 @@
     "op_prev": 11.36,
     "op_diff": 1.18,
     "detail": "20260206_9682.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548863.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548863.pdf",
+    "pbr": 3.13,
+    "forward_pe": 4.8,
+    "div_yield": 2.98
   },
   {
     "date": "2026/02/06",
@@ -3988,7 +4906,10 @@
     "op_prev": 27.16,
     "op_diff": -0.72,
     "detail": "20260206_9757.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549492.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549492.pdf",
+    "pbr": 4.46,
+    "forward_pe": 8.1,
+    "div_yield": 4.29
   },
   {
     "date": "2026/02/06",
@@ -4001,7 +4922,10 @@
     "op_prev": 7.37,
     "op_diff": -1.1,
     "detail": "20260206_9763.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549337.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549337.pdf",
+    "pbr": 0.83,
+    "forward_pe": null,
+    "div_yield": 3.19
   },
   {
     "date": "2026/02/06",
@@ -4014,7 +4938,10 @@
     "op_prev": 3.54,
     "op_diff": 0.06,
     "detail": "20260206_9776.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540731.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260128540731.pdf",
+    "pbr": 0.53,
+    "forward_pe": null,
+    "div_yield": 1.17
   },
   {
     "date": "2026/02/06",
@@ -4027,7 +4954,10 @@
     "op_prev": 3.86,
     "op_diff": 0.35,
     "detail": "20260206_9780.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536378.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260121536378.pdf",
+    "pbr": 0.87,
+    "forward_pe": null,
+    "div_yield": 3.24
   },
   {
     "date": "2026/02/06",
@@ -4040,7 +4970,10 @@
     "op_prev": 5.11,
     "op_diff": -2.08,
     "detail": "20260206_9788.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548465.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548465.pdf",
+    "pbr": 1.03,
+    "forward_pe": null,
+    "div_yield": 4.02
   },
   {
     "date": "2026/02/06",
@@ -4053,7 +4986,10 @@
     "op_prev": -0.34,
     "op_diff": 2.94,
     "detail": "20260206_9816.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547537.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204547537.pdf",
+    "pbr": 0.99,
+    "forward_pe": null,
+    "div_yield": 1.65
   },
   {
     "date": "2026/02/06",
@@ -4066,7 +5002,10 @@
     "op_prev": 9.3,
     "op_diff": 0.61,
     "detail": "20260206_9820.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539578.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260127539578.pdf",
+    "pbr": 0.88,
+    "forward_pe": null,
+    "div_yield": 1.14
   },
   {
     "date": "2026/02/06",
@@ -4079,7 +5018,10 @@
     "op_prev": 5.84,
     "op_diff": 0.33,
     "detail": "20260206_9857.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548759.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205548759.pdf",
+    "pbr": 0.97,
+    "forward_pe": null,
+    "div_yield": 2.91
   },
   {
     "date": "2026/02/06",
@@ -4092,7 +5034,10 @@
     "op_prev": 3.62,
     "op_diff": 3.23,
     "detail": "20260206_9867.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538184.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260126538184.pdf",
+    "pbr": 0.82,
+    "forward_pe": null,
+    "div_yield": 0.43
   },
   {
     "date": "2026/02/06",
@@ -4105,7 +5050,10 @@
     "op_prev": 1.63,
     "op_diff": 0.12,
     "detail": "20260206_9869.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545401.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260203545401.pdf",
+    "pbr": 1.13,
+    "forward_pe": 32.8,
+    "div_yield": 2.47
   },
   {
     "date": "2026/02/06",
@@ -4118,7 +5066,10 @@
     "op_prev": 2.06,
     "op_diff": -0.23,
     "detail": "20260206_9896.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549336.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260205549336.pdf",
+    "pbr": 0.64,
+    "forward_pe": null,
+    "div_yield": 4.0
   },
   {
     "date": "2026/02/06",
@@ -4131,6 +5082,9 @@
     "op_prev": 3.4,
     "op_diff": -0.01,
     "detail": "20260206_9908.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546866.pdf"
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260204546866.pdf",
+    "pbr": 0.94,
+    "forward_pe": 9.7,
+    "div_yield": 3.53
   }
 ]
