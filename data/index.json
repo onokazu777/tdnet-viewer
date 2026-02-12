@@ -42584,5 +42584,21 @@
     "pbr": 0.71,
     "forward_pe": null,
     "div_yield": 2.04
+  },
+  {
+    "date": "2026/02/13",
+    "date_raw": "20260213",
+    "code": "3546",
+    "company": "アレンザHD",
+    "title": "2026年2月期配当予想の修正(期末配当・無配)及び株主優待制度の廃止に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260213_3546.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260212555825.pdf",
+    "pbr": 1.15,
+    "forward_pe": null,
+    "div_yield": 3.33
   }
 ]
