@@ -61400,5 +61400,21 @@
     "pbr": 1.37,
     "forward_pe": 2.2,
     "div_yield": 2.94
+  },
+  {
+    "date": "2026/03/04",
+    "date_raw": "20260304",
+    "code": "2160",
+    "company": "G-GNI",
+    "title": "(訂正・数値データの修正)「2025年12月期 決算短信〔IFRS〕(連結)」の一部訂正について",
+    "rev_chg": 13.68,
+    "op_cur": -12.93,
+    "op_prev": 5.94,
+    "op_diff": -18.87,
+    "detail": "20260304_2160.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260304575482.pdf",
+    "pbr": 3.3,
+    "forward_pe": 15.5,
+    "div_yield": null
   }
 ]
