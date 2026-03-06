@@ -61864,5 +61864,21 @@
     "pbr": 1.78,
     "forward_pe": 13.8,
     "div_yield": 2.4
+  },
+  {
+    "date": "2026/03/06",
+    "date_raw": "20260306",
+    "code": "4331",
+    "company": "T&Gニーズ",
+    "title": "(訂正・数値データ訂正) 「2025年12月期 決算短信〔日本基準〕(連結)」の訂正に関するお知らせ",
+    "rev_chg": -25.09,
+    "op_cur": 4.54,
+    "op_prev": 8.61,
+    "op_diff": -4.07,
+    "detail": "20260306_4331.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260306577795.pdf",
+    "pbr": 0.6,
+    "forward_pe": 5.0,
+    "div_yield": 5.49
   }
 ]
