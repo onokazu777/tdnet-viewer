@@ -62104,5 +62104,21 @@
     "pbr": 1.26,
     "forward_pe": null,
     "div_yield": 3.83
+  },
+  {
+    "date": "2026/03/09",
+    "date_raw": "20260309",
+    "code": "4151",
+    "company": "協和キリン",
+    "title": "(訂正・数値データ訂正)「2025年12月期 決算短信〔IFRS〕(連結)」の一部訂正について",
+    "rev_chg": 0.26,
+    "op_cur": 12.09,
+    "op_prev": -0.93,
+    "op_diff": 13.02,
+    "detail": "20260309_4151.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260305576118.pdf",
+    "pbr": 1.29,
+    "forward_pe": 15.9,
+    "div_yield": 3.11
   }
 ]
