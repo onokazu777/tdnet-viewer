@@ -62440,5 +62440,21 @@
     "pbr": 0.96,
     "forward_pe": 9.9,
     "div_yield": 3.57
+  },
+  {
+    "date": "2026/03/10",
+    "date_raw": "20260310",
+    "code": "4274",
+    "company": "細谷火工",
+    "title": "配当予想の修正(創業120周年記念配当)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260310_4274.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260310579196.pdf",
+    "pbr": 1.72,
+    "forward_pe": null,
+    "div_yield": 0.68
   }
 ]
