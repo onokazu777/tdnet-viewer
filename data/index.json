@@ -67624,5 +67624,21 @@
     "pbr": 0.48,
     "forward_pe": null,
     "div_yield": 3.69
+  },
+  {
+    "date": "2026/03/19",
+    "date_raw": "20260319",
+    "code": "9327",
+    "company": "イー・ロジット",
+    "title": "通期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": -0.76,
+    "op_diff": null,
+    "detail": "20260319_9327.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260311580096.pdf",
+    "pbr": -0.69,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
