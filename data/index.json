@@ -69000,5 +69000,37 @@
     "pbr": 20.49,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/03/26",
+    "date_raw": "20260326",
+    "code": "4202",
+    "company": "ダイセル",
+    "title": "特別損失の計上および通期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 10.4,
+    "op_diff": null,
+    "detail": "20260326_4202.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260325588299.pdf",
+    "pbr": 0.91,
+    "forward_pe": 6.2,
+    "div_yield": 4.42
+  },
+  {
+    "date": "2026/03/26",
+    "date_raw": "20260326",
+    "code": "7148",
+    "company": "FPG",
+    "title": "2026年9月期業績予想及び配当予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 19.59,
+    "op_diff": null,
+    "detail": "20260326_7148.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260325588169.pdf",
+    "pbr": 2.9,
+    "forward_pe": 6.0,
+    "div_yield": 6.38
   }
 ]
