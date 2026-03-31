@@ -70264,5 +70264,21 @@
     "pbr": 0.89,
     "forward_pe": 9.2,
     "div_yield": 4.47
+  },
+  {
+    "date": "2026/03/31",
+    "date_raw": "20260331",
+    "code": "195A",
+    "company": "G-MUSCAT G",
+    "title": "特別利益及び特別損失の計上(見込み)並びに通期連結業績予想修正のお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 2.95,
+    "op_diff": null,
+    "detail": "20260331_195A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260331595035.pdf",
+    "pbr": 2.86,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
