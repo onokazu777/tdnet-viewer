@@ -78248,5 +78248,53 @@
     "pbr": 2.03,
     "forward_pe": null,
     "div_yield": 1.29
+  },
+  {
+    "date": "2026/04/14",
+    "date_raw": "20260414",
+    "code": "2901",
+    "company": "ウェルディッシュ",
+    "title": "2026年8月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": null,
+    "op_cur": 0.24,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260414_2901.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260414504312.pdf",
+    "pbr": 2.35,
+    "forward_pe": null,
+    "div_yield": 1.16
+  },
+  {
+    "date": "2026/04/14",
+    "date_raw": "20260414",
+    "code": "3823",
+    "company": "WHY HOW DO",
+    "title": "2026年4月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260414_3823.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260409501155.pdf",
+    "pbr": 3.19,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/04/14",
+    "date_raw": "20260414",
+    "code": "469A",
+    "company": "G-フィットクルー",
+    "title": "2026年11月期 第1四半期決算短信〔日本基準〕(非連結)",
+    "rev_chg": null,
+    "op_cur": 1.5,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260414_469A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260414504313.pdf",
+    "pbr": 3.99,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
