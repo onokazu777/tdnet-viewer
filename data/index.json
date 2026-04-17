@@ -78920,5 +78920,21 @@
     "pbr": 2.63,
     "forward_pe": null,
     "div_yield": 0.58
+  },
+  {
+    "date": "2026/04/17",
+    "date_raw": "20260417",
+    "code": "6085",
+    "company": "G-アーキテクツSJ",
+    "title": "2026年2月期決算短信〔日本基準〕(連結)",
+    "rev_chg": -26.64,
+    "op_cur": -84.95,
+    "op_prev": -10.7,
+    "op_diff": -74.25,
+    "detail": "20260417_6085.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260417506268.pdf",
+    "pbr": -8302.75,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
