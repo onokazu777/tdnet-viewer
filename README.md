@@ -1,4 +1,8 @@
-XBRL Financial Viewer
+URLは
+https://onokazu777.github.io/tdnet-viewer/
+開示資料の表紙ページで　財務指標を一覧表示　変化をわかりやすく把握するためのツール
+
+〇XBRL Financial Viewer
 
 企業の財務データ（XBRL）を分析・可視化し、ブラウザ上で効率的に閲覧するためのフロントエンドビューワーです。
 
