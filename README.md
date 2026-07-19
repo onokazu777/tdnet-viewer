@@ -1,44 +1,60 @@
-URLは
+# tdnet-viewer
 
-https://onokazu777.github.io/tdnet-viewer/
+TDnetのXBRL財務分析結果を、ブラウザ上で一覧・詳細閲覧するための静的サイトです。
 
-開示資料の表紙ページで　財務指標を一覧表示　変化をわかりやすく把握するためのツール
+このリポジトリ自体は取得や解析を行いません。姉妹リポジトリ[`tdnet_get`](https://github.com/onokazu777/tdnet_get)のGitHub Actionsが生成したJSON・CSVを受け取り、GitHub Pagesで公開します。
 
-〇XBRL Financial Viewer
+## 公開先・関連リポジトリ
 
-企業の財務データ（XBRL）を分析・可視化し、ブラウザ上で効率的に閲覧するためのフロントエンドビューワーです。
+- XBRL Financial Viewer: https://onokazu777.github.io/tdnet-viewer/
+- 公開データリポジトリ（本リポジトリ）: https://github.com/onokazu777/tdnet-viewer
+- データ生成・更新処理: https://github.com/onokazu777/tdnet_get/actions
+- 生成側リポジトリ: https://github.com/onokazu777/tdnet_get
 
-📋 全体の仕様
+## 処理の概要
 
-企業の財務指標（増収率、営業利益率、PBR、予想PER、配当利回りなど）を一覧形式で表示します。
+```mermaid
+flowchart LR
+  TD[TDnet] --> GET[tdnet_get<br/>GitHub Actions]
+  GET -->|JSON・検索CSV・テキストJSON| VR[(tdnet-viewer)]
+  VR --> GP[GitHub Pages]
+  GP --> UI[index.html<br/>XBRL Financial Viewer]
+  GP --> ST[Streamlitクラウド検索<br/>data/text を参照]
+```
 
-日付、企業コード、各種財務指標による柔軟なソートと、キーワード・日付による絞り込み検索が可能です。
+平日の17:05、20:05、23:55（JST）に`tdnet_get`のActionsが起動し、差分を本リポジトリへpushします。push後、GitHub Pagesが静的ファイルを配信します。
 
-会社名をクリックするとモーダル画面が開き、「分析サマリー」などの詳細な財務データをタブ切り替えで確認できます。
+## 主な構成
 
-HTML/JavaScriptのみのシングルページアプリケーション（SPA）として構築されています。
+- `index.html`  
+  XBRL Financial Viewer本体。`data/index.json`を読み込み、ソート・検索・詳細モーダルをブラウザ上で処理します。
+- `data/index.json` / `data/detail/*.json`  
+  一覧と会社別詳細。Viewer画面が直接利用します。
+- `data/text/`  
+  PDF本文の日別JSON。`tdnet_get`のStreamlitキーワード検索（クラウドモード）が参照します。`index.html`は使いません。
+- `data/search/`  
+  キーワード検索・配布用CSVの保管場所。`index.html`は使いません。
+- `data/stock_cache.json`  
+  過去に置かれた株価キャッシュ。現行のViewer画面は参照せず、一覧のPBR等は`index.json`各行に含まれます。
 
-⏱ いつ、何をしているのか（処理スケジュール）
+## 詳細ドキュメント
 
-表示処理（フロントエンド）: ユーザーがページにアクセスした際や、検索・ソート操作を行った際に、ブラウザ上で即座にデータを再描画します。
+- [システム構成](docs/system-architecture.md)
+- [データフローとファイル一覧](docs/data-flow.md)
+- [プログラム一覧](docs/programs.md)
+- [運用・障害対応](docs/operations.md)
 
-データ更新（バックエンド推測）: この画面を表示するためのデータ（JSON）は、裏側の自動処理（GitHub Actions等のバッチ処理）によって定期的に生成・更新されている前提の作りになっています。
+## ローカル確認
 
-🔗 外部のシステムとの連携
+静的ファイルだけなので、ローカルHTTPサーバーで開けます。
 
-PDFリンク機能: 表内の「表題」をクリックすると、元となる開示情報や決算短信のPDFファイル（外部サーバー）へ直接アクセスできます。
+```powershell
+cd C:\path\to\tdnet-viewer
+python -m http.server 8080
+```
 
-📁 関連ファイル（インプット、アウトプット）
+ブラウザで http://localhost:8080/ を開きます。`file://`直接開きでは`fetch`が失敗することがあるため、HTTP経由を推奨します。
 
-index.html (アウトプット):
+## 機密情報
 
-ユーザーがアクセスして操作するメインのビューワー画面です。
-
-data/index.json (インプット):
-
-画面の一覧表を描画するための基本データ（日付、コード、会社名、各種指標、詳細ファイル名）が格納されたマスターファイルです。初回アクセス時に読み込まれます。
-
-data/detail/*.json (インプット):
-
-モーダル画面に表示される企業ごとの詳細な分析データ群です。ユーザーが特定の会社名をクリックした際に、必要なファイルだけが動的に読み込まれます。
-　
+本リポジトリにSecretsは不要です。`tdnet_get`側のRepository secret `VIEWER_PAT`で、本リポジトリへのclone・pushを行います。
