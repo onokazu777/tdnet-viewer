@@ -73,7 +73,7 @@ flowchart TB
 
 - リポジトリ: `onokazu777/tdnet_get`
 - ワークフロー: `.github/workflows/daily_update.yml`
-- 定期実行: 平日17:05、20:05、23:55（JST）
+- 定期実行: 平日15:35、17:05、20:05、23:55（JST）
 - 認証: Repository secret `VIEWER_PAT`
 
 Actionsは本リポジトリをcloneし、JSON・CSVをマージまたは上書きしたうえで、変更があれば`Auto update: <対象>`というコミットメッセージでpushします。
