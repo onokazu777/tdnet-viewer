@@ -1,4 +1,4 @@
-# tdnet-viewer
+﻿# tdnet-viewer
 
 TDnetのXBRL財務分析結果を、ブラウザ上で一覧・詳細閲覧するための静的サイトです。
 
@@ -22,7 +22,7 @@ flowchart LR
   GP --> ST[Streamlitクラウド検索<br/>data/text を参照]
 ```
 
-平日の15:35、17:05、20:05、23:55（JST）に`tdnet_get`のActionsが起動し、差分を本リポジトリへpushします。push後、GitHub Pagesが静的ファイルを配信します。
+平日の11:35、15:35、17:05、20:05、23:55（JST）に`tdnet_get`のActionsが起動し、差分を本リポジトリへpushします。push後、GitHub Pagesが静的ファイルを配信します。
 
 ## 主な構成
 
