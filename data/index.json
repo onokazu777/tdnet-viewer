@@ -149592,5 +149592,37 @@
     "pbr": 1.51,
     "forward_pe": null,
     "div_yield": 2.79
+  },
+  {
+    "date": "2026/07/21",
+    "date_raw": "20260721",
+    "code": "6200",
+    "company": "インソース",
+    "title": "2026年9月期第3四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 8.88,
+    "op_cur": 38.4,
+    "op_prev": 40.34,
+    "op_diff": -1.94,
+    "detail": "20260721_6200.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596691.pdf",
+    "pbr": 4.27,
+    "forward_pe": 11.0,
+    "div_yield": 4.71
+  },
+  {
+    "date": "2026/07/21",
+    "date_raw": "20260721",
+    "code": "6568",
+    "company": "G-神戸天然物化学",
+    "title": "2027年3月期 通期業績予想(第1四半期)の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260721_6568.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596911.pdf",
+    "pbr": 2.01,
+    "forward_pe": 8.6,
+    "div_yield": 2.6
   }
 ]
