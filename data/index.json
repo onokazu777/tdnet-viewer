@@ -149832,5 +149832,21 @@
     "pbr": 0.36,
     "forward_pe": null,
     "div_yield": 3.06
+  },
+  {
+    "date": "2026/07/22",
+    "date_raw": "20260722",
+    "code": "6890",
+    "company": "フェローテック",
+    "title": "2026年12月期通期連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 9.54,
+    "op_diff": null,
+    "detail": "20260722_6890.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597821.pdf",
+    "pbr": 1.34,
+    "forward_pe": 16.9,
+    "div_yield": 2.08
   }
 ]
