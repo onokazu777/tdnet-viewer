@@ -149624,5 +149624,21 @@
     "pbr": 2.01,
     "forward_pe": 8.6,
     "div_yield": 2.6
+  },
+  {
+    "date": "2026/07/22",
+    "date_raw": "20260722",
+    "code": "3776",
+    "company": "BBタワー",
+    "title": "2026年12月期第2四半期(中間期)および通期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 4.77,
+    "op_diff": null,
+    "detail": "20260722_3776.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597454.pdf",
+    "pbr": 1.65,
+    "forward_pe": 102.5,
+    "div_yield": 0.79
   }
 ]
