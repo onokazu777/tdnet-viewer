@@ -149861,7 +149861,7 @@
     "op_diff": -3.04,
     "detail": "20260723_2268.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260720596346.pdf",
-    "pbr": 2.69,
+    "pbr": 2.7,
     "forward_pe": null,
     "div_yield": 1.46
   },
@@ -149909,8 +149909,8 @@
     "op_diff": null,
     "detail": "20260723_5074.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260713592104.pdf",
-    "pbr": 1.16,
-    "forward_pe": 30.2,
+    "pbr": 1.15,
+    "forward_pe": 29.9,
     "div_yield": 0.76
   },
   {
@@ -149925,8 +149925,8 @@
     "op_diff": 1.11,
     "detail": "20260723_6999.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597184.pdf",
-    "pbr": 1.04,
-    "forward_pe": 46.1,
+    "pbr": 1.05,
+    "forward_pe": 46.3,
     "div_yield": 1.54
   },
   {
@@ -149941,8 +149941,8 @@
     "op_diff": 2.57,
     "detail": "20260723_7931.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597572.pdf",
-    "pbr": 1.01,
-    "forward_pe": 11.9,
+    "pbr": 1.02,
+    "forward_pe": 12.0,
     "div_yield": 3.08
   },
   {
@@ -149957,7 +149957,7 @@
     "op_diff": -0.09,
     "detail": "20260723_7970.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598058.pdf",
-    "pbr": 1.53,
+    "pbr": 1.54,
     "forward_pe": 18.7,
     "div_yield": 2.57
   },
@@ -149973,7 +149973,7 @@
     "op_diff": 4.69,
     "detail": "20260723_9478.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598107.pdf",
-    "pbr": 0.74,
+    "pbr": 0.75,
     "forward_pe": null,
     "div_yield": 0.78
   },
@@ -149989,8 +149989,40 @@
     "op_diff": -0.87,
     "detail": "20260723_9733.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597468.pdf",
-    "pbr": 1.66,
-    "forward_pe": 16.6,
+    "pbr": 1.67,
+    "forward_pe": 16.7,
     "div_yield": 5.07
+  },
+  {
+    "date": "2026/07/23",
+    "date_raw": "20260723",
+    "code": "6146",
+    "company": "ディスコ",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 27.13,
+    "op_cur": 42.9,
+    "op_prev": 38.35,
+    "op_diff": 4.55,
+    "detail": "20260723_6146.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260721597094.pdf",
+    "pbr": 12.81,
+    "forward_pe": 51.0,
+    "div_yield": 0.74
+  },
+  {
+    "date": "2026/07/23",
+    "date_raw": "20260723",
+    "code": "7962",
+    "company": "キングジム",
+    "title": "業績予想および配当予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 1.35,
+    "op_diff": null,
+    "detail": "20260723_7962.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260722597154.pdf",
+    "pbr": 0.88,
+    "forward_pe": null,
+    "div_yield": 1.79
   }
 ]
