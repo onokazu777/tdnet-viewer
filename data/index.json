@@ -150037,7 +150037,7 @@
     "op_diff": 5.25,
     "detail": "20260724_1723.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598582.pdf",
-    "pbr": 3.42,
+    "pbr": 3.41,
     "forward_pe": null,
     "div_yield": 3.28
   },
@@ -150117,8 +150117,8 @@
     "op_diff": 0.24,
     "detail": "20260724_3912.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598217.pdf",
-    "pbr": 3.23,
-    "forward_pe": 10.2,
+    "pbr": 3.14,
+    "forward_pe": 9.9,
     "div_yield": 4.53
   },
   {
@@ -150133,8 +150133,8 @@
     "op_diff": -0.3,
     "detail": "20260724_4063.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598954.pdf",
-    "pbr": 2.78,
-    "forward_pe": 20.2,
+    "pbr": 2.79,
+    "forward_pe": 20.3,
     "div_yield": 1.52
   },
   {
@@ -150150,7 +150150,7 @@
     "detail": "20260724_4973.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599175.pdf",
     "pbr": 1.42,
-    "forward_pe": 15.2,
+    "forward_pe": 15.3,
     "div_yield": 4.47
   },
   {
@@ -150181,7 +150181,7 @@
     "op_diff": 8.0,
     "detail": "20260724_6858.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599221.pdf",
-    "pbr": 0.56,
+    "pbr": 0.55,
     "forward_pe": null,
     "div_yield": 3.41
   },
@@ -150197,7 +150197,7 @@
     "op_diff": 0.59,
     "detail": "20260724_6955.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598628.pdf",
-    "pbr": 0.74,
+    "pbr": 0.73,
     "forward_pe": null,
     "div_yield": null
   },
@@ -150213,7 +150213,7 @@
     "op_diff": 23.11,
     "detail": "20260724_7175.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598961.pdf",
-    "pbr": 0.66,
+    "pbr": 0.67,
     "forward_pe": null,
     "div_yield": 4.38
   },
@@ -150229,7 +150229,7 @@
     "op_diff": 0.76,
     "detail": "20260724_7422.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598091.pdf",
-    "pbr": 0.36,
+    "pbr": 0.35,
     "forward_pe": null,
     "div_yield": 3.06
   },
@@ -150245,8 +150245,8 @@
     "op_diff": 1.38,
     "detail": "20260724_8060.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596814.pdf",
-    "pbr": 1.91,
-    "forward_pe": 9.6,
+    "pbr": 1.9,
+    "forward_pe": 9.5,
     "div_yield": 2.38
   },
   {
@@ -150278,7 +150278,7 @@
     "detail": "20260724_8595.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598535.pdf",
     "pbr": 0.87,
-    "forward_pe": 6.3,
+    "forward_pe": 6.4,
     "div_yield": 5.73
   },
   {
@@ -150293,7 +150293,7 @@
     "op_diff": 0.2,
     "detail": "20260724_9029.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598215.pdf",
-    "pbr": 1.58,
+    "pbr": 1.62,
     "forward_pe": null,
     "div_yield": 3.1
   },
@@ -150325,7 +150325,7 @@
     "op_diff": -3.71,
     "detail": "20260724_9353.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598940.pdf",
-    "pbr": 0.57,
+    "pbr": 0.56,
     "forward_pe": null,
     "div_yield": 1.76
   },
@@ -150344,5 +150344,133 @@
     "pbr": 1.88,
     "forward_pe": null,
     "div_yield": 1.17
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "1964",
+    "company": "中外炉",
+    "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": -3.59,
+    "op_cur": -3.42,
+    "op_prev": -5.85,
+    "op_diff": 2.43,
+    "detail": "20260724_1964.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599456.pdf",
+    "pbr": 0.96,
+    "forward_pe": 12.6,
+    "div_yield": 4.37
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "2804",
+    "company": "ブルドックソース",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 0.43,
+    "op_cur": 4.15,
+    "op_prev": 3.38,
+    "op_diff": 0.77,
+    "detail": "20260724_2804.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598662.pdf",
+    "pbr": 0.91,
+    "forward_pe": null,
+    "div_yield": 2.75
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "3823",
+    "company": "WHY HOW DO",
+    "title": "営業外費用(社債償還損)の計上及び(訂正・数値データ訂正)「2026年4月期 決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ",
+    "rev_chg": 33.18,
+    "op_cur": -21.53,
+    "op_prev": -4.11,
+    "op_diff": -17.41,
+    "detail": "20260724_3823.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260721596746.pdf",
+    "pbr": 3.13,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "4519",
+    "company": "中外薬",
+    "title": "2026年12月期 第2四半期(中間期)決算短信〔IFRS〕(連結)",
+    "rev_chg": 14.67,
+    "op_cur": 48.18,
+    "op_prev": 47.25,
+    "op_diff": 0.93,
+    "detail": "20260724_4519.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598715.pdf",
+    "pbr": 6.4,
+    "forward_pe": 31.4,
+    "div_yield": 1.83
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "6629",
+    "company": "テクノホライゾン",
+    "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 27.37,
+    "op_cur": 3.76,
+    "op_prev": 0.2,
+    "op_diff": 3.56,
+    "detail": "20260724_6629.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260716595094.pdf",
+    "pbr": 1.13,
+    "forward_pe": 12.2,
+    "div_yield": 3.23
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "6653",
+    "company": "正興電機製作所",
+    "title": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 18.65,
+    "op_cur": 9.82,
+    "op_prev": 9.28,
+    "op_diff": 0.54,
+    "detail": "20260724_6653.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599132.pdf",
+    "pbr": 1.56,
+    "forward_pe": 16.9,
+    "div_yield": 2.46
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "8700",
+    "company": "丸八証券",
+    "title": "2027年3月期 第1四半期決算速報値に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 11.66,
+    "op_diff": null,
+    "detail": "20260724_8700.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598268.pdf",
+    "pbr": 0.97,
+    "forward_pe": null,
+    "div_yield": 5.04
+  },
+  {
+    "date": "2026/07/24",
+    "date_raw": "20260724",
+    "code": "8707",
+    "company": "岩井コスモ",
+    "title": "2027年3月期 第1四半期決算短信[日本基準](連結)",
+    "rev_chg": 40.51,
+    "op_cur": 46.01,
+    "op_prev": 35.65,
+    "op_diff": 10.36,
+    "detail": "20260724_8707.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598646.pdf",
+    "pbr": 1.35,
+    "forward_pe": null,
+    "div_yield": 5.23
   }
 ]
