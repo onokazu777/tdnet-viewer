@@ -150487,7 +150487,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260721597098.pdf",
     "pbr": 0.46,
     "forward_pe": null,
-    "div_yield": 4.23
+    "div_yield": 4.03
   },
   {
     "date": "2026/07/27",
@@ -150503,23 +150503,23 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260727599801.pdf",
     "pbr": 1.49,
     "forward_pe": 17.1,
-    "div_yield": 5.26
+    "div_yield": 5.2
   },
   {
     "date": "2026/07/27",
     "date_raw": "20260727",
     "code": "2767",
     "company": "円谷フィールズHD",
-    "title": "業績予想及び中期経営計画の修正に関するお知らせ",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
     "rev_chg": -21.31,
     "op_cur": 15.74,
     "op_prev": 14.06,
     "op_diff": 1.68,
     "detail": "20260727_2767.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260727599762.pdf",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260727599995.pdf",
     "pbr": 1.56,
     "forward_pe": 5.7,
-    "div_yield": 4.75
+    "div_yield": 4.58
   },
   {
     "date": "2026/07/27",
@@ -150535,7 +150535,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599411.pdf",
     "pbr": 2.29,
     "forward_pe": 13.1,
-    "div_yield": 2.37
+    "div_yield": 2.24
   },
   {
     "date": "2026/07/27",
@@ -150551,7 +150551,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599439.pdf",
     "pbr": 0.87,
     "forward_pe": null,
-    "div_yield": 2.09
+    "div_yield": 2.04
   },
   {
     "date": "2026/07/27",
@@ -150583,23 +150583,23 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260717595817.pdf",
     "pbr": 0.85,
     "forward_pe": null,
-    "div_yield": 5.71
+    "div_yield": 5.69
   },
   {
     "date": "2026/07/27",
     "date_raw": "20260727",
     "code": "4765",
     "company": "SBIGアセットM",
-    "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "title": "2027年3月期 中間配当予想に関するお知らせ― 8期連続の中間増配へ ―",
     "rev_chg": null,
     "op_cur": null,
     "op_prev": null,
     "op_diff": null,
     "detail": "20260727_4765.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260710591432.pdf",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260727500179.pdf",
     "pbr": 2.43,
     "forward_pe": null,
-    "div_yield": 4.85
+    "div_yield": 4.05
   },
   {
     "date": "2026/07/27",
@@ -150615,7 +150615,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260727599823.pdf",
     "pbr": 1.05,
     "forward_pe": 12.7,
-    "div_yield": 2.68
+    "div_yield": 2.57
   },
   {
     "date": "2026/07/27",
@@ -150663,7 +150663,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260727500024.pdf",
     "pbr": 4.09,
     "forward_pe": null,
-    "div_yield": 5.25
+    "div_yield": 5.43
   },
   {
     "date": "2026/07/27",
@@ -150695,7 +150695,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724598905.pdf",
     "pbr": 1.21,
     "forward_pe": null,
-    "div_yield": 5.33
+    "div_yield": 5.19
   },
   {
     "date": "2026/07/27",
@@ -150727,7 +150727,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598557.pdf",
     "pbr": 0.77,
     "forward_pe": null,
-    "div_yield": 2.33
+    "div_yield": 2.28
   },
   {
     "date": "2026/07/27",
@@ -150759,7 +150759,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599508.pdf",
     "pbr": 1.36,
     "forward_pe": null,
-    "div_yield": 1.17
+    "div_yield": 1.15
   },
   {
     "date": "2026/07/27",
@@ -150792,5 +150792,69 @@
     "pbr": 0.57,
     "forward_pe": null,
     "div_yield": 2.91
+  },
+  {
+    "date": "2026/07/27",
+    "date_raw": "20260727",
+    "code": "2026",
+    "company": "",
+    "title": "101~152件 / 全152件前へ12次へ",
+    "rev_chg": 39.71,
+    "op_cur": 4.2,
+    "op_prev": 2.91,
+    "op_diff": 1.28,
+    "detail": "20260727_2026.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260723598569.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/07/27",
+    "date_raw": "20260727",
+    "code": "2026",
+    "company": "",
+    "title": "1~100件 / 全152件前へ12次へ",
+    "rev_chg": 17.35,
+    "op_cur": 31.13,
+    "op_prev": 24.15,
+    "op_diff": 6.98,
+    "detail": "20260727_2026_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260727599791.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/07/27",
+    "date_raw": "20260727",
+    "code": "2767",
+    "company": "円谷フィールズHD",
+    "title": "業績予想及び中期経営計画の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 10.02,
+    "op_diff": null,
+    "detail": "20260727_2767_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260727599762.pdf",
+    "pbr": 1.56,
+    "forward_pe": 5.7,
+    "div_yield": 4.58
+  },
+  {
+    "date": "2026/07/27",
+    "date_raw": "20260727",
+    "code": "4765",
+    "company": "SBIGアセットM",
+    "title": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 350.88,
+    "op_cur": 20.77,
+    "op_prev": 18.04,
+    "op_diff": 2.73,
+    "detail": "20260727_4765_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260710591432.pdf",
+    "pbr": 2.43,
+    "forward_pe": null,
+    "div_yield": 4.05
   }
 ]
