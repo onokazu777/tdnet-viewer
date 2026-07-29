@@ -153645,5 +153645,22 @@
     "pbr": 0.68,
     "forward_pe": 12.0,
     "div_yield": 2.44
+  },
+  {
+    "date": "2026/07/29",
+    "date_raw": "20260729",
+    "time": "17:30",
+    "code": "4722",
+    "company": "フューチャー",
+    "title": "2026年12月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 7.51,
+    "op_cur": 19.26,
+    "op_prev": 19.94,
+    "op_diff": -0.69,
+    "detail": "20260729_4722.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260728501236.pdf",
+    "pbr": 3.33,
+    "forward_pe": 17.8,
+    "div_yield": 2.05
   }
 ]
