@@ -163624,5 +163624,39 @@
     "pbr": 0.8,
     "forward_pe": null,
     "div_yield": 3.38
+  },
+  {
+    "date": "2026/08/03",
+    "date_raw": "20260803",
+    "time": "17:25",
+    "code": "7201",
+    "company": "日産自",
+    "title": "2027年3月期 第1四半期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 9.51,
+    "op_cur": 2.63,
+    "op_prev": -2.92,
+    "op_diff": 5.55,
+    "detail": "20260803_7201.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260724599464.pdf",
+    "pbr": 0.24,
+    "forward_pe": -22.2,
+    "div_yield": null
+  },
+  {
+    "date": "2026/08/03",
+    "date_raw": "20260803",
+    "time": "18:40",
+    "code": "7699",
+    "company": "G-OPS",
+    "title": "(訂正・数値データ訂正)「2026年3月期 決算短信〔SFRS〕(連結)」 の一部訂正について",
+    "rev_chg": 8.39,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260803_7699.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260731505587.pdf",
+    "pbr": 0.96,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
