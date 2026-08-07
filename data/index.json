@@ -180249,7 +180249,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260806511130.pdf",
     "pbr": 0.34,
     "forward_pe": null,
-    "div_yield": 1.96
+    "div_yield": 1.98
   },
   {
     "date": "2026/08/07",
@@ -180356,16 +180356,16 @@
   {
     "date": "2026/08/07",
     "date_raw": "20260807",
-    "time": "15:55",
+    "time": "18:10",
     "code": "6227",
     "company": "AIメカテック",
-    "title": "2026年6月期 決算短信〔日本基準〕(連結)",
-    "rev_chg": 67.79,
-    "op_cur": 16.49,
-    "op_prev": 9.97,
-    "op_diff": 6.51,
+    "title": "(数値データ訂正)「2026年6月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
     "detail": "20260807_6227.json",
-    "pdf_url": "https://www.release.tdnet.info/inbs/140120260806512810.pdf",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515672.pdf",
     "pbr": 9.66,
     "forward_pe": 28.0,
     "div_yield": 0.23
@@ -183377,7 +183377,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260806513352.pdf",
     "pbr": 0.23,
     "forward_pe": null,
-    "div_yield": 2.19
+    "div_yield": 2.17
   },
   {
     "date": "2026/08/07",
@@ -183394,7 +183394,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260806512605.pdf",
     "pbr": 0.23,
     "forward_pe": null,
-    "div_yield": 2.19
+    "div_yield": 2.17
   },
   {
     "date": "2026/08/07",
@@ -184482,7 +184482,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260806511437.pdf",
     "pbr": 1.37,
     "forward_pe": 13.0,
-    "div_yield": 2.99
+    "div_yield": 2.95
   },
   {
     "date": "2026/08/07",
@@ -184856,7 +184856,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260721597051.pdf",
     "pbr": 0.91,
     "forward_pe": null,
-    "div_yield": 4.65
+    "div_yield": 4.55
   },
   {
     "date": "2026/08/07",
@@ -184873,7 +184873,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260616572008.pdf",
     "pbr": 0.91,
     "forward_pe": null,
-    "div_yield": 4.65
+    "div_yield": 4.55
   },
   {
     "date": "2026/08/07",
@@ -187628,5 +187628,90 @@
     "pbr": 2.18,
     "forward_pe": 15.4,
     "div_yield": 4.2
+  },
+  {
+    "date": "2026/08/07",
+    "date_raw": "20260807",
+    "time": "18:00",
+    "code": "3948",
+    "company": "光ビジネス",
+    "title": "2026年12月期 第2四半期(中間期)決算短信〔日本基準〕(非連結)",
+    "rev_chg": 8.75,
+    "op_cur": 9.04,
+    "op_prev": 0.63,
+    "op_diff": 8.41,
+    "detail": "20260807_3948.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260806513285.pdf",
+    "pbr": 1.06,
+    "forward_pe": null,
+    "div_yield": 4.42
+  },
+  {
+    "date": "2026/08/07",
+    "date_raw": "20260807",
+    "time": "18:30",
+    "code": "4335",
+    "company": "IPSHD",
+    "title": "2026年6月期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 1.15,
+    "op_cur": 9.75,
+    "op_prev": 9.73,
+    "op_diff": 0.02,
+    "detail": "20260807_4335.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515764.pdf",
+    "pbr": 1.41,
+    "forward_pe": null,
+    "div_yield": 3.45
+  },
+  {
+    "date": "2026/08/07",
+    "date_raw": "20260807",
+    "time": "15:55",
+    "code": "6227",
+    "company": "AIメカテック",
+    "title": "2026年6月期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 67.79,
+    "op_cur": 16.49,
+    "op_prev": 9.97,
+    "op_diff": 6.51,
+    "detail": "20260807_6227_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260806512810.pdf",
+    "pbr": 9.66,
+    "forward_pe": 28.0,
+    "div_yield": 0.23
+  },
+  {
+    "date": "2026/08/07",
+    "date_raw": "20260807",
+    "time": "19:50",
+    "code": "7567",
+    "company": "栄電子",
+    "title": "2027年3月期 第1四半期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 58.55,
+    "op_cur": 5.0,
+    "op_prev": 0.97,
+    "op_diff": 4.03,
+    "detail": "20260807_7567.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515828.pdf",
+    "pbr": 0.6,
+    "forward_pe": null,
+    "div_yield": 1.97
+  },
+  {
+    "date": "2026/08/07",
+    "date_raw": "20260807",
+    "time": "18:00",
+    "code": "9274",
+    "company": "KPPグループHD",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 7.14,
+    "op_cur": 0.93,
+    "op_prev": 1.07,
+    "op_diff": -0.14,
+    "detail": "20260807_9274.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260807515643.pdf",
+    "pbr": 0.78,
+    "forward_pe": null,
+    "div_yield": 3.66
   }
 ]
