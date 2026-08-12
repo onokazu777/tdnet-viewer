@@ -192624,7 +192624,7 @@
     "detail": "20260812_1435.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260812517562.pdf",
     "pbr": 1.35,
-    "forward_pe": 2.9,
+    "forward_pe": null,
     "div_yield": 1.23
   },
   {
@@ -194239,7 +194239,7 @@
     "detail": "20260812_6194.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260810516319.pdf",
     "pbr": 4.39,
-    "forward_pe": 16.4,
+    "forward_pe": null,
     "div_yield": 7.73
   },
   {
