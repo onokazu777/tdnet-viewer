@@ -207331,5 +207331,22 @@
     "pbr": 9.55,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/08/17",
+    "date_raw": "20260817",
+    "time": "11:30",
+    "code": "8798",
+    "company": "アドバンスクリエイト",
+    "title": "(訂正・数値データ訂正)「2025年9月期 第1四半期決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": -33.97,
+    "op_cur": -25.29,
+    "op_prev": 0.98,
+    "op_diff": -26.27,
+    "detail": "20260817_8798.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521640.pdf",
+    "pbr": 9.62,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
