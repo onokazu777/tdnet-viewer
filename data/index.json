@@ -207345,7 +207345,7 @@
     "op_diff": -26.27,
     "detail": "20260817_8798.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521640.pdf",
-    "pbr": 9.83,
+    "pbr": 9.69,
     "forward_pe": null,
     "div_yield": null
   },
@@ -207362,7 +207362,7 @@
     "op_diff": null,
     "detail": "20260817_2927.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521844.pdf",
-    "pbr": 0.81,
+    "pbr": 0.8,
     "forward_pe": null,
     "div_yield": 4.15
   },
@@ -207396,7 +207396,7 @@
     "op_diff": 6.3,
     "detail": "20260817_4651.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521541.pdf",
-    "pbr": 1.18,
+    "pbr": 1.17,
     "forward_pe": 8.1,
     "div_yield": 1.12
   },
@@ -207413,7 +207413,7 @@
     "op_diff": 1.08,
     "detail": "20260817_6061.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521608.pdf",
-    "pbr": 1.88,
+    "pbr": 1.86,
     "forward_pe": null,
     "div_yield": 0.43
   },
@@ -207431,7 +207431,7 @@
     "detail": "20260817_8951.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260814520929.pdf",
     "pbr": 0.34,
-    "forward_pe": 26.9,
+    "forward_pe": 27.1,
     "div_yield": 3.83
   },
   {
@@ -207450,5 +207450,56 @@
     "pbr": 0.36,
     "forward_pe": 12.6,
     "div_yield": 4.4
+  },
+  {
+    "date": "2026/08/17",
+    "date_raw": "20260817",
+    "time": "16:00",
+    "code": "6195",
+    "company": "G-ホープ",
+    "title": "(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 15.64,
+    "op_cur": 9.47,
+    "op_prev": 9.27,
+    "op_diff": 0.21,
+    "detail": "20260817_6195.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260817521889.pdf",
+    "pbr": 2.66,
+    "forward_pe": 18.1,
+    "div_yield": 2.19
+  },
+  {
+    "date": "2026/08/17",
+    "date_raw": "20260817",
+    "time": "16:00",
+    "code": "8964",
+    "company": "R-三井不商業",
+    "title": "2026年6月期 決算短信(REIT)",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260817_8964.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260814521458.pdf",
+    "pbr": 1.23,
+    "forward_pe": 3.7,
+    "div_yield": 5.51
+  },
+  {
+    "date": "2026/08/17",
+    "date_raw": "20260817",
+    "time": "16:20",
+    "code": "9439",
+    "company": "MHグループ",
+    "title": "2026年6月期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 0.33,
+    "op_cur": -2.81,
+    "op_prev": -0.49,
+    "op_diff": -2.32,
+    "detail": "20260817_9439.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260814521471.pdf",
+    "pbr": 5.6,
+    "forward_pe": null,
+    "div_yield": 0.4
   }
 ]
