@@ -207583,8 +207583,8 @@
     "op_diff": 4.36,
     "detail": "20260818_6327.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260806512049.pdf",
-    "pbr": 5.63,
-    "forward_pe": 52.7,
+    "pbr": 5.69,
+    "forward_pe": 53.2,
     "div_yield": 0.5
   },
   {
@@ -207600,8 +207600,25 @@
     "op_diff": -0.07,
     "detail": "20260818_7532.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260809515913.pdf",
-    "pbr": 4.0,
+    "pbr": 3.99,
     "forward_pe": 5.2,
     "div_yield": 0.93
+  },
+  {
+    "date": "2026/08/18",
+    "date_raw": "20260818",
+    "time": "15:40",
+    "code": "3174",
+    "company": "ハピネス&D",
+    "title": "2026年8月期通期連結・個別業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": -4.57,
+    "op_diff": null,
+    "detail": "20260818_3174.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522188.pdf",
+    "pbr": 3.57,
+    "forward_pe": null,
+    "div_yield": 2.58
   }
 ]
