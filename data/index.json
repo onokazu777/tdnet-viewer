@@ -207634,7 +207634,7 @@
     "op_diff": -9.69,
     "detail": "20260819_3856.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522865.pdf",
-    "pbr": 0.2,
+    "pbr": 0.23,
     "forward_pe": null,
     "div_yield": 1.58
   },
@@ -207651,7 +207651,7 @@
     "op_diff": -1.16,
     "detail": "20260819_3856_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522804.pdf",
-    "pbr": 0.2,
+    "pbr": 0.23,
     "forward_pe": null,
     "div_yield": 1.58
   },
@@ -207668,7 +207668,7 @@
     "op_diff": 2.92,
     "detail": "20260819_3856_2.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522868.pdf",
-    "pbr": 0.2,
+    "pbr": 0.23,
     "forward_pe": null,
     "div_yield": 1.58
   },
@@ -207685,7 +207685,7 @@
     "op_diff": 2.68,
     "detail": "20260819_3856_3.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522872.pdf",
-    "pbr": 0.2,
+    "pbr": 0.23,
     "forward_pe": null,
     "div_yield": 1.58
   },
@@ -207702,7 +207702,7 @@
     "op_diff": null,
     "detail": "20260819_4413.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522655.pdf",
-    "pbr": 11.71,
+    "pbr": 11.73,
     "forward_pe": 21.6,
     "div_yield": 0.34
   },
@@ -207720,7 +207720,7 @@
     "detail": "20260819_3076.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510310.pdf",
     "pbr": 1.35,
-    "forward_pe": 8.3,
+    "forward_pe": 8.2,
     "div_yield": 4.77
   },
   {
@@ -207736,7 +207736,7 @@
     "op_diff": 7.53,
     "detail": "20260819_3856_4.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522973.pdf",
-    "pbr": 0.2,
+    "pbr": 0.23,
     "forward_pe": null,
     "div_yield": 1.58
   },
@@ -207753,7 +207753,7 @@
     "op_diff": null,
     "detail": "20260819_3856_5.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522969.pdf",
-    "pbr": 0.2,
+    "pbr": 0.23,
     "forward_pe": null,
     "div_yield": 1.58
   },
@@ -207773,5 +207773,39 @@
     "pbr": 0.4,
     "forward_pe": null,
     "div_yield": 2.98
+  },
+  {
+    "date": "2026/08/19",
+    "date_raw": "20260819",
+    "time": "15:45",
+    "code": "3455",
+    "company": "R-HCM",
+    "title": "2027年1月期の運用状況の予想及び分配予想の修正並びに2027年7月期の運用状況の予想及び分配予想に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260819_3455.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522657.pdf",
+    "pbr": 0.97,
+    "forward_pe": null,
+    "div_yield": 6.18
+  },
+  {
+    "date": "2026/08/19",
+    "date_raw": "20260819",
+    "time": "16:00",
+    "code": "3470",
+    "company": "R-マリモリート",
+    "title": "2026年6月期 決算短信(REIT)",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260819_3470.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522195.pdf",
+    "pbr": 1.04,
+    "forward_pe": 36.3,
+    "div_yield": 6.51
   }
 ]
