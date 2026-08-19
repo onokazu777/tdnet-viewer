@@ -207634,9 +207634,9 @@
     "op_diff": -9.69,
     "detail": "20260819_3856.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522865.pdf",
-    "pbr": 0.23,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 1.58
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207651,9 +207651,9 @@
     "op_diff": -1.16,
     "detail": "20260819_3856_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522804.pdf",
-    "pbr": 0.23,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 1.58
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207668,9 +207668,9 @@
     "op_diff": 2.92,
     "detail": "20260819_3856_2.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522868.pdf",
-    "pbr": 0.23,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 1.58
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207685,9 +207685,9 @@
     "op_diff": 2.68,
     "detail": "20260819_3856_3.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522872.pdf",
-    "pbr": 0.23,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 1.58
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207702,9 +207702,9 @@
     "op_diff": null,
     "detail": "20260819_4413.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522655.pdf",
-    "pbr": 11.73,
-    "forward_pe": 21.6,
-    "div_yield": 0.34
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207719,9 +207719,9 @@
     "op_diff": -0.77,
     "detail": "20260819_3076.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260805510310.pdf",
-    "pbr": 1.35,
-    "forward_pe": 8.2,
-    "div_yield": 4.77
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207736,9 +207736,9 @@
     "op_diff": 7.53,
     "detail": "20260819_3856_4.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522973.pdf",
-    "pbr": 0.23,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 1.58
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207753,9 +207753,9 @@
     "op_diff": null,
     "detail": "20260819_3856_5.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260819522969.pdf",
-    "pbr": 0.23,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 1.58
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207770,9 +207770,9 @@
     "op_diff": -0.39,
     "detail": "20260819_9361.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260817522074.pdf",
-    "pbr": 0.4,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 2.98
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207787,9 +207787,9 @@
     "op_diff": null,
     "detail": "20260819_3455.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522657.pdf",
-    "pbr": 0.97,
+    "pbr": null,
     "forward_pe": null,
-    "div_yield": 6.18
+    "div_yield": null
   },
   {
     "date": "2026/08/19",
@@ -207804,8 +207804,8 @@
     "op_diff": null,
     "detail": "20260819_3470.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260818522195.pdf",
-    "pbr": 1.04,
-    "forward_pe": 36.3,
-    "div_yield": 6.51
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
