@@ -207909,5 +207909,22 @@
     "pbr": 1.44,
     "forward_pe": 20.8,
     "div_yield": 2.12
+  },
+  {
+    "date": "2026/08/20",
+    "date_raw": "20260820",
+    "time": "17:30",
+    "code": "9219",
+    "company": "G-ギックス",
+    "title": "(訂正)「2026年6月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 15.3,
+    "op_cur": 0.9,
+    "op_prev": -4.13,
+    "op_diff": 5.03,
+    "detail": "20260820_9219.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523759.pdf",
+    "pbr": 2.88,
+    "forward_pe": 29.9,
+    "div_yield": 6.02
   }
 ]
