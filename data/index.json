@@ -208144,8 +208144,8 @@
     "op_diff": null,
     "detail": "20260824_9279.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524680.pdf",
-    "pbr": 8.65,
-    "forward_pe": 39.6,
+    "pbr": 8.61,
+    "forward_pe": 39.5,
     "div_yield": 0.25
   },
   {
@@ -208181,5 +208181,39 @@
     "pbr": 0.79,
     "forward_pe": null,
     "div_yield": 2.37
+  },
+  {
+    "date": "2026/08/24",
+    "date_raw": "20260824",
+    "time": "16:00",
+    "code": "245A",
+    "company": "G-INGS",
+    "title": "配当方針の変更及び2026年8月期配当予想の修正(初配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260824_245A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524841.pdf",
+    "pbr": 2.75,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/08/24",
+    "date_raw": "20260824",
+    "time": "16:00",
+    "code": "9706",
+    "company": "日空ビル",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)(公認会計士等による期中レビューの完了)",
+    "rev_chg": 7.43,
+    "op_cur": 19.38,
+    "op_prev": 14.79,
+    "op_diff": 4.59,
+    "detail": "20260824_9706.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524594.pdf",
+    "pbr": 2.48,
+    "forward_pe": 26.5,
+    "div_yield": 1.67
   }
 ]
