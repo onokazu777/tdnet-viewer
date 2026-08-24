@@ -208215,5 +208215,39 @@
     "pbr": 2.48,
     "forward_pe": 26.5,
     "div_yield": 1.67
+  },
+  {
+    "date": "2026/08/24",
+    "date_raw": "20260824",
+    "time": "18:00",
+    "code": "8572",
+    "company": "アコム",
+    "title": "(訂正・数値データ訂正) 「2027年3月期 第1四半期決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 7.72,
+    "op_cur": 33.42,
+    "op_prev": 34.17,
+    "op_diff": -0.75,
+    "detail": "20260824_8572.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525325.pdf",
+    "pbr": 1.07,
+    "forward_pe": 10.7,
+    "div_yield": 4.5
+  },
+  {
+    "date": "2026/08/24",
+    "date_raw": "20260824",
+    "time": "18:00",
+    "code": "8572",
+    "company": "アコム",
+    "title": "(訂正・数値データ訂正)「2026年3月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 6.28,
+    "op_cur": 29.73,
+    "op_prev": 18.43,
+    "op_diff": 11.3,
+    "detail": "20260824_8572_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260824525328.pdf",
+    "pbr": 1.07,
+    "forward_pe": 10.7,
+    "div_yield": 4.5
   }
 ]
