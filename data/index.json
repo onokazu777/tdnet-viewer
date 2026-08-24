@@ -208130,5 +208130,22 @@
     "pbr": 1.25,
     "forward_pe": 23.8,
     "div_yield": 4.29
+  },
+  {
+    "date": "2026/08/24",
+    "date_raw": "20260824",
+    "time": "10:00",
+    "code": "9279",
+    "company": "ギフトHD",
+    "title": "連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 9.38,
+    "op_diff": null,
+    "detail": "20260824_9279.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524680.pdf",
+    "pbr": 8.68,
+    "forward_pe": 39.8,
+    "div_yield": 0.25
   }
 ]
