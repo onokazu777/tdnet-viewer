@@ -208280,7 +208280,7 @@
     "op_diff": null,
     "detail": "20260825_4422.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260824524878.pdf",
-    "pbr": 5.78,
+    "pbr": 5.7,
     "forward_pe": null,
     "div_yield": null
   },
@@ -208416,8 +208416,25 @@
     "op_diff": null,
     "detail": "20260825_9687.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525622.pdf",
-    "pbr": 1.53,
+    "pbr": 1.54,
     "forward_pe": null,
     "div_yield": 4.31
+  },
+  {
+    "date": "2026/08/25",
+    "date_raw": "20260825",
+    "time": "16:00",
+    "code": "5726",
+    "company": "大阪チタ",
+    "title": "2027年3月期 第1四半期決算短信〔日本基準〕(非連結)(公認会計士等による期中レビューの完了)",
+    "rev_chg": 2.28,
+    "op_cur": 10.1,
+    "op_prev": 5.65,
+    "op_diff": 4.45,
+    "detail": "20260825_5726.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260805509537.pdf",
+    "pbr": 2.35,
+    "forward_pe": 7.8,
+    "div_yield": 0.43
   }
 ]
