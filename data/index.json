@@ -208249,5 +208249,22 @@
     "pbr": 1.07,
     "forward_pe": 10.7,
     "div_yield": 4.5
+  },
+  {
+    "date": "2026/08/25",
+    "date_raw": "20260825",
+    "time": "11:30",
+    "code": "549A",
+    "company": "ヒトトヒトHD",
+    "title": "中間配当の実施及び実施に伴う配当予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260825_549A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260825525492.pdf",
+    "pbr": 2.27,
+    "forward_pe": null,
+    "div_yield": 8.31
   }
 ]
