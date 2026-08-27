@@ -208552,8 +208552,8 @@
     "op_diff": null,
     "detail": "20260827_7743.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526920.pdf",
-    "pbr": 0.85,
-    "forward_pe": 11.6,
+    "pbr": 1.01,
+    "forward_pe": 13.7,
     "div_yield": 2.8
   },
   {
@@ -208569,8 +208569,8 @@
     "op_diff": 4.44,
     "detail": "20260827_2590.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526924.pdf",
-    "pbr": 1.47,
-    "forward_pe": 29.8,
+    "pbr": 1.46,
+    "forward_pe": 29.6,
     "div_yield": 0.98
   },
   {
@@ -208587,7 +208587,7 @@
     "detail": "20260827_6768.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526974.pdf",
     "pbr": 1.01,
-    "forward_pe": 20.1,
+    "forward_pe": 20.0,
     "div_yield": 2.17
   },
   {
@@ -208604,8 +208604,8 @@
     "detail": "20260827_7911.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527179.pdf",
     "pbr": 1.02,
-    "forward_pe": 18.8,
-    "div_yield": 1.15
+    "forward_pe": 18.7,
+    "div_yield": null
   },
   {
     "date": "2026/08/27",
@@ -208620,8 +208620,42 @@
     "op_diff": null,
     "detail": "20260827_9818.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260821524521.pdf",
-    "pbr": 0.76,
+    "pbr": 0.75,
     "forward_pe": null,
     "div_yield": 1.83
+  },
+  {
+    "date": "2026/08/27",
+    "date_raw": "20260827",
+    "time": "16:00",
+    "code": "3808",
+    "company": "オーケーウェブ",
+    "title": "(訂正・数値データ訂正)「2026年6月期決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 15.38,
+    "op_cur": -74.81,
+    "op_prev": -48.72,
+    "op_diff": -26.1,
+    "detail": "20260827_3808.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260826526392.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/08/27",
+    "date_raw": "20260827",
+    "time": "17:00",
+    "code": "9832",
+    "company": "オートバックス",
+    "title": "特別損失の計上および法人税等調整額(益)の計上ならびに通期連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 4.93,
+    "op_diff": null,
+    "detail": "20260827_9832.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526945.pdf",
+    "pbr": 0.9,
+    "forward_pe": 14.7,
+    "div_yield": 3.85
   }
 ]
