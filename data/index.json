@@ -208538,5 +208538,22 @@
     "pbr": 0.54,
     "forward_pe": 12.0,
     "div_yield": 4.3
+  },
+  {
+    "date": "2026/08/27",
+    "date_raw": "20260827",
+    "time": "10:30",
+    "code": "7743",
+    "company": "シード",
+    "title": "(数値データ追加)「2027年3月期の期末配当予想の修正(無配)及び株主優待制度の廃止に関するお知らせ」におけるXBRLデータ追加について",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260827_7743.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526920.pdf",
+    "pbr": 0.85,
+    "forward_pe": 11.6,
+    "div_yield": 2.8
   }
 ]
