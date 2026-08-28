@@ -208674,5 +208674,39 @@
     "pbr": 0.8,
     "forward_pe": 8.3,
     "div_yield": 5.2
+  },
+  {
+    "date": "2026/08/28",
+    "date_raw": "20260828",
+    "time": "11:30",
+    "code": "2689",
+    "company": "オルバヘルスケアHD",
+    "title": "(訂正・数値データ訂正)「2026 年6月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260828_2689.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260828527708.pdf",
+    "pbr": 0.85,
+    "forward_pe": null,
+    "div_yield": 4.27
+  },
+  {
+    "date": "2026/08/28",
+    "date_raw": "20260828",
+    "time": "11:00",
+    "code": "3825",
+    "company": "REMIX",
+    "title": "業績予想の修正に関するお知らせ",
+    "rev_chg": 174.78,
+    "op_cur": 13.78,
+    "op_prev": -30.85,
+    "op_diff": 44.64,
+    "detail": "20260828_3825.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527434.pdf",
+    "pbr": 1.68,
+    "forward_pe": null,
+    "div_yield": 1.32
   }
 ]
