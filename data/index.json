@@ -208977,8 +208977,8 @@
     "op_diff": -0.32,
     "detail": "20260831_3031.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528654.pdf",
-    "pbr": 2.9,
-    "forward_pe": 12.7,
+    "pbr": 2.88,
+    "forward_pe": 12.6,
     "div_yield": 3.36
   },
   {
@@ -208994,7 +208994,7 @@
     "op_diff": 0.36,
     "detail": "20260831_3329.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523438.pdf",
-    "pbr": 2.22,
+    "pbr": 2.21,
     "forward_pe": null,
     "div_yield": 0.94
   },
@@ -209028,8 +209028,8 @@
     "op_diff": 0.43,
     "detail": "20260831_4369.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260827527069.pdf",
-    "pbr": 2.73,
-    "forward_pe": 18.3,
+    "pbr": 2.72,
+    "forward_pe": 18.2,
     "div_yield": 1.12
   },
   {
@@ -209045,7 +209045,7 @@
     "op_diff": null,
     "detail": "20260831_436A.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260828527917.pdf",
-    "pbr": 12.01,
+    "pbr": 12.07,
     "forward_pe": null,
     "div_yield": 3.17
   },
@@ -209062,7 +209062,7 @@
     "op_diff": null,
     "detail": "20260831_4840.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528807.pdf",
-    "pbr": 1.51,
+    "pbr": 1.55,
     "forward_pe": null,
     "div_yield": 1.34
   },
@@ -209079,7 +209079,7 @@
     "op_diff": null,
     "detail": "20260831_4840_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528751.pdf",
-    "pbr": 1.51,
+    "pbr": 1.55,
     "forward_pe": null,
     "div_yield": 1.34
   },
@@ -209096,8 +209096,8 @@
     "op_diff": null,
     "detail": "20260831_5805.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528292.pdf",
-    "pbr": 4.4,
-    "forward_pe": 34.9,
+    "pbr": 4.38,
+    "forward_pe": 34.7,
     "div_yield": 2.33
   },
   {
@@ -209113,8 +209113,8 @@
     "op_diff": null,
     "detail": "20260831_6508.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528464.pdf",
-    "pbr": 3.05,
-    "forward_pe": 39.4,
+    "pbr": 3.04,
+    "forward_pe": 39.3,
     "div_yield": 1.34
   },
   {
@@ -209130,7 +209130,41 @@
     "op_diff": null,
     "detail": "20260831_6522.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528587.pdf",
-    "pbr": 9.16,
+    "pbr": 9.13,
+    "forward_pe": null,
+    "div_yield": null
+  },
+  {
+    "date": "2026/08/31",
+    "date_raw": "20260831",
+    "time": "16:00",
+    "code": "4666",
+    "company": "パーク24",
+    "title": "2026年10月期 第3四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 2.75,
+    "op_cur": 9.52,
+    "op_prev": 8.42,
+    "op_diff": 1.1,
+    "detail": "20260831_4666.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260828528038.pdf",
+    "pbr": 3.1,
+    "forward_pe": 14.2,
+    "div_yield": 3.28
+  },
+  {
+    "date": "2026/08/31",
+    "date_raw": "20260831",
+    "time": "16:00",
+    "code": "8894",
+    "company": "REVOLUTION",
+    "title": "2026年10月期通期連結業績予想の修正(未定)及び中期経営計画の取り下げに関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": -12.0,
+    "op_diff": null,
+    "detail": "20260831_8894.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260828527818.pdf",
+    "pbr": 3.83,
     "forward_pe": null,
     "div_yield": null
   }
