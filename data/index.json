@@ -209200,7 +209200,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528591.pdf",
     "pbr": 1.97,
     "forward_pe": 17.7,
-    "div_yield": 1.72
+    "div_yield": 1.74
   },
   {
     "date": "2026/09/01",
@@ -209286,5 +209286,39 @@
     "pbr": 2.28,
     "forward_pe": 7.7,
     "div_yield": null
+  },
+  {
+    "date": "2026/09/01",
+    "date_raw": "20260901",
+    "time": "20:45",
+    "code": "4420",
+    "company": "イーソル",
+    "title": "2026年12月期 通期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 6.72,
+    "op_diff": null,
+    "detail": "20260901_4420.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529867.pdf",
+    "pbr": 2.92,
+    "forward_pe": null,
+    "div_yield": 0.59
+  },
+  {
+    "date": "2026/09/01",
+    "date_raw": "20260901",
+    "time": "20:45",
+    "code": "4420",
+    "company": "イーソル",
+    "title": "2026年12月期の期末配当予想の修正(無配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260901_4420_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529871.pdf",
+    "pbr": 2.92,
+    "forward_pe": null,
+    "div_yield": 0.59
   }
 ]
