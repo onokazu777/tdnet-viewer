@@ -209198,8 +209198,8 @@
     "op_diff": 1.16,
     "detail": "20260901_2593.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260831528591.pdf",
-    "pbr": 1.98,
-    "forward_pe": 17.8,
+    "pbr": 1.97,
+    "forward_pe": 17.7,
     "div_yield": 1.74
   },
   {
@@ -209215,8 +209215,8 @@
     "op_diff": null,
     "detail": "20260901_4479.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260827526910.pdf",
-    "pbr": 2.01,
-    "forward_pe": 600.6,
+    "pbr": 2.02,
+    "forward_pe": 604.4,
     "div_yield": null
   },
   {
@@ -209235,5 +209235,39 @@
     "pbr": 0.62,
     "forward_pe": null,
     "div_yield": 3.83
+  },
+  {
+    "date": "2026/09/01",
+    "date_raw": "20260901",
+    "time": "16:30",
+    "code": "3300",
+    "company": "G-アンビションDX",
+    "title": "(訂正・数値データ訂正)「2026年6月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 3.36,
+    "op_cur": 7.62,
+    "op_prev": 7.53,
+    "op_diff": 0.08,
+    "detail": "20260901_3300.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260901530081.pdf",
+    "pbr": 1.4,
+    "forward_pe": null,
+    "div_yield": 11.66
+  },
+  {
+    "date": "2026/09/01",
+    "date_raw": "20260901",
+    "time": "16:00",
+    "code": "7865",
+    "company": "ピープル",
+    "title": "2027年1月期第2四半期(中間期)決算短信〔日本基準〕(非連結)",
+    "rev_chg": -12.07,
+    "op_cur": -19.61,
+    "op_prev": -27.59,
+    "op_diff": 7.98,
+    "detail": "20260901_7865.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529966.pdf",
+    "pbr": 0.72,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
