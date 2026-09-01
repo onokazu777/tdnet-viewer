@@ -209167,5 +209167,22 @@
     "pbr": 3.83,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/09/01",
+    "date_raw": "20260901",
+    "time": "08:45",
+    "code": "3835",
+    "company": "eBASE",
+    "title": "配当方針の変更および配当予想の修正(初の中間配当実施)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260901_3835.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529316.pdf",
+    "pbr": 2.85,
+    "forward_pe": 15.5,
+    "div_yield": 2.75
   }
 ]
