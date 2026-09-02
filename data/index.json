@@ -209320,5 +209320,39 @@
     "pbr": 2.92,
     "forward_pe": null,
     "div_yield": 0.59
+  },
+  {
+    "date": "2026/09/02",
+    "date_raw": "20260902",
+    "time": "15:30",
+    "code": "7066",
+    "company": "G-ピアズ",
+    "title": "配当予想の修正(増配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260902_7066.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260831529007.pdf",
+    "pbr": 1.36,
+    "forward_pe": null,
+    "div_yield": 3.16
+  },
+  {
+    "date": "2026/09/02",
+    "date_raw": "20260902",
+    "time": "15:30",
+    "code": "8057",
+    "company": "内田洋行",
+    "title": "2026年7月期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 26.31,
+    "op_cur": 3.67,
+    "op_prev": 3.61,
+    "op_diff": 0.06,
+    "detail": "20260902_8057.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260901529425.pdf",
+    "pbr": 1.39,
+    "forward_pe": 2.6,
+    "div_yield": 3.07
   }
 ]
