@@ -209354,5 +209354,22 @@
     "pbr": 1.39,
     "forward_pe": 2.6,
     "div_yield": 3.07
+  },
+  {
+    "date": "2026/09/03",
+    "date_raw": "20260903",
+    "time": "15:30",
+    "code": "6654",
+    "company": "不二電機工業",
+    "title": "2027年1月期第2四半期(中間期)決算短信[日本基準](非連結)",
+    "rev_chg": 3.35,
+    "op_cur": 4.36,
+    "op_prev": 7.13,
+    "op_diff": -2.77,
+    "detail": "20260903_6654.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260820523999.pdf",
+    "pbr": 0.55,
+    "forward_pe": null,
+    "div_yield": 2.91
   }
 ]
