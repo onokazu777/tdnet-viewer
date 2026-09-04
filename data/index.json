@@ -209421,7 +209421,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531397.pdf",
     "pbr": 1.32,
     "forward_pe": 30.7,
-    "div_yield": 2.13
+    "div_yield": null
   },
   {
     "date": "2026/09/04",
@@ -209489,7 +209489,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260904531731.pdf",
     "pbr": 2.04,
     "forward_pe": 24.1,
-    "div_yield": 2.9
+    "div_yield": null
   },
   {
     "date": "2026/09/04",
@@ -209523,7 +209523,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260904531654.pdf",
     "pbr": 1.2,
     "forward_pe": null,
-    "div_yield": 2.92
+    "div_yield": null
   },
   {
     "date": "2026/09/04",
@@ -209540,7 +209540,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530338.pdf",
     "pbr": 0.46,
     "forward_pe": null,
-    "div_yield": 1.99
+    "div_yield": null
   },
   {
     "date": "2026/09/04",
@@ -209557,7 +209557,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531262.pdf",
     "pbr": 6.15,
     "forward_pe": null,
-    "div_yield": 0.24
+    "div_yield": null
   },
   {
     "date": "2026/09/04",
@@ -209642,7 +209642,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260903531082.pdf",
     "pbr": 0.67,
     "forward_pe": null,
-    "div_yield": 2.47
+    "div_yield": null
   },
   {
     "date": "2026/09/04",
@@ -209659,6 +209659,6 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260904532000.pdf",
     "pbr": 0.38,
     "forward_pe": null,
-    "div_yield": 3.81
+    "div_yield": null
   }
 ]
