@@ -209676,7 +209676,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532276.pdf",
     "pbr": 0.94,
     "forward_pe": null,
-    "div_yield": 1.57
+    "div_yield": 1.56
   },
   {
     "date": "2026/09/07",
@@ -209708,8 +209708,25 @@
     "op_diff": null,
     "detail": "20260907_9235.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260904532122.pdf",
-    "pbr": 6.45,
+    "pbr": 6.48,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/09/07",
+    "date_raw": "20260907",
+    "time": "15:40",
+    "code": "3854",
+    "company": "アイル",
+    "title": "2026年7月期 決算短信〔日本基準〕(連結)",
+    "rev_chg": 8.27,
+    "op_cur": 26.64,
+    "op_prev": 24.97,
+    "op_diff": 1.67,
+    "detail": "20260907_3854.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260904532017.pdf",
+    "pbr": 4.66,
+    "forward_pe": 29.8,
+    "div_yield": 2.7
   }
 ]
