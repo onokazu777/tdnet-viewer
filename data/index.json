@@ -209898,5 +209898,39 @@
     "pbr": 1.22,
     "forward_pe": null,
     "div_yield": 2.22
+  },
+  {
+    "date": "2026/09/08",
+    "date_raw": "20260908",
+    "time": "17:15",
+    "code": "7475",
+    "company": "アルビス",
+    "title": "2027年3月期第2四半期(中間期)及び通期連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 0.71,
+    "op_diff": null,
+    "detail": "20260908_7475.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532503.pdf",
+    "pbr": 0.63,
+    "forward_pe": 9.8,
+    "div_yield": 2.8
+  },
+  {
+    "date": "2026/09/08",
+    "date_raw": "20260908",
+    "time": "17:15",
+    "code": "7475",
+    "company": "アルビス",
+    "title": "2027年3月期配当予想の修正(無配)及び株主優待制度の廃止に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260908_7475_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532597.pdf",
+    "pbr": 0.63,
+    "forward_pe": 9.8,
+    "div_yield": 2.8
   }
 ]
