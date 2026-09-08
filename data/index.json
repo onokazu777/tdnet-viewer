@@ -209728,5 +209728,22 @@
     "pbr": 4.66,
     "forward_pe": 29.8,
     "div_yield": 2.7
+  },
+  {
+    "date": "2026/09/08",
+    "date_raw": "20260908",
+    "time": "11:00",
+    "code": "1382",
+    "company": "ホーブ",
+    "title": "(訂正・数値データ訂正)「2026年6月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": -1.66,
+    "op_cur": -0.93,
+    "op_prev": 1.58,
+    "op_diff": -2.5,
+    "detail": "20260908_1382.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260907532558.pdf",
+    "pbr": 0.97,
+    "forward_pe": null,
+    "div_yield": 5.71
   }
 ]
