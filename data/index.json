@@ -210170,5 +210170,39 @@
     "pbr": 12.24,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/09/09",
+    "date_raw": "20260909",
+    "time": "17:30",
+    "code": "3105",
+    "company": "日清紡HD",
+    "title": "業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 5.26,
+    "op_diff": null,
+    "detail": "20260909_3105.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533712.pdf",
+    "pbr": 1.58,
+    "forward_pe": 21.1,
+    "div_yield": 1.63
+  },
+  {
+    "date": "2026/09/09",
+    "date_raw": "20260909",
+    "time": "20:00",
+    "code": "3989",
+    "company": "G-シェアリングT",
+    "title": "2026年9月期配当予想の修正(無配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260909_3989.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533159.pdf",
+    "pbr": 7.14,
+    "forward_pe": 24.3,
+    "div_yield": 3.67
   }
 ]
