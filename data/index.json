@@ -209963,8 +209963,8 @@
     "op_diff": 5.31,
     "detail": "20260909_1433.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533607.pdf",
-    "pbr": 2.06,
-    "forward_pe": 15.0,
+    "pbr": 2.04,
+    "forward_pe": 14.9,
     "div_yield": 3.16
   },
   {
@@ -209997,7 +209997,7 @@
     "op_diff": 1.98,
     "detail": "20260909_3180.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533582.pdf",
-    "pbr": 2.41,
+    "pbr": 2.4,
     "forward_pe": 14.7,
     "div_yield": 1.11
   },
@@ -210014,8 +210014,8 @@
     "op_diff": null,
     "detail": "20260909_4174.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260902530567.pdf",
-    "pbr": 1.95,
-    "forward_pe": 6.5,
+    "pbr": 1.94,
+    "forward_pe": 6.4,
     "div_yield": 3.33
   },
   {
@@ -210031,7 +210031,7 @@
     "op_diff": null,
     "detail": "20260909_4374.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533522.pdf",
-    "pbr": 6.57,
+    "pbr": 6.54,
     "forward_pe": null,
     "div_yield": 1.27
   },
@@ -210048,7 +210048,7 @@
     "op_diff": -5.97,
     "detail": "20260909_5032.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533416.pdf",
-    "pbr": 6.37,
+    "pbr": 6.35,
     "forward_pe": 14.9,
     "div_yield": 2.11
   },
@@ -210065,8 +210065,8 @@
     "op_diff": 3.19,
     "detail": "20260909_6966.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533302.pdf",
-    "pbr": 1.41,
-    "forward_pe": 14.0,
+    "pbr": 1.4,
+    "forward_pe": 13.9,
     "div_yield": 2.1
   },
   {
@@ -210102,5 +210102,73 @@
     "pbr": 1.44,
     "forward_pe": 14.2,
     "div_yield": 3.66
+  },
+  {
+    "date": "2026/09/09",
+    "date_raw": "20260909",
+    "time": "16:00",
+    "code": "2751",
+    "company": "テンポスHD",
+    "title": "2027年4月期第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 17.69,
+    "op_cur": 3.03,
+    "op_prev": 5.97,
+    "op_diff": -2.94,
+    "detail": "20260909_2751.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533128.pdf",
+    "pbr": 2.53,
+    "forward_pe": null,
+    "div_yield": 0.24
+  },
+  {
+    "date": "2026/09/09",
+    "date_raw": "20260909",
+    "time": "16:00",
+    "code": "4599",
+    "company": "G-ステムリム",
+    "title": "2026年7月期 決算短信〔日本基準〕(非連結)",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260909_4599.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533366.pdf",
+    "pbr": 3.26,
+    "forward_pe": -9.9,
+    "div_yield": null
+  },
+  {
+    "date": "2026/09/09",
+    "date_raw": "20260909",
+    "time": "16:00",
+    "code": "5132",
+    "company": "G-pluszero",
+    "title": "2026年10月期第3四半期決算短信〔日本基準〕(非連結)",
+    "rev_chg": 17.02,
+    "op_cur": 37.4,
+    "op_prev": 33.79,
+    "op_diff": 3.61,
+    "detail": "20260909_5132.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533521.pdf",
+    "pbr": 9.8,
+    "forward_pe": 51.2,
+    "div_yield": null
+  },
+  {
+    "date": "2026/09/09",
+    "date_raw": "20260909",
+    "time": "16:03",
+    "code": "7678",
+    "company": "あさくま",
+    "title": "2027年1月期 第2四半期(中間期)決算短信[日本基準](非連結)",
+    "rev_chg": 27.2,
+    "op_cur": 2.87,
+    "op_prev": 3.89,
+    "op_diff": -1.02,
+    "detail": "20260909_7678.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533265.pdf",
+    "pbr": 12.24,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
