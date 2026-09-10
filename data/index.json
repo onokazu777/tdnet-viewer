@@ -210204,5 +210204,39 @@
     "pbr": 7.14,
     "forward_pe": 24.3,
     "div_yield": 3.67
+  },
+  {
+    "date": "2026/09/10",
+    "date_raw": "20260910",
+    "time": "10:00",
+    "code": "5283",
+    "company": "高見澤",
+    "title": "(訂正・数値データ訂正)「2026年6月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": 2.85,
+    "op_cur": 1.85,
+    "op_prev": 1.98,
+    "op_diff": -0.13,
+    "detail": "20260910_5283.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533780.pdf",
+    "pbr": 0.33,
+    "forward_pe": null,
+    "div_yield": 2.23
+  },
+  {
+    "date": "2026/09/10",
+    "date_raw": "20260910",
+    "time": "08:50",
+    "code": "6191",
+    "company": "エアトリ",
+    "title": "業績予想の修正及び配当予想に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 11.03,
+    "op_diff": null,
+    "detail": "20260910_6191.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260909533690.pdf",
+    "pbr": 1.01,
+    "forward_pe": 8.7,
+    "div_yield": 1.29
   }
 ]
