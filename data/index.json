@@ -214097,5 +214097,22 @@
     "pbr": 4.56,
     "forward_pe": 12.4,
     "div_yield": 2.28
+  },
+  {
+    "date": "2026/09/14",
+    "date_raw": "20260914",
+    "time": "23:45",
+    "code": "2612",
+    "company": "かどや製油",
+    "title": "2027年3月期配当予想の修正(無配)及び株主優待制度の廃止に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260914_2612.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536248.pdf",
+    "pbr": 1.8,
+    "forward_pe": null,
+    "div_yield": 1.97
   }
 ]
