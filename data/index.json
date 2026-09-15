@@ -214162,7 +214162,7 @@
     "op_diff": null,
     "detail": "20260915_4063.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536275.pdf",
-    "pbr": 2.33,
+    "pbr": 2.32,
     "forward_pe": 17.3,
     "div_yield": 2.02
   },
@@ -214179,7 +214179,7 @@
     "op_diff": null,
     "detail": "20260915_4840.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536636.pdf",
-    "pbr": 1.31,
+    "pbr": 1.32,
     "forward_pe": null,
     "div_yield": 1.43
   },
@@ -214196,7 +214196,7 @@
     "op_diff": null,
     "detail": "20260915_7059.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260910534170.pdf",
-    "pbr": 3.8,
+    "pbr": 3.81,
     "forward_pe": null,
     "div_yield": 4.89
   },
@@ -214230,8 +214230,42 @@
     "op_diff": null,
     "detail": "20260915_8613.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536621.pdf",
-    "pbr": 1.67,
+    "pbr": 1.66,
     "forward_pe": null,
     "div_yield": 3.54
+  },
+  {
+    "date": "2026/09/15",
+    "date_raw": "20260915",
+    "time": "16:00",
+    "code": "3121",
+    "company": "マーチャント",
+    "title": "2026 年10 月期(第103 期)配当予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260915_3121.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260914536052.pdf",
+    "pbr": 1.69,
+    "forward_pe": null,
+    "div_yield": 0.8
+  },
+  {
+    "date": "2026/09/15",
+    "date_raw": "20260915",
+    "time": "16:40",
+    "code": "6036",
+    "company": "KeePer技研",
+    "title": "株式分割、株主優待制度の一部変更及び配当予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260915_6036.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536785.pdf",
+    "pbr": 3.9,
+    "forward_pe": 15.4,
+    "div_yield": 2.78
   }
 ]
