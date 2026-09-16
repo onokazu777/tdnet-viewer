@@ -214471,5 +214471,22 @@
     "pbr": 2.78,
     "forward_pe": null,
     "div_yield": 2.48
+  },
+  {
+    "date": "2026/09/16",
+    "date_raw": "20260916",
+    "time": "17:30",
+    "code": "4884",
+    "company": "G-クリングル",
+    "title": "2026年9月期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": -1262.5,
+    "op_diff": null,
+    "detail": "20260916_4884.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260915536765.pdf",
+    "pbr": 2.92,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
