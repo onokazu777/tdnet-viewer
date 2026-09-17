@@ -214673,7 +214673,7 @@
     "detail": "20260917_3498.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538054.pdf",
     "pbr": 2.35,
-    "forward_pe": null,
+    "forward_pe": 4.8,
     "div_yield": 2.31
   },
   {
@@ -214726,5 +214726,39 @@
     "pbr": 1.28,
     "forward_pe": null,
     "div_yield": 5.38
+  },
+  {
+    "date": "2026/09/17",
+    "date_raw": "20260917",
+    "time": "17:30",
+    "code": "3560",
+    "company": "ほぼ日",
+    "title": "業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 7.1,
+    "op_diff": null,
+    "detail": "20260917_3560.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538058.pdf",
+    "pbr": 1.88,
+    "forward_pe": null,
+    "div_yield": 2.08
+  },
+  {
+    "date": "2026/09/17",
+    "date_raw": "20260917",
+    "time": "17:30",
+    "code": "3560",
+    "company": "ほぼ日",
+    "title": "連結決算への移行に伴う2026年8月期連結業績予想の公表に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260917_3560_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538103.pdf",
+    "pbr": 1.88,
+    "forward_pe": null,
+    "div_yield": 2.08
   }
 ]
