@@ -214760,5 +214760,39 @@
     "pbr": 1.88,
     "forward_pe": null,
     "div_yield": 2.08
+  },
+  {
+    "date": "2026/09/18",
+    "date_raw": "20260918",
+    "time": "11:30",
+    "code": "6905",
+    "company": "コーセル",
+    "title": "2027年5月期 第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 53.97,
+    "op_cur": 6.97,
+    "op_prev": -7.67,
+    "op_diff": 14.64,
+    "detail": "20260918_6905.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537642.pdf",
+    "pbr": 1.04,
+    "forward_pe": 13.4,
+    "div_yield": 4.55
+  },
+  {
+    "date": "2026/09/18",
+    "date_raw": "20260918",
+    "time": "11:30",
+    "code": "6905",
+    "company": "コーセル",
+    "title": "第2四半期(中間期)および通期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": -5.92,
+    "op_diff": null,
+    "detail": "20260918_6905_1.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537655.pdf",
+    "pbr": 1.04,
+    "forward_pe": 13.4,
+    "div_yield": 4.55
   }
 ]
