@@ -214775,7 +214775,7 @@
     "detail": "20260918_6905.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537642.pdf",
     "pbr": 1.08,
-    "forward_pe": 13.9,
+    "forward_pe": 14.0,
     "div_yield": 4.55
   },
   {
@@ -214792,7 +214792,7 @@
     "detail": "20260918_6905_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537655.pdf",
     "pbr": 1.08,
-    "forward_pe": 13.9,
+    "forward_pe": 14.0,
     "div_yield": 4.55
   },
   {
@@ -214876,8 +214876,8 @@
     "op_diff": null,
     "detail": "20260918_3466.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538378.pdf",
-    "pbr": 1.2,
-    "forward_pe": 20.8,
+    "pbr": 1.18,
+    "forward_pe": 20.6,
     "div_yield": 5.45
   },
   {
@@ -214927,8 +214927,8 @@
     "op_diff": null,
     "detail": "20260918_5367.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260916536942.pdf",
-    "pbr": 1.22,
-    "forward_pe": 16.3,
+    "pbr": 1.23,
+    "forward_pe": 16.5,
     "div_yield": 1.68
   },
   {
@@ -214961,7 +214961,7 @@
     "op_diff": null,
     "detail": "20260918_6035.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260916537526.pdf",
-    "pbr": 2.11,
+    "pbr": 2.1,
     "forward_pe": 5.7,
     "div_yield": 4.12
   },
@@ -214978,7 +214978,7 @@
     "op_diff": null,
     "detail": "20260918_7380.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538094.pdf",
-    "pbr": 0.94,
+    "pbr": 0.93,
     "forward_pe": null,
     "div_yield": 2.12
   },
@@ -215029,7 +215029,7 @@
     "op_diff": 8.87,
     "detail": "20260918_8798.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538268.pdf",
-    "pbr": 14.3,
+    "pbr": 14.39,
     "forward_pe": null,
     "div_yield": null
   },
@@ -215063,8 +215063,8 @@
     "op_diff": null,
     "detail": "20260918_8975.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260918538827.pdf",
-    "pbr": 1.38,
-    "forward_pe": 21.6,
+    "pbr": 1.37,
+    "forward_pe": 21.5,
     "div_yield": 8.62
   },
   {
@@ -215083,5 +215083,39 @@
     "pbr": 0.98,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/09/18",
+    "date_raw": "20260918",
+    "time": "16:00",
+    "code": "2354",
+    "company": "YE DIGITAL",
+    "title": "2027年2月期第2四半期(中間期)連結累計期間業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 6.65,
+    "op_diff": null,
+    "detail": "20260918_2354.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917538104.pdf",
+    "pbr": 2.95,
+    "forward_pe": null,
+    "div_yield": 2.26
+  },
+  {
+    "date": "2026/09/18",
+    "date_raw": "20260918",
+    "time": "16:30",
+    "code": "8707",
+    "company": "岩井コスモ",
+    "title": "2027年3月期 中間配当(予定)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260918_8707.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537618.pdf",
+    "pbr": 1.5,
+    "forward_pe": null,
+    "div_yield": 4.74
   }
 ]
