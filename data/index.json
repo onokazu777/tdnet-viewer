@@ -215117,5 +215117,22 @@
     "pbr": 1.5,
     "forward_pe": null,
     "div_yield": 4.74
+  },
+  {
+    "date": "2026/09/24",
+    "date_raw": "20260924",
+    "time": "11:30",
+    "code": "8706",
+    "company": "極東証券",
+    "title": "2027年3月期の中間配当予定に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260924_8706.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539202.pdf",
+    "pbr": 1.13,
+    "forward_pe": null,
+    "div_yield": 5.84
   }
 ]
