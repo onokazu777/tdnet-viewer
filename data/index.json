@@ -215879,8 +215879,8 @@
     "op_diff": null,
     "detail": "20260928_6787.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260928540934.pdf",
-    "pbr": 4.25,
-    "forward_pe": 37.3,
+    "pbr": 4.19,
+    "forward_pe": 36.7,
     "div_yield": 0.67
   },
   {
@@ -215896,8 +215896,8 @@
     "op_diff": null,
     "detail": "20260928_7552.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541008.pdf",
-    "pbr": 3.12,
-    "forward_pe": 12.4,
+    "pbr": 3.14,
+    "forward_pe": 12.5,
     "div_yield": 2.21
   },
   {
@@ -215913,8 +215913,59 @@
     "op_diff": 0.12,
     "detail": "20260928_8227.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260927540636.pdf",
-    "pbr": 1.34,
+    "pbr": 1.33,
     "forward_pe": 5.4,
     "div_yield": 2.49
+  },
+  {
+    "date": "2026/09/28",
+    "date_raw": "20260928",
+    "time": "16:00",
+    "code": "1723",
+    "company": "日本電技",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)(公認会計士等による期中レビューの完了)",
+    "rev_chg": 3.23,
+    "op_cur": 20.19,
+    "op_prev": 14.95,
+    "op_diff": 5.25,
+    "detail": "20260928_1723.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260925540547.pdf",
+    "pbr": 3.44,
+    "forward_pe": null,
+    "div_yield": 2.81
+  },
+  {
+    "date": "2026/09/28",
+    "date_raw": "20260928",
+    "time": "16:45",
+    "code": "3290",
+    "company": "R-Oneリート",
+    "title": "2027年2月期(第27期)の運用状況及び分配金の予想の修正並びに2027年8月期(第28期)の運用状況及び分配金の予想に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20260928_3290.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541004.pdf",
+    "pbr": 0.98,
+    "forward_pe": null,
+    "div_yield": 6.54
+  },
+  {
+    "date": "2026/09/28",
+    "date_raw": "20260928",
+    "time": "16:00",
+    "code": "7624",
+    "company": "NaITO",
+    "title": "令和9年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 18.13,
+    "op_cur": 3.2,
+    "op_prev": 0.95,
+    "op_diff": 2.25,
+    "detail": "20260928_7624.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260917537930.pdf",
+    "pbr": 0.75,
+    "forward_pe": null,
+    "div_yield": 2.35
   }
 ]
