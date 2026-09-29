@@ -216307,5 +216307,39 @@
     "pbr": 0.57,
     "forward_pe": null,
     "div_yield": 2.51
+  },
+  {
+    "date": "2026/09/29",
+    "date_raw": "20260929",
+    "time": "18:00",
+    "code": "3202",
+    "company": "ダイトウボウ",
+    "title": "営業外収益(受取配当金)の計上及び 2027年3月期第2四半期(累計)連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 6.88,
+    "op_diff": null,
+    "detail": "20260929_3202.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260929542337.pdf",
+    "pbr": 0.78,
+    "forward_pe": null,
+    "div_yield": 2.27
+  },
+  {
+    "date": "2026/09/29",
+    "date_raw": "20260929",
+    "time": "19:00",
+    "code": "6863",
+    "company": "ニレコ",
+    "title": "新中期経営計画「NIRECO-VISION 100」の策定および2027年3月期通期業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 15.43,
+    "op_diff": null,
+    "detail": "20260929_6863.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541317.pdf",
+    "pbr": 1.45,
+    "forward_pe": 6.7,
+    "div_yield": 3.56
   }
 ]
