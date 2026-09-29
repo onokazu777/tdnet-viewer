@@ -216052,5 +216052,22 @@
     "pbr": 3.24,
     "forward_pe": 19.2,
     "div_yield": 3.3
+  },
+  {
+    "date": "2026/09/29",
+    "date_raw": "20260929",
+    "time": "11:30",
+    "code": "9744",
+    "company": "メイテックGHD",
+    "title": "特別損失の計上並びに2027年3月期第2四半期(累計)業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 14.72,
+    "op_diff": null,
+    "detail": "20260929_9744.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541331.pdf",
+    "pbr": 5.94,
+    "forward_pe": 19.5,
+    "div_yield": 5.18
   }
 ]
