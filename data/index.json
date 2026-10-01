@@ -217038,5 +217038,22 @@
     "pbr": 0.84,
     "forward_pe": null,
     "div_yield": null
+  },
+  {
+    "date": "2026/10/01",
+    "date_raw": "20261001",
+    "time": "11:00",
+    "code": "640A",
+    "company": "G-ASNOVA",
+    "title": "2027年3月期連結業績予想及び配当予想に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261001_640A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260930542890.pdf",
+    "pbr": null,
+    "forward_pe": null,
+    "div_yield": null
   }
 ]
