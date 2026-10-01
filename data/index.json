@@ -217069,7 +217069,7 @@
     "op_diff": null,
     "detail": "20261001_1447.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261001544519.pdf",
-    "pbr": 4.69,
+    "pbr": 4.64,
     "forward_pe": null,
     "div_yield": 1.48
   },
@@ -217086,7 +217086,7 @@
     "op_diff": -0.45,
     "detail": "20261001_2493.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261001544401.pdf",
-    "pbr": 1.17,
+    "pbr": 1.16,
     "forward_pe": null,
     "div_yield": 0.52
   },
@@ -217120,8 +217120,8 @@
     "op_diff": 0.1,
     "detail": "20261001_3549.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543566.pdf",
-    "pbr": 2.51,
-    "forward_pe": 18.2,
+    "pbr": 2.5,
+    "forward_pe": 18.1,
     "div_yield": 1.74
   },
   {
@@ -217137,7 +217137,7 @@
     "op_diff": 3.84,
     "detail": "20261001_5942.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543301.pdf",
-    "pbr": 0.62,
+    "pbr": 0.61,
     "forward_pe": null,
     "div_yield": 4.06
   },
@@ -217154,7 +217154,7 @@
     "op_diff": -0.03,
     "detail": "20261001_7447.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543766.pdf",
-    "pbr": 1.25,
+    "pbr": 1.24,
     "forward_pe": 17.2,
     "div_yield": 4.29
   },
@@ -217172,7 +217172,7 @@
     "detail": "20261001_7545.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260928541537.pdf",
     "pbr": 1.18,
-    "forward_pe": 12.1,
+    "forward_pe": 12.0,
     "div_yield": 1.63
   },
   {
@@ -217188,8 +217188,8 @@
     "op_diff": null,
     "detail": "20261001_7847.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543229.pdf",
-    "pbr": 2.09,
-    "forward_pe": 24.1,
+    "pbr": 2.11,
+    "forward_pe": 24.4,
     "div_yield": 4.38
   },
   {
@@ -217225,5 +217225,22 @@
     "pbr": 0.65,
     "forward_pe": 14.1,
     "div_yield": 2.55
+  },
+  {
+    "date": "2026/10/01",
+    "date_raw": "20261001",
+    "time": "16:30",
+    "code": "6908",
+    "company": "イリソ電子工業",
+    "title": "(訂正・数値データ修正)2026年3月期決算短信〔日本基準〕(連結)の一部訂正に関するお知らせ",
+    "rev_chg": 9.89,
+    "op_cur": 8.77,
+    "op_prev": 9.66,
+    "op_diff": -0.89,
+    "detail": "20261001_6908.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261001543916.pdf",
+    "pbr": 0.8,
+    "forward_pe": 13.7,
+    "div_yield": 3.39
   }
 ]
