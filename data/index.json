@@ -217531,5 +217531,22 @@
     "pbr": 0.72,
     "forward_pe": null,
     "div_yield": 2.92
+  },
+  {
+    "date": "2026/10/05",
+    "date_raw": "20261005",
+    "time": "09:00",
+    "code": "2753",
+    "company": "あみやき",
+    "title": "2027年3月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 10.06,
+    "op_cur": 4.24,
+    "op_prev": 5.44,
+    "op_diff": -1.19,
+    "detail": "20261005_2753.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120260926540626.pdf",
+    "pbr": 1.22,
+    "forward_pe": 14.2,
+    "div_yield": 2.47
   }
 ]
