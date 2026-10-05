@@ -217579,7 +217579,7 @@
     "op_diff": -1.57,
     "detail": "20261005_2300.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261005545843.pdf",
-    "pbr": 0.82,
+    "pbr": 0.81,
     "forward_pe": null,
     "div_yield": 2.19
   },
@@ -217596,7 +217596,7 @@
     "op_diff": -1.42,
     "detail": "20261005_2789.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545369.pdf",
-    "pbr": 1.26,
+    "pbr": 1.25,
     "forward_pe": null,
     "div_yield": 1.03
   },
@@ -217613,7 +217613,7 @@
     "op_diff": -0.46,
     "detail": "20261005_3148.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545520.pdf",
-    "pbr": 1.37,
+    "pbr": 1.36,
     "forward_pe": null,
     "div_yield": 2.97
   },
@@ -217630,8 +217630,8 @@
     "op_diff": 0.88,
     "detail": "20261005_3186.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545461.pdf",
-    "pbr": 2.63,
-    "forward_pe": 15.0,
+    "pbr": 2.62,
+    "forward_pe": 14.9,
     "div_yield": 1.6
   },
   {
@@ -217647,8 +217647,8 @@
     "op_diff": 1.04,
     "detail": "20261005_3377.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260908533161.pdf",
-    "pbr": 0.82,
-    "forward_pe": 10.7,
+    "pbr": 0.81,
+    "forward_pe": 10.5,
     "div_yield": 2.68
   },
   {
@@ -217664,7 +217664,7 @@
     "op_diff": -2.6,
     "detail": "20261005_3498.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545556.pdf",
-    "pbr": 2.45,
+    "pbr": 2.42,
     "forward_pe": null,
     "div_yield": 2.21
   },
@@ -217699,7 +217699,7 @@
     "detail": "20261005_6474.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545509.pdf",
     "pbr": 0.71,
-    "forward_pe": 21.3,
+    "forward_pe": 21.2,
     "div_yield": 1.95
   },
   {
@@ -217715,8 +217715,8 @@
     "op_diff": -1.95,
     "detail": "20261005_7630.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261005545816.pdf",
-    "pbr": 5.52,
-    "forward_pe": 50.8,
+    "pbr": 5.53,
+    "forward_pe": 51.0,
     "div_yield": 1.46
   },
   {
@@ -217750,7 +217750,7 @@
     "detail": "20261005_8923.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261005545693.pdf",
     "pbr": 1.45,
-    "forward_pe": 6.4,
+    "forward_pe": 6.5,
     "div_yield": 3.18
   },
   {
@@ -217767,7 +217767,7 @@
     "detail": "20261005_8923_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260930543781.pdf",
     "pbr": 1.45,
-    "forward_pe": 6.4,
+    "forward_pe": 6.5,
     "div_yield": 3.18
   },
   {
@@ -217783,8 +217783,8 @@
     "op_diff": -2.0,
     "detail": "20261005_9558.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261005545900.pdf",
-    "pbr": 2.33,
-    "forward_pe": 9.2,
+    "pbr": 2.32,
+    "forward_pe": 9.1,
     "div_yield": 5.15
   },
   {
@@ -217803,5 +217803,39 @@
     "pbr": 1.99,
     "forward_pe": 23.9,
     "div_yield": 2.46
+  },
+  {
+    "date": "2026/10/05",
+    "date_raw": "20261005",
+    "time": "17:05",
+    "code": "4390",
+    "company": "ips",
+    "title": "2027年3月期第1四半期決算短信〔日本基準〕(連結)(公認会計士等による期中レビューの完了)",
+    "rev_chg": 14.85,
+    "op_cur": 30.48,
+    "op_prev": 30.63,
+    "op_diff": -0.14,
+    "detail": "20261005_4390.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261002545592.pdf",
+    "pbr": 2.54,
+    "forward_pe": 16.9,
+    "div_yield": 1.01
+  },
+  {
+    "date": "2026/10/05",
+    "date_raw": "20261005",
+    "time": "15:40",
+    "code": "7427",
+    "company": "エコーTD",
+    "title": "2027年2月期第2四半期(中間期)業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 1.28,
+    "op_diff": null,
+    "detail": "20261005_7427.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261005545723.pdf",
+    "pbr": 0.42,
+    "forward_pe": null,
+    "div_yield": 3.62
   }
 ]
