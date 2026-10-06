@@ -217837,5 +217837,22 @@
     "pbr": 0.42,
     "forward_pe": null,
     "div_yield": 3.62
+  },
+  {
+    "date": "2026/10/06",
+    "date_raw": "20261006",
+    "time": "11:00",
+    "code": "8011",
+    "company": "三陽商",
+    "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": -4.03,
+    "op_cur": -1.92,
+    "op_prev": -0.79,
+    "op_diff": -1.14,
+    "detail": "20261006_8011.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546359.pdf",
+    "pbr": 0.98,
+    "forward_pe": null,
+    "div_yield": 7.74
   }
 ]
