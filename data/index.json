@@ -218395,7 +218395,7 @@
     "op_diff": 4.67,
     "detail": "20261008_2303.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546678.pdf",
-    "pbr": 2.74,
+    "pbr": 2.65,
     "forward_pe": null,
     "div_yield": 1.19
   },
@@ -218412,9 +218412,9 @@
     "op_diff": 2.78,
     "detail": "20261008_2341.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539705.pdf",
-    "pbr": 1.09,
+    "pbr": 1.1,
     "forward_pe": null,
-    "div_yield": 2.81
+    "div_yield": 2.78
   },
   {
     "date": "2026/10/08",
@@ -218429,7 +218429,7 @@
     "op_diff": 5.19,
     "detail": "20261008_2408.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546386.pdf",
-    "pbr": 1.0,
+    "pbr": 0.99,
     "forward_pe": null,
     "div_yield": 4.35
   },
@@ -218446,8 +218446,8 @@
     "op_diff": 0.91,
     "detail": "20261008_2809.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261005546139.pdf",
-    "pbr": 1.82,
-    "forward_pe": 24.3,
+    "pbr": 1.83,
+    "forward_pe": 24.4,
     "div_yield": 1.35
   },
   {
@@ -218464,7 +218464,7 @@
     "detail": "20261008_3382.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547460.pdf",
     "pbr": 1.25,
-    "forward_pe": 17.3,
+    "forward_pe": 17.2,
     "div_yield": 3.05
   },
   {
@@ -218480,9 +218480,9 @@
     "op_diff": 2.81,
     "detail": "20261008_3490.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547741.pdf",
-    "pbr": 1.13,
+    "pbr": 1.14,
     "forward_pe": null,
-    "div_yield": 0.95
+    "div_yield": 0.94
   },
   {
     "date": "2026/10/08",
@@ -218498,8 +218498,8 @@
     "detail": "20261008_3627.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547853.pdf",
     "pbr": 0.54,
-    "forward_pe": 6.6,
-    "div_yield": 2.22
+    "forward_pe": 6.7,
+    "div_yield": 2.26
   },
   {
     "date": "2026/10/08",
@@ -218550,7 +218550,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547084.pdf",
     "pbr": 0.63,
     "forward_pe": null,
-    "div_yield": 3.58
+    "div_yield": 3.57
   },
   {
     "date": "2026/10/08",
@@ -218582,8 +218582,8 @@
     "op_diff": 1.21,
     "detail": "20261008_4763.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546876.pdf",
-    "pbr": 1.63,
-    "forward_pe": 10.0,
+    "pbr": 1.62,
+    "forward_pe": 9.9,
     "div_yield": 3.31
   },
   {
@@ -218599,8 +218599,8 @@
     "op_diff": null,
     "detail": "20261008_4763_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546903.pdf",
-    "pbr": 1.63,
-    "forward_pe": 10.0,
+    "pbr": 1.62,
+    "forward_pe": 9.9,
     "div_yield": 3.31
   },
   {
@@ -218616,8 +218616,8 @@
     "op_diff": -1.11,
     "detail": "20261008_4825.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547547.pdf",
-    "pbr": 3.64,
-    "forward_pe": 6.8,
+    "pbr": 3.62,
+    "forward_pe": 6.7,
     "div_yield": 2.55
   },
   {
@@ -218650,9 +218650,9 @@
     "op_diff": 4.25,
     "detail": "20261008_6323.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547481.pdf",
-    "pbr": 5.6,
-    "forward_pe": 32.1,
-    "div_yield": 0.44
+    "pbr": 5.63,
+    "forward_pe": 32.3,
+    "div_yield": 0.45
   },
   {
     "date": "2026/10/08",
@@ -218660,7 +218660,7 @@
     "time": "15:30",
     "code": "7487",
     "company": "小津産業",
-    "title": "2027期5月期 第1四半期決算短信〔日本基準〕(連結)",
+    "title": "2027年5月期 第1四半期決算短信〔日本基準〕(連結)2027期5月期 第1四半期決算短信〔日本基準〕(連結)",
     "rev_chg": 11.05,
     "op_cur": 11.23,
     "op_prev": 5.62,
@@ -218684,9 +218684,9 @@
     "op_diff": 0.31,
     "detail": "20261008_7513.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539741.pdf",
-    "pbr": 1.47,
+    "pbr": 1.48,
     "forward_pe": null,
-    "div_yield": 3.83
+    "div_yield": 3.89
   },
   {
     "date": "2026/10/08",
@@ -218703,7 +218703,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260929541653.pdf",
     "pbr": 1.54,
     "forward_pe": 8.1,
-    "div_yield": 2.04
+    "div_yield": 2.01
   },
   {
     "date": "2026/10/08",
@@ -218718,7 +218718,7 @@
     "op_diff": null,
     "detail": "20261008_7818.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547585.pdf",
-    "pbr": 3.05,
+    "pbr": 3.07,
     "forward_pe": 7.6,
     "div_yield": 2.58
   },
@@ -218786,7 +218786,7 @@
     "op_diff": -0.53,
     "detail": "20261008_8278.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547428.pdf",
-    "pbr": 0.73,
+    "pbr": 0.74,
     "forward_pe": null,
     "div_yield": 1.52
   },
@@ -218804,7 +218804,7 @@
     "detail": "20261008_9414.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547248.pdf",
     "pbr": 0.67,
-    "forward_pe": 13.6,
+    "forward_pe": 13.5,
     "div_yield": 3.17
   },
   {
@@ -218820,8 +218820,8 @@
     "op_diff": -1.39,
     "detail": "20261008_9716.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547464.pdf",
-    "pbr": 2.24,
-    "forward_pe": 30.4,
+    "pbr": 2.25,
+    "forward_pe": 30.5,
     "div_yield": 3.68
   },
   {
@@ -218837,7 +218837,7 @@
     "op_diff": 2.34,
     "detail": "20261008_9720.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547180.pdf",
-    "pbr": 1.79,
+    "pbr": 1.83,
     "forward_pe": null,
     "div_yield": 0.38
   },
@@ -218854,7 +218854,7 @@
     "op_diff": null,
     "detail": "20261008_9857.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547311.pdf",
-    "pbr": 0.86,
+    "pbr": 0.85,
     "forward_pe": null,
     "div_yield": 3.72
   },
@@ -218871,7 +218871,7 @@
     "op_diff": 0.09,
     "detail": "20261008_9903.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547023.pdf",
-    "pbr": 0.59,
+    "pbr": 0.58,
     "forward_pe": null,
     "div_yield": 2.22
   },
@@ -218889,7 +218889,7 @@
     "detail": "20261008_9946.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547479.pdf",
     "pbr": 2.14,
-    "forward_pe": -70.0,
+    "forward_pe": -69.7,
     "div_yield": 1.12
   },
   {
@@ -218906,7 +218906,7 @@
     "detail": "20261008_9946_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547463.pdf",
     "pbr": 2.14,
-    "forward_pe": -70.0,
+    "forward_pe": -69.7,
     "div_yield": 1.12
   },
   {
@@ -218922,8 +218922,161 @@
     "op_diff": 2.16,
     "detail": "20261008_9983.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547647.pdf",
-    "pbr": 8.44,
-    "forward_pe": 54.8,
-    "div_yield": 0.85
+    "pbr": 8.41,
+    "forward_pe": 54.6,
+    "div_yield": 0.86
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:30",
+    "code": "2687",
+    "company": "CVSベイ",
+    "title": "業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261008_2687.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547896.pdf",
+    "pbr": 0.76,
+    "forward_pe": null,
+    "div_yield": 4.12
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "3907",
+    "company": "シリコンスタジオ",
+    "title": "2026年11月期 第3四半期決算短信〔日本基準〕(非連結)",
+    "rev_chg": -4.58,
+    "op_cur": -6.68,
+    "op_prev": 3.9,
+    "op_diff": -10.58,
+    "detail": "20261008_3907.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546736.pdf",
+    "pbr": 2.75,
+    "forward_pe": null,
+    "div_yield": 1.17
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:30",
+    "code": "4543",
+    "company": "テルモ",
+    "title": "主要取引先との供給契約の解除に伴う損失等の計上、および2027年3月期通期連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 15.58,
+    "op_diff": null,
+    "detail": "20261008_4543.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261008548015.pdf",
+    "pbr": 2.05,
+    "forward_pe": 22.7,
+    "div_yield": 1.55
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "4918",
+    "company": "アイビー",
+    "title": "業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 14.96,
+    "op_diff": null,
+    "detail": "20261008_4918.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547656.pdf",
+    "pbr": 0.69,
+    "forward_pe": null,
+    "div_yield": 4.97
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "7544",
+    "company": "スリーエフ",
+    "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261008_7544.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547469.pdf",
+    "pbr": 1.01,
+    "forward_pe": null,
+    "div_yield": 3.23
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "8125",
+    "company": "ワキタ",
+    "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 9.16,
+    "op_cur": 5.47,
+    "op_prev": 5.72,
+    "op_diff": -0.25,
+    "detail": "20261008_8125.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547390.pdf",
+    "pbr": 0.93,
+    "forward_pe": 17.5,
+    "div_yield": 5.37
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "8918",
+    "company": "ランド",
+    "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 227.45,
+    "op_cur": 50.62,
+    "op_prev": -39.67,
+    "op_diff": 90.3,
+    "detail": "20261008_8918.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547947.pdf",
+    "pbr": 1.77,
+    "forward_pe": null,
+    "div_yield": 0.0
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "9765",
+    "company": "オオバ",
+    "title": "2027年5月期  第1四半期決算短信〔日本基準〕(連結)",
+    "rev_chg": 5.88,
+    "op_cur": 5.74,
+    "op_prev": 5.94,
+    "op_diff": -0.2,
+    "detail": "20261008_9765.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547258.pdf",
+    "pbr": 1.23,
+    "forward_pe": null,
+    "div_yield": 3.78
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "16:00",
+    "code": "9861",
+    "company": "吉野家HD",
+    "title": "2027年2月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 10.0,
+    "op_cur": 4.76,
+    "op_prev": 4.02,
+    "op_diff": 0.74,
+    "detail": "20261008_9861.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547781.pdf",
+    "pbr": 3.49,
+    "forward_pe": 54.5,
+    "div_yield": 0.59
   }
 ]
