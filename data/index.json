@@ -218364,5 +218364,22 @@
     "pbr": 2.47,
     "forward_pe": 23.5,
     "div_yield": 1.35
+  },
+  {
+    "date": "2026/10/08",
+    "date_raw": "20261008",
+    "time": "11:30",
+    "code": "8194",
+    "company": "ライフコーポ",
+    "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 2.26,
+    "op_cur": 2.77,
+    "op_prev": 3.02,
+    "op_diff": -0.26,
+    "detail": "20261008_8194.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261001544866.pdf",
+    "pbr": 1.4,
+    "forward_pe": 6.5,
+    "div_yield": 2.71
   }
 ]
