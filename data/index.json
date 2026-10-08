@@ -218414,7 +218414,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260924539705.pdf",
     "pbr": 1.1,
     "forward_pe": null,
-    "div_yield": 2.78
+    "div_yield": 2.81
   },
   {
     "date": "2026/10/08",
@@ -218448,7 +218448,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261005546139.pdf",
     "pbr": 1.83,
     "forward_pe": 24.4,
-    "div_yield": 1.35
+    "div_yield": 1.37
   },
   {
     "date": "2026/10/08",
@@ -218465,7 +218465,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547460.pdf",
     "pbr": 1.25,
     "forward_pe": 17.2,
-    "div_yield": 3.05
+    "div_yield": 3.04
   },
   {
     "date": "2026/10/08",
@@ -218482,7 +218482,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547741.pdf",
     "pbr": 1.14,
     "forward_pe": null,
-    "div_yield": 0.94
+    "div_yield": 0.95
   },
   {
     "date": "2026/10/08",
@@ -218499,7 +218499,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547853.pdf",
     "pbr": 0.54,
     "forward_pe": 6.7,
-    "div_yield": 2.26
+    "div_yield": 2.22
   },
   {
     "date": "2026/10/08",
@@ -218550,7 +218550,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547084.pdf",
     "pbr": 0.63,
     "forward_pe": null,
-    "div_yield": 3.57
+    "div_yield": 3.58
   },
   {
     "date": "2026/10/08",
@@ -218584,7 +218584,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546876.pdf",
     "pbr": 1.62,
     "forward_pe": 9.9,
-    "div_yield": 3.31
+    "div_yield": 3.3
   },
   {
     "date": "2026/10/08",
@@ -218601,7 +218601,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546903.pdf",
     "pbr": 1.62,
     "forward_pe": 9.9,
-    "div_yield": 3.31
+    "div_yield": 3.3
   },
   {
     "date": "2026/10/08",
@@ -218652,7 +218652,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547481.pdf",
     "pbr": 5.63,
     "forward_pe": 32.3,
-    "div_yield": 0.45
+    "div_yield": 0.44
   },
   {
     "date": "2026/10/08",
@@ -218703,7 +218703,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260929541653.pdf",
     "pbr": 1.54,
     "forward_pe": 8.1,
-    "div_yield": 2.04
+    "div_yield": 2.01
   },
   {
     "date": "2026/10/08",
@@ -218771,7 +218771,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120260923539078.pdf",
     "pbr": 0.62,
     "forward_pe": 8.1,
-    "div_yield": 4.04
+    "div_yield": 4.03
   },
   {
     "date": "2026/10/08",
@@ -218822,7 +218822,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547464.pdf",
     "pbr": 2.25,
     "forward_pe": 30.5,
-    "div_yield": 3.68
+    "div_yield": 3.67
   },
   {
     "date": "2026/10/08",
@@ -218924,7 +218924,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547647.pdf",
     "pbr": 8.41,
     "forward_pe": 54.6,
-    "div_yield": 0.85
+    "div_yield": 0.86
   },
   {
     "date": "2026/10/08",
@@ -218941,7 +218941,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547896.pdf",
     "pbr": 0.76,
     "forward_pe": null,
-    "div_yield": 4.12
+    "div_yield": 4.09
   },
   {
     "date": "2026/10/08",
@@ -218975,7 +218975,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008548015.pdf",
     "pbr": 2.05,
     "forward_pe": 22.7,
-    "div_yield": 1.55
+    "div_yield": 1.54
   },
   {
     "date": "2026/10/08",
@@ -218992,7 +218992,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547656.pdf",
     "pbr": 0.69,
     "forward_pe": null,
-    "div_yield": 4.97
+    "div_yield": 5.05
   },
   {
     "date": "2026/10/08",
@@ -219060,7 +219060,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261007547258.pdf",
     "pbr": 1.23,
     "forward_pe": null,
-    "div_yield": 3.78
+    "div_yield": 3.76
   },
   {
     "date": "2026/10/08",
@@ -219077,6 +219077,6 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261008547781.pdf",
     "pbr": 3.49,
     "forward_pe": 54.5,
-    "div_yield": 0.59
+    "div_yield": 0.6
   }
 ]
