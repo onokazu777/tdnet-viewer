@@ -220404,5 +220404,22 @@
     "pbr": 1.83,
     "forward_pe": null,
     "div_yield": 1.39
+  },
+  {
+    "date": "2026/10/09",
+    "date_raw": "20261009",
+    "time": "19:30",
+    "code": "9556",
+    "company": "G-INTLOOP",
+    "title": "(訂正・数値データ訂正)「2026年7月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261009_9556.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261009549004.pdf",
+    "pbr": 3.31,
+    "forward_pe": 5.8,
+    "div_yield": 0.0
   }
 ]
