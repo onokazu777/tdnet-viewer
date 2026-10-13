@@ -221475,5 +221475,22 @@
     "pbr": 4.46,
     "forward_pe": null,
     "div_yield": 0.12
+  },
+  {
+    "date": "2026/10/13",
+    "date_raw": "20261013",
+    "time": "18:05",
+    "code": "4714",
+    "company": "リソー教育G",
+    "title": "2027年2月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 4.9,
+    "op_cur": 9.46,
+    "op_prev": 4.65,
+    "op_diff": 4.81,
+    "detail": "20261013_4714.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261013549776.pdf",
+    "pbr": 3.52,
+    "forward_pe": 17.9,
+    "div_yield": 4.78
   }
 ]
