@@ -225774,7 +225774,7 @@
     "detail": "20261016_2484.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552131.pdf",
     "pbr": 0.71,
-    "forward_pe": 188.2,
+    "forward_pe": 186.8,
     "div_yield": 0.0
   },
   {
@@ -225790,7 +225790,7 @@
     "op_diff": -95.34,
     "detail": "20261016_6085.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551758.pdf",
-    "pbr": -25.97,
+    "pbr": -25.68,
     "forward_pe": null,
     "div_yield": 0.0
   },
@@ -225807,7 +225807,7 @@
     "op_diff": null,
     "detail": "20261016_2370.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261013550006.pdf",
-    "pbr": 0.82,
+    "pbr": 0.79,
     "forward_pe": null,
     "div_yield": 0.0
   },
@@ -225926,8 +225926,8 @@
     "op_diff": null,
     "detail": "20261016_6325.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261013550000.pdf",
-    "pbr": 0.55,
-    "forward_pe": 8.8,
+    "pbr": 0.56,
+    "forward_pe": 9.0,
     "div_yield": 2.48
   },
   {
@@ -225980,5 +225980,73 @@
     "pbr": 1.55,
     "forward_pe": null,
     "div_yield": 3.53
+  },
+  {
+    "date": "2026/10/16",
+    "date_raw": "20261016",
+    "time": "16:00",
+    "code": "3287",
+    "company": "R-星野",
+    "title": "2026年10月期の運用状況及び分配金の予想の修正並びに2027年4月期の運用状況及び分配金の予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261016_3287.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550770.pdf",
+    "pbr": 0.91,
+    "forward_pe": 20.7,
+    "div_yield": 5.84
+  },
+  {
+    "date": "2026/10/16",
+    "date_raw": "20261016",
+    "time": "16:00",
+    "code": "6384",
+    "company": "昭和真空",
+    "title": "2027年3月期第2四半期(中間期)連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 3.49,
+    "op_diff": null,
+    "detail": "20261016_6384.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552197.pdf",
+    "pbr": 0.94,
+    "forward_pe": null,
+    "div_yield": 4.0
+  },
+  {
+    "date": "2026/10/16",
+    "date_raw": "20261016",
+    "time": "16:00",
+    "code": "6797",
+    "company": "名古屋電機工業",
+    "title": "2027 年3月期 第2四半期(中間期)の業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 0.02,
+    "op_diff": null,
+    "detail": "20261016_6797.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551085.pdf",
+    "pbr": 0.59,
+    "forward_pe": null,
+    "div_yield": 3.82
+  },
+  {
+    "date": "2026/10/16",
+    "date_raw": "20261016",
+    "time": "16:30",
+    "code": "8707",
+    "company": "岩井コスモ",
+    "title": "2027年3月期第2四半期(中間期)連結決算速報値に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 37.89,
+    "op_diff": null,
+    "detail": "20261016_8707.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551021.pdf",
+    "pbr": 1.39,
+    "forward_pe": null,
+    "div_yield": 5.24
   }
 ]
