@@ -225759,5 +225759,39 @@
     "pbr": 1.5,
     "forward_pe": null,
     "div_yield": 1.47
+  },
+  {
+    "date": "2026/10/16",
+    "date_raw": "20261016",
+    "time": "11:30",
+    "code": "2484",
+    "company": "出前館",
+    "title": "(訂正・数値データ訂正)「2026年8月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+    "rev_chg": -1.67,
+    "op_cur": -21.22,
+    "op_prev": -12.39,
+    "op_diff": -8.83,
+    "detail": "20261016_2484.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552131.pdf",
+    "pbr": 0.7,
+    "forward_pe": 185.5,
+    "div_yield": 0.0
+  },
+  {
+    "date": "2026/10/16",
+    "date_raw": "20261016",
+    "time": "10:00",
+    "code": "6085",
+    "company": "G-アーキテクツSJ",
+    "title": "2027年2月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": -52.66,
+    "op_cur": -162.24,
+    "op_prev": -66.91,
+    "op_diff": -95.34,
+    "detail": "20261016_6085.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261015551758.pdf",
+    "pbr": -25.97,
+    "forward_pe": null,
+    "div_yield": 0.0
   }
 ]
