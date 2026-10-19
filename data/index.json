@@ -226062,8 +226062,8 @@
     "op_diff": null,
     "detail": "20261019_3295.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552333.pdf",
-    "pbr": 1.0,
-    "forward_pe": 20.5,
+    "pbr": 0.99,
+    "forward_pe": 20.4,
     "div_yield": 5.73
   },
   {
@@ -226080,7 +226080,7 @@
     "detail": "20261019_3481.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552928.pdf",
     "pbr": 1.02,
-    "forward_pe": 7.7,
+    "forward_pe": 7.6,
     "div_yield": 5.49
   },
   {
@@ -226131,7 +226131,7 @@
     "detail": "20261019_6176.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553042.pdf",
     "pbr": 2.32,
-    "forward_pe": 18.0,
+    "forward_pe": 18.1,
     "div_yield": 3.02
   },
   {
@@ -226181,7 +226181,7 @@
     "op_diff": null,
     "detail": "20261019_8624.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552787.pdf",
-    "pbr": 1.62,
+    "pbr": 1.61,
     "forward_pe": null,
     "div_yield": 5.53
   },
@@ -226198,7 +226198,7 @@
     "op_diff": null,
     "detail": "20261019_8624_1.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261016552233.pdf",
-    "pbr": 1.62,
+    "pbr": 1.61,
     "forward_pe": null,
     "div_yield": 5.53
   },
@@ -226232,8 +226232,76 @@
     "op_diff": null,
     "detail": "20261019_9478.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550394.pdf",
-    "pbr": 0.64,
+    "pbr": 0.65,
     "forward_pe": null,
     "div_yield": 0.8
+  },
+  {
+    "date": "2026/10/19",
+    "date_raw": "20261019",
+    "time": "16:00",
+    "code": "3635",
+    "company": "コーエーテクモ",
+    "title": "業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 25.47,
+    "op_diff": null,
+    "detail": "20261019_3635.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552780.pdf",
+    "pbr": 2.0,
+    "forward_pe": 14.8,
+    "div_yield": 2.85
+  },
+  {
+    "date": "2026/10/19",
+    "date_raw": "20261019",
+    "time": "16:05",
+    "code": "3788",
+    "company": "GMOGSHD",
+    "title": "通期業績予想の修正(上方修正)および配当予想の修正(増配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 7.14,
+    "op_diff": null,
+    "detail": "20261019_3788.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553071.pdf",
+    "pbr": 2.61,
+    "forward_pe": 25.8,
+    "div_yield": 2.44
+  },
+  {
+    "date": "2026/10/19",
+    "date_raw": "20261019",
+    "time": "17:00",
+    "code": "7050",
+    "company": "G-フロンティアI",
+    "title": "配当方針の一部変更(中間配当の実施)及び配当予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261019_7050.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553090.pdf",
+    "pbr": 1.31,
+    "forward_pe": null,
+    "div_yield": 5.21
+  },
+  {
+    "date": "2026/10/19",
+    "date_raw": "20261019",
+    "time": "16:00",
+    "code": "8984",
+    "company": "R-ハウスリート",
+    "title": "2026年8月期 決算短信(REIT)",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": null,
+    "op_diff": null,
+    "detail": "20261019_8984.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552797.pdf",
+    "pbr": 0.99,
+    "forward_pe": 10.7,
+    "div_yield": 4.85
   }
 ]
