@@ -226319,7 +226319,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553037.pdf",
     "pbr": 1.07,
     "forward_pe": null,
-    "div_yield": 5.15
+    "div_yield": 5.19
   },
   {
     "date": "2026/10/20",
@@ -226334,8 +226334,8 @@
     "op_diff": null,
     "detail": "20261020_3226.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261014550560.pdf",
-    "pbr": 1.8,
-    "forward_pe": 5.8,
+    "pbr": 1.79,
+    "forward_pe": 5.7,
     "div_yield": 4.37
   },
   {
@@ -226404,7 +226404,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553439.pdf",
     "pbr": 0.63,
     "forward_pe": 12.6,
-    "div_yield": 4.27
+    "div_yield": 4.28
   },
   {
     "date": "2026/10/20",
@@ -226421,7 +226421,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261006546844.pdf",
     "pbr": 0.45,
     "forward_pe": null,
-    "div_yield": 3.1
+    "div_yield": 3.08
   },
   {
     "date": "2026/10/20",
@@ -226436,8 +226436,8 @@
     "op_diff": null,
     "detail": "20261020_6101.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019552815.pdf",
-    "pbr": 2.47,
-    "forward_pe": 41.3,
+    "pbr": 2.49,
+    "forward_pe": 41.5,
     "div_yield": 1.87
   },
   {
@@ -226453,7 +226453,7 @@
     "op_diff": null,
     "detail": "20261020_7064.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553139.pdf",
-    "pbr": 1.66,
+    "pbr": 1.67,
     "forward_pe": 3.9,
     "div_yield": 0.0
   },
@@ -226472,7 +226472,7 @@
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553358.pdf",
     "pbr": 0.67,
     "forward_pe": null,
-    "div_yield": 3.98
+    "div_yield": 3.89
   },
   {
     "date": "2026/10/20",
@@ -226487,9 +226487,9 @@
     "op_diff": null,
     "detail": "20261020_8708.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553389.pdf",
-    "pbr": 1.0,
+    "pbr": 1.01,
     "forward_pe": null,
-    "div_yield": 2.92
+    "div_yield": 2.96
   },
   {
     "date": "2026/10/20",
@@ -226505,7 +226505,24 @@
     "detail": "20261020_8968.json",
     "pdf_url": "https://www.release.tdnet.info/inbs/140120261019553012.pdf",
     "pbr": 1.25,
-    "forward_pe": 19.1,
-    "div_yield": 4.77
+    "forward_pe": 19.0,
+    "div_yield": 4.81
+  },
+  {
+    "date": "2026/10/20",
+    "date_raw": "20261020",
+    "time": "16:00",
+    "code": "7918",
+    "company": "ヴィアHD",
+    "title": "2027年3月期第2四半期(中間期)及び通期連結業績予想の修正に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": -0.5,
+    "op_diff": null,
+    "detail": "20261020_7918.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553281.pdf",
+    "pbr": 3.59,
+    "forward_pe": null,
+    "div_yield": 0.0
   }
 ]
