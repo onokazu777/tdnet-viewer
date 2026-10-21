@@ -226524,5 +226524,22 @@
     "pbr": 3.59,
     "forward_pe": null,
     "div_yield": 0.0
+  },
+  {
+    "date": "2026/10/21",
+    "date_raw": "20261021",
+    "time": "11:30",
+    "code": "296A",
+    "company": "G-令和AH",
+    "title": "2027年3月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 11.34,
+    "op_cur": 36.21,
+    "op_prev": 30.9,
+    "op_diff": 5.31,
+    "detail": "20261021_296A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261020553509.pdf",
+    "pbr": 19.75,
+    "forward_pe": null,
+    "div_yield": 2.99
   }
 ]
