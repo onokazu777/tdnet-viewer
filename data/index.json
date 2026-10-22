@@ -227051,5 +227051,39 @@
     "pbr": 0.82,
     "forward_pe": null,
     "div_yield": 3.13
+  },
+  {
+    "date": "2026/10/22",
+    "date_raw": "20261022",
+    "time": "17:15",
+    "code": "2961",
+    "company": "日本調理機",
+    "title": "2026年9月期通期業績予想及び配当予想の修正(増配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 4.66,
+    "op_diff": null,
+    "detail": "20261022_2961.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261021554202.pdf",
+    "pbr": 0.22,
+    "forward_pe": null,
+    "div_yield": 6.34
+  },
+  {
+    "date": "2026/10/22",
+    "date_raw": "20261022",
+    "time": "17:00",
+    "code": "8700",
+    "company": "丸八証券",
+    "title": "2027年3月期 第2四半期(中間期)決算速報値に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 22.14,
+    "op_diff": null,
+    "detail": "20261022_8700.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261021553892.pdf",
+    "pbr": 0.95,
+    "forward_pe": null,
+    "div_yield": 5.01
   }
 ]
