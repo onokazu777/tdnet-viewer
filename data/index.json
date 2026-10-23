@@ -227646,5 +227646,22 @@
     "pbr": 0.49,
     "forward_pe": null,
     "div_yield": 1.83
+  },
+  {
+    "date": "2026/10/23",
+    "date_raw": "20261023",
+    "time": "19:30",
+    "code": "264A",
+    "company": "G-Schoo",
+    "title": "個別業績予想の修正および連結決算への移行に伴う連結業績予想の公表に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 8.63,
+    "op_diff": null,
+    "detail": "20261023_264A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261023555374.pdf",
+    "pbr": 1.54,
+    "forward_pe": null,
+    "div_yield": 0.0
   }
 ]
