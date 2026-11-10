@@ -257481,5 +257481,22 @@
     "pbr": 1.19,
     "forward_pe": null,
     "div_yield": 4.09
+  },
+  {
+    "date": "2026/11/10",
+    "date_raw": "20261110",
+    "time": "20:00",
+    "code": "6794",
+    "company": "フォスター電",
+    "title": "2027年3月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "rev_chg": 10.26,
+    "op_cur": 4.25,
+    "op_prev": 6.49,
+    "op_diff": -2.24,
+    "detail": "20261110_6794.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261110571634.pdf",
+    "pbr": 1.07,
+    "forward_pe": 28.0,
+    "div_yield": 4.09
   }
 ]
