@@ -262666,5 +262666,22 @@
     "pbr": 0.87,
     "forward_pe": 5.9,
     "div_yield": 2.37
+  },
+  {
+    "date": "2026/11/11",
+    "date_raw": "20261111",
+    "time": "20:00",
+    "code": "3920",
+    "company": "アイビーシー",
+    "title": "2026年9月期決算短信〔日本基準〕(非連結)",
+    "rev_chg": 11.73,
+    "op_cur": 22.75,
+    "op_prev": 23.5,
+    "op_diff": -0.75,
+    "detail": "20261111_3920.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261111573818.pdf",
+    "pbr": 3.52,
+    "forward_pe": null,
+    "div_yield": 1.5
   }
 ]
