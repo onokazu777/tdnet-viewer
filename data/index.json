@@ -287214,5 +287214,39 @@
     "pbr": 2.27,
     "forward_pe": 10.7,
     "div_yield": 3.49
+  },
+  {
+    "date": "2026/11/24",
+    "date_raw": "20261124",
+    "time": "15:30",
+    "code": "156A",
+    "company": "G-マテリアルG",
+    "title": "2026年8月期決算短信〔IFRS〕(連結)",
+    "rev_chg": 38.58,
+    "op_cur": 15.19,
+    "op_prev": 12.83,
+    "op_diff": 2.36,
+    "detail": "20261124_156A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261124585097.pdf",
+    "pbr": 2.71,
+    "forward_pe": null,
+    "div_yield": 3.85
+  },
+  {
+    "date": "2026/11/24",
+    "date_raw": "20261124",
+    "time": "11:30",
+    "code": "296A",
+    "company": "G-令和AH",
+    "title": "通期業績予想及び配当予想の修正(増配)に関するお知らせ",
+    "rev_chg": null,
+    "op_cur": null,
+    "op_prev": 34.85,
+    "op_diff": null,
+    "detail": "20261124_296A.json",
+    "pdf_url": "https://www.release.tdnet.info/inbs/140120261120584474.pdf",
+    "pbr": 12.2,
+    "forward_pe": null,
+    "div_yield": 4.44
   }
 ]
